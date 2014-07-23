@@ -1,0 +1,781 @@
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+/* Basisstylesheet D7                                                  */ 
+/*    Variante von Design D4                                           */
+/*                                                                     */      
+/* Projekt Vorlagenkatalog http://www.vorlagen.uni-erlangen.de  -- - - */
+/*                                                                     */
+/* Grundvorgaben fuer Inhaltselemente im Contentbereich- - - - - - - - */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+/*  ------------------------------------------------------
+BASICS
+--------------------------------------------------------*/
+* {margin:0; padding:0;}
+
+body {
+	font: 100.1% "Verdana", Arial, sans-serif;
+} 
+
+img {
+	border: 0 none;
+}
+
+/*  ------------------------------------------------------
+lang / q
+--------------------------------------------------------*/
+:lang(de) > q	{ quotes: '»' '«' }
+:lang(en) > q	{ quotes: '"' '"' }
+
+   /* Folgendes sollte Default für q sein: */
+q:before		{ content: open-quote }
+q:after		{ content: close-quote }
+
+/*  ------------------------------------------------------
+Allgemeine Klassen
+--------------------------------------------------------*/
+div#content .bildlinks {
+	float:left; 
+	margin: 0px 20px 0px 0px;
+}
+
+div#content .bildrechts {
+	float: right;
+	font-size: 0.7em !important;
+	margin: 0;
+	padding: 1px 6px 0 6px;
+}
+
+.unsichtbar, .u, .u2, .com, .skip {
+	position:absolute;
+	left:-3000px;
+	top:-3000px;
+	width:1px;
+} 
+
+.clear {
+	clear: both; 
+}
+
+.links, .left {
+	text-align: left;
+}
+.rights, rechts {
+	text-align: right;
+}
+.center {
+	text-align: center;
+}
+.oben, .top {
+	vertical-align: top;
+}
+.unten, .bottom {
+	vertical-align: bottom;
+}
+.mitte, .middle {
+	vertical-align: middle;
+}
+/*  ------------------------------------------------------
+LINKICONS
+--------------------------------------------------------*/
+a img {
+	margin: 0 2px 0 0;
+}
+
+/*  ------------------------------------------------------
+ACRONYM
+--------------------------------------------------------*/
+acronym {
+	cursor: help; 
+}
+
+/*  ------------------------------------------------------
+CODE
+--------------------------------------------------------*/
+code {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1em;
+	line-height: 150%;
+}
+code.codeblock {
+	font-family: "Courier New", Courier, monospace;
+	display: block;
+	width: 80%;
+	padding: 10px;
+	margin: 5px 0 5px 10px;
+}
+
+li code, p code, td code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
+	font-size: 1.2em;
+}
+
+/*  ------------------------------------------------------
+PRE
+--------------------------------------------------------*/
+pre {
+	font-size: 1em;
+	width: 98%;
+	overflow: auto;
+	padding: 20px;
+	margin: 0 0 16px 0;
+}
+
+li pre, p pre, td pre, h1 pre, h2 pre, h3 pre, h4 pre, h5 pre, h6 pre {
+	font-size: 1.2em;
+}
+
+pre {
+	font-family: "Courier New", Courier, monospace;
+	display: block;
+	padding: 10px 0;
+}
+
+/*  ------------------------------------------------------
+LINKS
+--------------------------------------------------------*/
+div#content a, 
+div#content a:link {
+	text-decoration: underline;
+}
+
+div#content a:visited {}
+
+div#content a:hover, 
+div#content a:focus, 
+div#content a:active {}
+
+div#content a:focus, 
+div#content a:active {
+	font-weight: bold;
+}
+
+div#content a.externlink, 
+div#content a.externlink:link {
+	text-decoration: underline;
+	padding: 0 0 0 12px;
+}
+
+* html div#content a.externlink, 
+* html div#content a.externlink:link {
+	height: 1%;
+}
+
+div#content a.externlink img {
+	display: none;
+}
+
+div#content a.externlink:hover, 
+div#content a.externlink:focus, 
+div#content a.externlink:active {
+	text-decoration: underline;
+	padding: 0 0 0 12px;
+}
+
+/*  ------------------------------------------------------
+ADDRESS
+--------------------------------------------------------*/
+address {
+	font-style: normal;
+} 
+
+/*  ------------------------------------------------------
+TEXTABSATZ
+--------------------------------------------------------*/
+div#content p {  
+	font-size: 0.76em;
+	line-height: 160%; /*180%*/
+	margin: 0 0 16px 0;
+} 
+
+div#content li p {
+	font-size: 1em;
+}
+div#content p img {  
+	float: left;
+	margin: 0px 20px 0px 0px;
+} 
+/*  ------------------------------------------------------
+HEADLINES
+--------------------------------------------------------*/
+h1, h2, h3, h4, h5, h6 {  
+	font-family: "Tahoma", "Verdana", Arial, Helvetica, sans-serif;
+	letter-spacing: 0.1em;
+}
+
+li h1, li h2, li h3,
+li h4, li h5, li h6 {
+	font-size: 1em !important;
+}
+
+/*  ------------------------------------------------------
+h2
+--------------------------------------------------------*/
+div#content h2 {  
+	font-size: 0.9em;
+	margin: 0 0 8px 0;
+	font-weight: bold;
+	line-height: 160%;
+} 
+
+div#content h2 a, 
+div#content h2 a:link {
+	text-decoration: underline;
+}
+
+div#content h2 a:hover, 
+div#content h2 a:focus, 
+div#content h2 a:active {}
+
+/*  ------------------------------------------------------
+h3 + h4 + h5 + h6
+--------------------------------------------------------*/
+div#content h3, 
+div#content h4, 
+div#content h5, 
+div#content h6 {
+	font-size: 0.76em;
+	margin: 0 0 12px 0;
+}
+
+div#content h3 a, 
+div#content h4 a, 
+div#content h5 a, 
+div#content h6 a {
+	text-decoration: underline;
+}
+
+/*  ------------------------------------------------------
+UNGEORDNETE LISTE
+--------------------------------------------------------*/
+ul {
+	list-style-type: none;
+} 
+
+div#content ul {  
+	margin: 0 0 16px 30px;
+	font-size: 0.76em;
+	line-height: 160%;/*180%*/
+	list-style-type: disc;
+} 
+
+div#content ul ul {  
+	margin: 0 0 16px 30px;
+	font-size: 1em;
+} 
+div#content ul ol { 
+	font-size: 1em;
+}
+/*  ------------------------------------------------------
+GEORDNETE LISTE
+--------------------------------------------------------*/
+div#content ol {
+	margin: 0 0 16px 30px;
+	font-size: 0.76em;
+	line-height: 180%;
+	list-style-type:upper-roman;
+}
+
+div#content ol ol {
+	margin: 0 0 16px 30px;
+	font-size: 1em;
+}
+div#content ol ul { 
+	font-size: 1em;
+}
+/*  ------------------------------------------------------
+DEFINITIONSLISTEN
+--------------------------------------------------------*/
+div#content dl {
+	font-size: 0.76em;
+	margin: 0 0 12px 0;
+}
+
+div#content dd {
+	margin: 0 0 8px 0;
+}
+
+div#content dt {
+	font-weight: bold;
+}
+
+/*  ------------------------------------------------------
+TABELLEN
+--------------------------------------------------------*/
+#content table {
+	margin: 0 0 20px 0;
+	border-collapse: collapse;
+	border-style: solid;
+	border-width: 1px;
+}
+#content table caption {
+	padding: 0 0 5px;
+	font-size: 0.76em;
+	font-style: italic;
+	text-align: left;
+}
+
+#content th {
+	font-size: 0.76em;
+	padding: 6px;
+	text-align: left;
+}
+#content th.reihe {
+	text-align: left; 
+   
+}
+#content th h2 {
+	margin: 1.5em 1em 1em 1em; 
+}
+#content th h3 {
+	margin: 1em 0.5em 0.5em 0.5em; 
+}
+#content tfoot td {
+	font-style: italic;
+}
+#content td {
+	font-size: 0.76em;
+	text-align: left;
+	padding: 6px;
+}
+#content table td p, 
+#content table th p {
+	font-size: 1em;
+}
+#content table td ul li,
+#content table td ol li  {
+	font-size: 1.3em;
+}
+#content table td ul li li ,
+#content table td ol li li  {
+	font-size: 1em;
+}
+
+#content td.rechts,
+#content td.right {
+  	text-align: right;
+}
+#content table td h2 {
+	font-size: 1.4em;
+}
+#content table td h3 {
+	font-size: 1.3em;
+}
+#content table td h4 {
+	font-size: 1.2em;
+}
+#content table td h5 {
+	font-size: 1.1em;
+}
+#content table td h6 {
+	font-size: 1em;
+}
+
+
+/*  ------------------------------------------------------
+Definitionen fuer allgemeine Formulare
+--------------------------------------------------------*/
+input[type=submit],  
+input[type=text],
+textarea, select {
+	padding: 3px 4px;
+	font-family: "Verdana", "Arial",  sans-serif;
+	border-style: solid;
+	border-width: 1px;
+	font-size: 1em;
+}
+
+textarea {
+	width: 99%;
+	font-size: 1em;
+}
+
+input:active, input:focus, 
+textarea:active, textarea:focus, 
+select:active, select:focus {}
+
+form input#submit1, 
+form input#submit2 {
+	padding: 2px;
+}
+
+/*Hack Opera + Safari*/
+html:first-child>b\ody form input#submit1{padding: 3px 4px;}
+
+/*Hack Opera + Safari*/
+html:first-child>b\ody form input#submit2{padding: 3px 4px;}
+
+/*  ------------------------------------------------------
+FIELDSET
+--------------------------------------------------------*/
+fieldset {
+	width: 99%;
+	display: block;
+	margin: 4px 0 20px 0;
+	border-style: solid;
+	border-width: 1px;
+}
+
+fieldset div.abstand {
+	padding: 10px 20px 10px 20px;
+}
+fieldset legend {
+	margin: 0 0 0 24px;
+	font-weight: bold;
+	font-size: 0.76em;
+}
+
+fieldset p, 
+fieldset label, 
+div.eingabe {
+	font-size:0.76em;
+	padding: 0 !important; 
+	margin: 0 0 8px 0 !important; 
+}
+
+fieldset p label {
+	padding: 0 !important; 
+	margin: 0 !important; 
+	font-size:1em;
+}
+#formular .datenzeile, 
+form .zeile {
+	display: block;
+	padding: 5px 0;
+	clear: both;
+}
+#formular .datenart,
+form .datenart,
+form .titel, 
+form .frage {
+	display: block;
+	float: left;
+	width: 10em;
+	padding: 2px 5px 2px 0;
+	margin: 0;	
+}
+#formular .dateneingabe,
+form .eingabe  {
+	display: block;
+	float: left;	
+	width: 55%;
+	margin: 0;	
+}
+
+#formular .dateneingabe input,
+form .eingabe input {	
+	font-weight: bold;
+	padding: 2px 5px;
+}
+
+
+/*  ------------------------------------------------------
+NACH OBEN - LINK
+--------------------------------------------------------*/
+div#content p.noprint {
+	text-align: right;
+}
+div#content p.noprint a,
+div#content p.noprint a:link, 
+div#content p.noprint a:visited {}
+
+/*  ------------------------------------------------------
+INDEXLISTE-NACHOBEN
+--------------------------------------------------------*/
+div.indexliste-nachoben {
+	text-align: right;
+	padding: 3px 0;
+	margin: 12px 12px 0 0;
+	border-top-style: solid;
+	border-top-width: 1px;
+}
+
+div.indexliste-nachoben a,
+div.indexliste-nachoben a:link, 
+div.indexliste-nachoben a:visited {}
+
+/*  ------------------------------------------------------
+INHALTSUEBERSICHT
+--------------------------------------------------------*/
+div#inhaltsuebersicht {}
+
+div#inhaltsuebersicht ul {
+	list-style-type: none;
+	line-height: 200%;
+}
+
+div#inhaltsuebersicht ul li a {}
+div#inhaltsuebersicht ul li a dfn {
+	font-style: normal;
+}
+div#inhaltsuebersicht ul h2 a {} 
+div#inhaltsuebersicht ul h3 a {} 
+div#inhaltsuebersicht ul h4, div#inhaltsuebersicht ul h5 {} 
+div#inhaltsuebersicht ul ul {}
+div#inhaltsuebersicht ul ul ul {}
+
+/*  ------------------------------------------------------
+GLOSSAR
+--------------------------------------------------------*/
+div#glossar div.AlphaNavigation {}
+
+div#glossar div.AlphaNavigation ul {
+	list-style-type: none;
+	margin: 0 0 20px 0;
+	padding:0;
+}
+
+div#glossar div.AlphaNavigation ul li {
+	display: inline;
+	padding: 0 10px 0 0;
+	font-weight: bold;
+}
+
+/*  ------------------------------------------------------
+ALPHABET - LISTE
+--------------------------------------------------------*/
+div#inhaltsuebersicht  div.alphabet-liste {}
+div.alphabet-index div.indexliste-nachoben  {
+	font-size: 0.76em;
+}
+
+div#inhaltsuebersicht  div.alphabet-liste ul {
+	list-style-type: none;
+	margin: 0 0 20px 0;
+	padding:0;
+}
+
+div#inhaltsuebersicht  div.alphabet-liste ul li {
+	font-weight: bold;
+	display: inline;
+	padding: 0 10px 0 0;
+}
+
+/*  ------------------------------------------------------
+ALPHABET - INDEX
+--------------------------------------------------------*/
+div#inhaltsuebersicht  div.alphabet-index {}
+div#inhaltsuebersicht  div.alphabet-index ul {}
+
+/*  ------------------------------------------------------
+Besondere Hinweisboxen
+--------------------------------------------------------*/
+/*  ------------------------------------------------------
+KLEINE BOX RECHTS
+--------------------------------------------------------*/
+div.klein_box_rechts {
+	float: right;
+	margin: 20px;
+	width: 200px; /*inline-styles per php !!*/
+}
+
+div.klein_box_rechts h4 {
+	padding: 4px 6px;
+	margin: 0;
+}
+
+div.klein_box_rechts p {
+	font-size: 0.74em;
+	margin: 0;
+	padding: 1px 6px 3px 6px;
+}
+
+div.box_rechts {
+	float: right;
+	margin: 20px;
+	width: 200px; /*inline-styles per php !!*/
+}
+
+div.box_rechts h4 {
+	padding: 4px 6px;
+	margin: 0;
+}
+
+div.box_rechts p {
+	font-size: 0.74em;
+	margin: 0;
+	padding: 1px 6px 3px 6px;
+}
+/*  ------------------------------------------------------
+KLEINE BOX LINKS
+--------------------------------------------------------*/
+div.klein_box_links {
+	float: left;
+	margin: 20px;
+	width: 200px; /*inline-styles per php !!*/
+}
+
+div.klein_box_links h4 {
+	padding: 4px 6px;
+	margin: 0;
+}
+
+div.klein_box_links p {
+	font-size: 0.74em;
+	margin: 0;
+	padding: 1px 6px 3px 6px;
+}
+
+div.box_links {
+	float: left;
+	margin: 20px;
+	width: 200px; /*inline-styles per php !!*/
+}
+
+div.box_links h4 {
+	padding: 4px 6px;
+	margin: 0;
+}
+
+div.box_links p {
+	font-size: 0.74em;
+	margin: 0;
+	padding: 1px 6px 3px 6px;
+}
+
+/*  ------------------------------------------------------
+VOLLBOX
+--------------------------------------------------------*/
+div.vollbox {
+	margin: 10px 0 20px 0;
+	width: 300px; /*inline-styles*/
+	border-width: 1px;
+	border-style: solid;
+}
+
+div.vollbox h4 {
+	padding: 4px 6px 0 6px;
+	margin: 0;
+}
+
+div.vollbox p {
+	font-size: 0.7em !important;
+	margin: 0  0 6px 0 !important;
+	padding: 1px 6px 0 6px;
+	line-height: 120% !important;
+}
+
+div.box img {
+	float: left;
+	margin: 0 10px 0 0;
+	padding: 4px;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#content .klein_box_rechts{ 
+	background-color: #fff; 
+	border: 1px solid #eee;
+}
+#content .klein_box_links{
+	background-color:#fff;
+	border: 1px solid #eee;
+}
+#content .box_rechts{ 
+	background-color:#fff; 
+	border: 1px solid #eee;
+}
+#content .box_links{
+	background-color:#fff;
+	border: 1px solid #eee;
+}
+
+
+#content div.hinweis_wichtig {
+	float:left;
+	position:relative; /*fuer IE < 6 */
+	width: 220px;
+	font-size:.8em;
+	font-weight:600;   
+	line-height:1.2em;
+	padding: 2px 2px 2px 55px;   
+	margin: 1em;
+}
+#content div.hinweis_wichtig {
+	border: 1px solid red;	
+	background-image: url("http://www.vorlagen.uni-erlangen.de/img/important.png");
+	background-repeat: no-repeat;
+	background-position: left center; 	
+}
+#content div.hinweis_wichtig h3, 
+#content div.hinweis_wichtig h4 {
+	font-weight: bold;
+	font-size: 1.2em;	
+}
+#content div.hinweis_wichtig p {
+	font-weight: normal;
+	font-size: 1em;	
+}
+#content div.hinweis {
+	float:left;
+	font-size:.9em;
+	line-height:1em;
+	padding:2px 2px 2px 55px;   
+	margin: 1em;
+	width: 300px;
+}
+#content div.hinweis h3, 
+#content div.hinweis h4 {
+	font-weight: bold;
+	font-size: 1.1em;
+}
+#content div.hinweis {
+	border: 1px solid #ccc;
+	background-image: url("http://www.vorlagen.uni-erlangen.de/img/ktip.png");
+	background-repeat: no-repeat;
+	background-position: left center; 	
+}
+#content div.hinweis p {
+	font-weight: normal;
+	font-size: 0.8em;
+}
+#content div.hinweisrechts,
+#content div.hinweis_rechts {
+	float: right;
+	font-size: 0.9em;
+	padding:2px 2px 2px 55px;
+	margin: 1em;
+	width: 40%;
+}
+#content div.hinweisrechts,
+#content div.hinweis_rechts  {
+	border: 1px solid #ccc;
+	background-image: url("http://www.vorlagen.uni-erlangen.de/img/ktip.png");
+	background-repeat: no-repeat;
+	background-position: left center; 	
+}
+#content div.hinweisrechts h3, 
+#content div.hinweis_rechts h3, 
+#content div.hinweisrechts h4,
+#content div.hinweis_rechts h4 {
+	font-weight: bold;
+	font-size: 1.1em;	
+}
+#content div.hinweisrechts p,
+#content div.hinweis_rechts p {
+	font-weight: normal;
+	font-size: 0.8em;
+}
+#content div.baustelle {
+	float:left;
+	position:relative; /*fuer IE < 6 */
+	width: 220px;
+	font-size:.8em;
+	font-weight:600;   
+	padding:2px 2px 2px 55px;
+	margin: 1em;   
+}
+#content div.baustelle {
+	border: 1px solid black;	
+	background-image: url("http://www.vorlagen.uni-erlangen.de/img/package_settings.png");
+	background-repeat: no-repeat;
+	background-position: left center; 	
+}
+
+#content div.baustelle h3, 
+#content div.baustelle h4 {
+	font-weight: bold;
+	font-size: 1.2em;	
+}
+#content div.baustelle p {
+	font-weight: normal;
+	font-size: 1em;	
+}

@@ -1,0 +1,474 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>RRZE Icon Set - Icon Inspector</title>
+
+
+  <style type="text/css" media="all">
+@import url("./css/default.css");
+@import url("./css/site.css");
+  </style>
+  <link rel="stylesheet" href="./css/print.css" type="text/css" media="print" />
+
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+
+</head>
+
+
+	<body id="start">
+
+<div id="seite">
+<div id="kopf">
+<div id="logo">
+<p><a href="index.html">RRZE Icon Set</a></p>
+
+</div>
+
+<div id="breadcrumb">
+<h2> <a href="http://developer.berlios.de/projects/rrze-icon-set/">BerliOS
+Page</a> <img alt=" " src="http://www.vorlagen.uni-erlangen.de/img/breadcrumbarrow.gif" height="9" width="20" /> <a href="index.html">RRZE
+Icon Set</a> <img alt=" " src="http://www.vorlagen.uni-erlangen.de/img/breadcrumbarrow.gif" height="9" width="20" /> Icon Inspector </h2>
+
+</div>
+
+<div id="hauptmenu">
+<ul>
+
+  <li>Version: 2.5</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div id="main">
+<div id="menu">
+<div id="bereichsmenu">
+<ul id="navigation">
+
+  <li><a href="index.html">Start</a>
+    <ul id="hauptnavigation">
+
+      <li class="none"> <a href="introduction.html">Introduction</a>
+      </li>
+
+      <li class="none"> <a href="tango/overview.html">Icon Overview (Tango)</a>
+      </li>
+
+      <li class="none"> <a href="tango/gallery.html">Gallery (Tango)</a>
+      </li>
+      
+      <li class="none"> <a href="monocrom/overview.html">Icon Overview (Monocrom)</a>
+      </li>
+
+      <li class="none"> <a href="monocrom/gallery.html">Gallery (Monocrom)</a>
+      </li>
+
+
+      <li class="none"> <span class="aktiv">Icon Inspector</span>
+		  <ul class="submenu">
+			  <li class="firstchild"><a href="#quick_usage">Quick usage</a></li>
+			  <li><a href="#introduction">Introduction</a></li>
+			  <li><a href="#requirements">Requirements</a></li>
+			  <li><a href="#features">Features</a></li>
+			  <li class="lastchild"><a href="#notes">Notes</a></li>
+		  </ul>
+      </li>
+      
+	  <li class="none"> <a href="download.html">Download</a>
+      </li>
+
+      <li class="none"> <a href="licence.html">Licence</a>
+      </li>
+
+      <li class="none"> <a href="team.html">Team</a>
+      </li>
+
+      <li class="none"> <a href="press.html">Press</a>
+      </li>
+
+      <li class="none"> <a href="links.html">Links</a>
+      </li>
+
+    </ul>
+
+  </li>
+
+</ul>
+
+</div>
+
+<!-- Bereichsmenu -->
+<div id="kurzinfo">
+<p> <a href="http://www.rrze.uni-erlangen.de/" title="RRZE" class="poweredBy" target="_blank"><img class="poweredBy" alt="Suported by RRZE" src="images/stempel-supported-by-RRZE_77x77.png" height="77" width="77" /> </a> </p>
+
+<p> <a href="http://developer.berlios.de" id="bannerRight" target="_blank"> <img src="http://developer.berlios.de/bslogo.php?group_id=10773" alt="RRZE Icon Set" /> </a> </p>
+
+<p> <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank"><img alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+</p>
+
+</div>
+
+</div>
+
+<!-- Menu -->
+<a name="content"></a>
+<div id="content">
+
+
+<div class="section">
+<h2>Icon Inspector</h2>
+<img style="float: right;" alt="Icon Inspector" src="images/icon-inspector.png" height="150" width="150" />
+
+<p>
+It is recommended for all contributors to check their local changes to the RRZE Icon
+Set with the Icon Inspector script for conformity with the RRZE Icon Set guidelines.
+This way the repository can easily be kept clean and tidy. 
+</p>
+<p>
+The following sections are a HTML-ized version of the README file that is included
+in the Icon Inspector script.
+</p>
+<br/>
+
+
+
+<a name="quick_usage"></a>
+<h3>0. Quick Usage</h3>
+<p>
+<img style="float: right;padding-left: 15px;" alt="Subversion Logo" src="images/subversion_logo_hor-237x32.png" height="32" width="237" />
+The Icon Inspector is included within the RRZE Icon Set Subversion repository.
+If you want to use the Icon Inspector, you can obtain it by using the following command:<br />
+
+<code>svn checkout svn://svn.berlios.de/rrze-icon-set/trunk/scripts/rrze_icon_inspector</code>
+
+</p>
+<p>
+After downloading the Icon Inspector adjust the settings in the <code>config.php</code> file 
+to your needs. <br/>
+The file is well commented and should (hopefully) be self-explanatory.
+</p>
+<p>
+Always start the Icon Inspector via the included <code>inspect.sh</code> or the <code>ginspect.sh</code> (GTK version) script. This
+will redirect all error/debug output to the <code>errors.log</code> file for later 
+evaluation.
+</p>
+<p>
+After the script run has been completed you can open the <code>errors.log</code> file in your
+favorite text editor to see what problems were found, if there are any.
+</p>
+<p class="noprint">
+          <a href="#content">Up</a>
+</p> 
+
+
+
+<a name="introduction"></a>
+<h3>1. Introduction</h3>
+<p>
+The <a href="http://www.rrze.uni-erlangen.de/">Regional Computing Centre Erlangen (RRZE)</a> provides and maintains an icon set especially created for IT topics. The set is free to use under the popular
+creative commons licence (see <a href="http://rrze-icon-set.berlios.de">http://rrze-icon-set.berlios.de</a>).
+</p>
+<p>
+Out of this project, the need for a tablerized overview of all available
+icons in the set arose. 
+The icon set is created by using <a href="http://www.inkscape.org/">Inkscape</a> and its scalable SVG format. The 
+metadata included in these SVG images can be easily maintained by the icon 
+designers and provides an easy way to store additional information about a 
+specific icon.
+</p>
+<p>
+The Icon Inspector can extract this information directly from the base
+SVG files and can use it to create an extensive and clear compendium of all icons
+within the set (see <a href="http://rrze-icon-set.berlios.de/gallery.html">http://rrze-icon-set.berlios.de/gallery.html</a>).
+</p>
+<p>
+Additionally it also checks the icon structure for errors like missing fixed
+size icons, misplaced files and so on.
+</p>
+<p class="noprint">
+          <a href="#content">Up</a>
+</p> 
+
+
+<a name="requirements"></a>
+<h3>2. Requirements</h3>
+<p>
+The Icon Inspector is completely written in <a href="http://www.php.net/">PHP</a>. It was developed using
+<a href="http://www.eclipse.org/">Eclipse PDT</a>.
+The target operating system to run the Icon Inspector is <a href="http://www.linux.org/">LINUX</a>.
+</p>
+
+<p>
+Requirements are
+</p>
+<ul>
+	<li><b>php-5.2.10</b> and</li>
+	<li><b>Inkscape</b> (only if you need auto creation of missing fixed scale icons)</li>
+</ul>
+<p>
+compiled with (at least) the 
+</p>
+<ul>
+	<li><b>cli</b></li>
+	<li><b>simplexml</b> and</li> 
+	<li><b>pcre</b></li>
+</ul>
+<p>
+flags.<br/>
+If you want to give the GTK2 GUI version a shot you also need the
+</p>
+<ul>
+	<li><b>php-gtk2</b></li>
+</ul>
+<p>
+extension.<br/>
+Because php-gtk2 extension is still considered unstable in most distributions it might not be that easy to obtain.
+A good starting point is the <a href="http://gtk.php.net/">PHP-GTK homepage</a> or the <a href="http://php-gtk.eu/">PHP-GTK community page</a>.<br/>
+If you do not like to compile it yourself: The steps described <a href="http://php-gtk.eu/en/ubuntu-repository-with-php-gtk">here</a> worked for me under Ubuntu Jaunty.
+</p>
+
+<p>
+Note that these requirements were pulled out of my development environment and
+are neither verified nor aim to be complete. 
+</p>
+<p>
+To be clear: It may be that other PHP extensions are also needed and the script
+may also run with a different (lower) version of PHP. This has not been extensively tested!
+</p>
+<p class="noprint">
+          <a href="#content">Up</a>
+</p> 
+
+
+
+<a name="features"></a>
+<h3>3. Features</h3>
+<h4>3.1 Icon overview</h4>
+<p>
+In order to generate the icon overview table the Icon Inspector uses a
+very simple template system. 
+Basically the templates are stored in the templates/ directory and the output
+is placed in the generated/ directory.
+All the assembling takes place in the <code>rrze_icon_inspector.php</code> file. 
+</p>
+
+<h4>3.2 Conformity checks</h4>
+<p>
+Besides the overview the Icon Inspector also checks all gathered data 
+against the RRZE Icon Set requirements and collects a list of deviations 
+from these requirements within the <code>errors.log</code> file.
+</p>
+<p>
+Some of the possible problems, currently beeing checked, are
+<ul>
+	<li>if all required fixed scale icons are available</li>
+	<li>if there are fixed scale icons without a scalable SVG</li>
+	<li>if all SVGs have a 'title' and 'keywords' field set in their metadata</li>
+	<li>if the 'title' field "correlates" with the icon filename (see 3.6 for further info)</li>
+	<li>if all files are correctly placed within the folder structure</li>
+</ul>
+</p>	
+	
+<h4>3.3 Auto-creation of fixed size icons</h4>
+<p>
+If you activate it in the <code>config.php</code> file and have Inkscape installed, the 
+Icon Inspector can also auto-generate all missing fixed size icons for you.
+The target format will be PNG. The auto-generation action will be logged to the
+errors.log file as a note. 
+</p>
+
+<h4>3.4 Multiple detail levels support</h4>
+<p>
+Usually icon creaters design their icons scaled to full screen and with much
+love for details. These details may disappear or even worse make the icon 
+undecipherable for the user when scaled down. 
+Especially with very small icon sizes, like 16x16, the need for a less detailed
+icon version grew, to ensure the icon's message can still be communicated to
+the user.
+</p>
+<p>
+Therefore the Icon Inspector also supports multiple detail versions of the
+same icon. To use this feature just store the scalable SVG of each detail level
+within the fixed size directory of its intended minimum size instead of storing 
+it in the scalable/ directory and the icon inspector will automatically
+recognize it.
+Additionally it is suggested to store a master/highest detail scalable in the 
+scalables/ directory.
+</p>
+<p>
+Here are some examples to clarify the above.
+</p>
+<p>
+<b>Single detail</b> example:
+<pre>
+tango/
+   scalable/
+      actions/
+         action-undo.svg (&lt;-- one scalable for all sizes)
+      categories/
+      ...
+   16x16/
+      actions/
+         action-undo.png
+      categories/
+      ...
+   32x32/
+      actions/
+         action-undo.png
+      categories/
+      ...
+   ...
+</pre>
+</p>
+<p>
+<b>Multi detail</b> example:
+<pre>
+tango/
+   scalable/
+      actions/
+         action-undo.svg (&lt;-- master/highest detail scalable)
+      categories/
+      ...
+   16x16/
+      actions/
+         action-undo.svg (&lt;-- scalable for 16x16 and below)
+         action-undo.png
+      categories/
+      ...
+   32x32/
+      actions/
+         action-undo.svg (&lt;-- scalable for 32x32 and below)
+         action-undo.png
+      categories/
+      ...
+   ...
+</pre>
+</p>
+
+<h4>3.5 Privacy protection</h4>
+<p>
+Inspired by Sebastian Pipping's <a href="http://git.goodpoint.de/?p=svgstrip.git;a=summary">svgstrip</a> script (see also <a href="https://bugs.launchpad.net/inkscape/+bug/168958">"Privacy concern with export-filename and sodipodi:absref"</a>) the Icon Inspector removes certain attributes from Inkscape's SVG files which contain some information about the local system which may be considered a privacy concern.
+</p>
+<p>
+The attributes beeing removed are 
+<ul>
+<li><code>sodipodi:absref</code> from the <code>svg</code> tag</li>
+<li><code>sodipodi:docname</code> from the <code>svg</code> tag</li>
+<li><code>sodipodi:docbase</code> from the <code>svg</code> tag</li>
+<li><code>inkscape:export-filename</code> from all tags</li>
+</ul>
+</p>
+
+<h4>3.6 Automatic metadata generation</h4>
+<p>
+As the first feature in the line of automatic metadata generation, the SVG's title element
+can now be automatically fixed.
+If activated in the config.php file the title element will be set to the SVG's filename
+without extension and all '_' and '-' replaced with whitespace.
+</p>
+<p>
+Example: account-delete.svg will get the title set to "account delete"
+</p>
+
+
+<p class="noprint">
+          <a href="#content">Up</a>
+</p> 
+
+
+<a name="notes"></a>
+<h3>4. Notes</h3>
+<p>
+The Icon Inspector has only been real-world tested with SVG as the source
+scalable format and PNG as the target fixed-size format. 
+</p>
+<p>
+However it SHOULD work with others, too. 
+</p>
+<p>
+Currently the Icon Inspector recognises the following file extensions as
+pictures. Files with deviating extensions will be filtered and NOT be processed
+at all.
+</p>
+<p>
+Recognised extensions:
+</p>
+<ul>
+	<li>png</li>
+	<li>gif</li>
+	<li>jpg</li> 
+	<li>jpeg</li> 
+	<li>tif</li>
+	<li>bmp</li>
+	<li>xcf</li>
+	<li>xcf.bz2</li>
+	<li>svg</li>
+</ul>
+<p>
+Additionally files with the following extensions are considered 'scalables' and
+treated as such internally.
+</p>
+<p>
+Recognised scalables:
+</p>
+<ul>
+	<li>svg</li>
+	<li>xcf</li>
+	<li>xcf.bz2</li>
+</ul>
+<p>
+Hidden files and directories -- those prefixed with a dot '.' -- are also 
+ignored.
+</p>
+<p>
+For compatibility with popular revision control systems '.svn' and 'CVS' directories are ignored by default.
+</p>
+<p class="noprint">
+          <a href="#content">Up</a>
+</p> 
+
+
+</div>
+
+
+</div>
+
+</div>
+
+<!--Main-->
+<div id="footer">
+<p> Last Published: 24.02.2014 </p>
+
+<p>&copy; 2014 RRZE </p>
+
+<div id="footerinfos">
+<div id="tecmenu">
+<h2 class="u"> <a id="hilfemarke" name="hilfemarke" shape="rect"> Technical Menu</a>
+</h2>
+
+<ul>
+
+  <li class="none"> <a href="https://developer.berlios.de/projects/rrze-icon-set/">BerliOS
+Page</a> </li>
+
+  <li class="none"> <a href="contact.html">Contact</a>
+  </li>
+
+  <li class="none"> <a href="impressum.html">Impressum</a>
+  </li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- Seite -->
+</body>
+</html>

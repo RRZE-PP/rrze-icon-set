@@ -1,0 +1,346 @@
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+/* Basisstylesheet D7                                                  */ 
+/*     Variante von Design D4                                          */
+/*                                                                     */      
+/* Projekt Vorlagenkatalog http://www.vorlagen.uni-erlangen.de  -- - - */
+/*                                                                     */
+/* Grundvorgaben fuer Farben und Grafikenm                             */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+/*  ------------------------------------------------------
+SEITE
+--------------------------------------------------------*/
+div#seite { 
+	border-color: #fff;
+} 
+
+/*  ------------------------------------------------------
+KOPF MIT LOGO
+--------------------------------------------------------*/
+div#kopf {
+}
+div#kopf div#logo p {
+	color: white;
+}
+div#kopf div#logo p a {
+	color: white;
+}
+
+/*  ------------------------------------------------------
+KOPF MIT TITEL
+--------------------------------------------------------*/
+div#kopf div#titel h1 {
+	color: #B00E0E;
+}
+
+/*  ------------------------------------------------------
+KOPF MIT BREADCRUMB
+--------------------------------------------------------*/
+div#kopf div#breadcrumb p strong {
+	color: #003366;
+}
+div#kopf div#breadcrumb a,
+div#kopf div#breadcrumb a:link {
+	color: #003366;
+}
+div#kopf div#breadcrumb a:visited {
+	color: #003366;
+}
+div#kopf div#breadcrumb p span.acckey {
+	color: #666;
+}
+
+/*  ------------------------------------------------------
+KOPF MIT HAUPTMENUE
+--------------------------------------------------------*/
+div#kopf div#hauptmenu {
+	border-bottom-color: #ABB5BB;
+}
+div#kopf div#hauptmenu ul {
+	border-bottom-color: #48546A;
+}
+div#kopf div#hauptmenu ul li a:link,
+div#kopf div#hauptmenu ul li a:visited, 
+div#kopf div#hauptmenu ul li span {
+	color: #023465
+}
+div#kopf div#hauptmenu ul li a:hover,
+div#kopf div#hauptmenu ul li a:active, 
+div#kopf div#hauptmenu ul li a:focus, 
+div#kopf div#hauptmenu ul li span {
+	background: #4B5167;
+	color: #E8F2F3;
+}
+
+/*  ------------------------------------------------------
+MAIN
+--------------------------------------------------------*/
+div#main {
+	background: url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/bg_main.gif") repeat-x left top;
+	border-color: #fff;
+}
+
+/*  ------------------------------------------------------
+Definitionen fuer allgemeine Formulare
+--------------------------------------------------------*/
+input, textarea, select {
+	border-color: #9E9D9D;
+	background: #fff;
+	color: #333;
+}
+
+/*  ------------------------------------------------------
+FIELDSET
+--------------------------------------------------------*/
+fieldset {
+	background: #F0F0F0;
+	border-color: #9E9D9D;
+}
+fieldset legend {
+	color: #333;
+}
+
+/*  ------------------------------------------------------
+MAIN - BEREICHSMENUE
+--------------------------------------------------------*/
+div#menu div#bereichsmenu  {
+	border-color: #d1d1d1;
+}	
+ul#navigation li {
+	border-color: #d1d1d1;
+}
+
+ul#navigation li a,
+ul#navigation li a:link  {
+	color: #000;
+	border-left-color: #B51D1D;
+	border-top-color: #fff;
+	background: #F0F0F0 url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/bullet.gif") no-repeat 98% 50%;
+}
+ul#navigation li a:hover, 
+ul#navigation li a:focus, 
+ul#navigation li a:active {
+	background: #F0F0F0 url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/bullet_h.gif") no-repeat 98% 50%;
+	color: #B00E0E;
+}
+
+ul#navigation li span.aktiv {
+	border-left-color: #B51D1D;
+	background: #fff url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/bullet_down.gif") no-repeat 98% 50%;
+}
+
+ul#navigation li .infolink:hover .infotext {
+	color: #000;
+	border: 1px solid #d1d1d1;
+	background: #F0F0F0 url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/bullet.gif") no-repeat 98% 50%;
+}
+
+/* Fuer eine zweite Ebene */
+ul#navigation ul#hauptnavigation li a {
+	border-left-color: #0E4584;
+	background: #F0F0F0;
+}
+ul#navigation ul#hauptnavigation li a:hover, 
+ul#navigation ul#hauptnavigation li a:focus, 
+ul#navigation ul#hauptnavigation li a:active {
+	color: #0E4584;
+}
+
+ul#navigation ul#hauptnavigation li span.aktiv {
+	border-left-color: #0E4584;
+	background: #fff url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/bullet_down.gif") no-repeat 98% 50%;
+}
+
+
+/* Fuer eine dritte Ebene */
+ul#navigation ul#hauptnavigation ul li a, 
+ul#navigation ul#hauptnavigation ul li span {
+	border-left-color: #A9B9C6;
+	background: #fff;
+}
+
+ul#navigation ul#hauptnavigation ul li a:hover, 
+ul#navigation ul#hauptnavigation ul li a:active, 
+ul#navigation ul#hauptnavigation ul li a:focus {
+	color: #666;
+}
+
+ul#navigation ul#hauptnavigation ul li span.aktiv {
+	border-left-color: #A9B9C6;
+}
+
+/*  ------------------------------------------------------
+MAIN - MENU - KURZINFO
+--------------------------------------------------------*/
+div#main div#menu div#kurzinfo p {
+	color: #666;
+}
+
+/*  ------------------------------------------------------
+TABELLEN
+--------------------------------------------------------*/
+table {
+	background: #F0F0F0 url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/white.gif") repeat-x 0 0;
+	border-color: #d1d1d1;
+}
+table caption {
+	color: #48546A;
+}
+th {
+	color: #333;
+}
+td {
+	color: #666;
+}
+tr.a /*eins*/{
+	background-color: transparent;
+}
+tr.b /*zwei*/{
+	background-color: #fff;
+}
+/*  ------------------------------------------------------
+FOOTER
+--------------------------------------------------------*/
+div#footer {
+ 	background: url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/bg_footer.gif") repeat-x top left;
+}
+div#footer h2 {
+	color: #333;
+}
+div#footer h3 {
+	color: #666;
+}
+div#footer p {
+ 	color: #666;
+}
+
+/*  ------------------------------------------------------
+FOOTER - FOOTERINFOS - TECMENUE
+--------------------------------------------------------*/
+div#footer div#footerinfos div#tecmenu ul li span,
+div#footer div#footerinfos div#tecmenu ul li a, 
+div#footer div#footerinfos div#tecmenu ul li a:link {
+	color: white;
+}
+
+div#footer div#footerinfos div#tecmenu ul li span {
+	color: white;
+	text-decoration: underline;
+}
+
+/*  ------------------------------------------------------
+LINKS
+--------------------------------------------------------*/
+div#content a,
+div#content a:link {
+	color: #48546A;
+}
+div#content a:visited {
+	color: #666;
+}
+div#content a:hover,
+div#content a:focus, 
+div#content a:active {
+	color: #B00E0E;
+}
+div#content a:focus,
+div#content a:active {
+	color: #B00E0E;
+}
+
+div#content a.externlink, 
+div#content a.externlink:link {
+	color: #48546A;
+	background: url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/extern.gif") no-repeat 0 50%;
+}
+
+div#content a.externlink:hover, 
+div#content a.externlink:focus, 
+div#content a.externlink:active {
+	color: #B00E0E;
+	background: url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/extern_h.gif") no-repeat 0 50%;
+}
+
+/*  ------------------------------------------------------
+h2
+--------------------------------------------------------*/
+div#content h2 {
+	color: #48546A;
+} 
+
+div#content h2 a, 
+div#content h2 a:link {
+	color: #48546A;
+}
+
+div#content h2 a:hover, 
+div#content h2 a:focus, 
+div#content h2 a:active {
+	color: #B00E0E;
+}
+
+/*  ------------------------------------------------------
+h3 + h4 + h5 + h6
+--------------------------------------------------------*/
+div#content h3, div#content h4,
+div#content h5, div#content h6 {
+	color: #333;
+}
+
+div#content h3 a, div#content h4 a, 
+div#content h5 a, div#content h6 a {
+	color: #333;
+}
+
+div#content h3 a:hover, div#content h3 a:focus, div#content h3 a:active, 
+div#content h4 a:hover, div#content h4 a:focus, div#content h4 a:active, 
+div#content h5 a:hover, div#content h5 a:focus, div#content h5 a:active,
+div#content h6 a:hover, div#content h6 a:focus, div#content h6 a:active {
+	background: url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/bullet_h.gif") no-repeat 0 50%;
+	color: #666;
+}
+
+/*  ------------------------------------------------------
+DEFINITIONSLISTEN
+--------------------------------------------------------*/
+div#content dl {
+	color: #333;
+}
+
+/*  ------------------------------------------------------
+KLEINE BOX RECHTS
+--------------------------------------------------------*/
+div.klein_box_rechts {
+	background: #F0F0F0 url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/white.gif") repeat-x 0 0;
+	border-color: #d1d1d1;
+}
+
+/*  ------------------------------------------------------
+VOLLBOX
+--------------------------------------------------------*/
+div.vollbox {
+	background: #F0F0F0 url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/white.gif") repeat-x 0 0;
+	border-color: #d1d1d1;
+}
+
+/*  ------------------------------------------------------
+BOX (THUMBNAILS)
+--------------------------------------------------------*/
+div.box img {
+	background: #F0F0F0 url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/white.gif") repeat-x 0 0;
+	border-color: #d1d1d1;
+}
+
+/*  ------------------------------------------------------
+INDEXLISTE-NACHOBEN
+--------------------------------------------------------*/
+div.indexliste-nachoben {
+	border-color: #d1d1d1;
+}
+
+/*  ------------------------------------------------------
+Allgemeine Klassen
+--------------------------------------------------------*/
+.rot {
+	color: #B00E0E;
+}

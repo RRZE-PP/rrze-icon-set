@@ -1,0 +1,166 @@
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+/* Tool-Stylesheet fuer Design D7                                      */
+/*                                                                     */
+/* Projekt Vorlagenkatalog http://www.vorlagen.uni-erlangen.de  -- - - */
+/*                                                                     */
+/* Grundvorgaben fuer optionale Ausgaben von Anwendungen - - - - - - - */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
+/* Spezialstylesheet fuer Ausgaben aus UnivIS */
+
+#univis-personenindex {
+}
+
+#univis-personenindex .org .organization-name {
+	display: none;
+}
+
+#univis-personenindex  .dumpdata {
+	font-size: 0.8em;
+	background-color: #eee;
+	border: 1px solid #aaa;
+}
+
+#univis-personenindex ul.groupindex-alpha {    
+	padding: 0.5em;
+	background-color: #eaeaea;
+	border: 1px solid #ccc;
+}
+#univis-personenindex ul.groupindex-alpha li {
+	display: inline;
+	list-style: none;
+	padding: 0.2em;    
+}
+#univis-personenindex ul.groupindex-alpha li a {
+	border: 4px solid #ccc;
+
+}
+#univis-personenindex ul.groupindex-alpha li a:hover {
+	border: 4px solid #bf007f;
+}
+
+#univis-personenseite address {
+	margin-left: 2em;
+}
+#univis-personenseite ul.kontakt {
+	list-style-position: inside;
+}
+#univis-personenseite ul.kontakt li {
+	margin-left: 2em;
+}
+#univis-personenseite div.publications li h3,
+#univis-personenseite div.lectures li h3 {
+	display: inline;
+	background: #f9f9f9;
+	margin: 0.5em;
+	padding: 0;
+}
+#univis-personenseite div.publications div.pubdetails,
+#univis-personenseite div.lectures div.lvdetails {
+	display: inline;
+	margin-left: 1em;
+}
+
+/* Meldungen aus dem Feed-Import-Tools */
+/* Ergaenzungen zu den RSS-News */
+
+div.feedrahmen {
+}
+
+div.feedrahmen h2 {
+	padding: 0px 6px 0 0px;
+	margin: 0px 0 0px 0;
+	font-weight:700;
+	line-height:140%;
+}
+
+div.feedrahmen .feedeintrag {
+/*	border: 1px solid #d1d1d1; */
+	margin: 1em 1em 1.5em;
+}
+
+div.feedeintrag h3,
+div.feedeintrag h4,
+div.feedeintrag h5{
+ 	background: #f0f0f0 url("http://www.vorlagen.uni-erlangen.de/grafiken/d7/bg_hm.gif") repeat-x left -50px ;
+	padding: 0.5em;
+	display: block;
+	font-weight: bold;
+}
+div#content div.feedeintrag p,
+div.feedeintrag p,
+div.feedeintrag div.feedcontent p,
+div#content div.feedeintrag div.feedcontent p,
+div.feedeintrag div.feedlink p,
+div#content div.feedeintrag div.feedlink p{
+	font-size: 0.7em;
+	padding-left: 0.5em;
+	margin: 0.2em;
+}
+div.feedeintrag p.datum,
+div.feedeintrag div.feedcontent p.datum,
+div#content div.feedeintrag div.feedcontent p.datum,
+div.feedeintrag div.feedlink p.datum{
+	color: #555;
+	font-style: oblique;
+}
+div.feedeintrag p strong {
+	font-weight: bold;
+}
+div.feedeintrag img {
+	float: right;
+	margin:0px 0px 0px 5px;
+}
+
+/*  ------------------------------------------------------
+FOOTER - FOOTERINFOS - ZUSATZINFO - STYLESWITCHER
+--------------------------------------------------------*/
+div#footer div#footerinfos div#zusatzinfo div.styleswitcher ul {  
+	margin: 0 0 12px 0;
+} 
+div#footer div#footerinfos div#zusatzinfo div.styleswitcher ul  li a {  
+	font-size: 0.76em;
+	text-decoration: underline;
+	padding: 0 0 0 8px;
+} 
+
+div#footer div#footerinfos div#zusatzinfo div.styleswitcher ul  li a:focus, 
+div#footer div#footerinfos div#zusatzinfo div.styleswitcher ul  li a:active {  
+	font-weight: bold;
+} 
+
+/*  ------------------------------------------------------
+MELDUNGEN
+--------------------------------------------------------*/
+div.meldungen-rechts, div.meldungen-links{
+	width: 48%; 
+	float:left;
+}
+
+
+div.meldungen {
+	margin: 5px 10px 0px 0;
+	/*inline-styles*/
+	/*padding:4px;*/
+	border-width: 0px 0px 1px 0px;
+	border-style: solid; 
+}
+div.meldungen h2 {
+	padding: 0px 6px 0 0px;
+	margin: 0px 0 0px 0;
+	font-size:0.76em !important;
+	font-weight:700;
+	line-height:140%;
+}
+
+div.meldungen p {
+	font-size: 0.76em !important;
+	margin: -2px  0 14px 0 !important;
+	padding: 0px 6px 0 0px;
+	line-height: 140% !important;
+}
+div.meldungen img {
+	float:right;
+	margin:0px 0px 0px 5px;
+}
