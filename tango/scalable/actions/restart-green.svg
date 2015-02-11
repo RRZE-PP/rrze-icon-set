@@ -19,10 +19,10 @@
    sodipodi:version="0.32"
    width="210mm"
    version="1.1"
-   sodipodi:docname="pause.svg"
-   inkscape:export-filename="/Users/Franzi/github/rrze-icon-set/tango/720x720/actions/pause.png">
+   sodipodi:docname="restart-green.svg"
+   inkscape:export-filename="/Users/Franzi/github/rrze-icon-set/tango/720x720/actions/restart-green.png">
   <title
-     id="title3832">pause</title>
+     id="title3950">restart green</title>
   <defs
      id="defs3">
     <linearGradient
@@ -92,17 +92,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3177"
-       id="linearGradient3018"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9843536,0,0,0.9843536,-8.793968,28.114481)"
-       x1="356.35681"
-       y1="164.76173"
-       x2="425.96066"
-       y2="646.65405" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3177"
-       id="linearGradient3032"
+       id="linearGradient3017"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.9843536,0,0,0.9843536,-8.793968,28.114481)"
        x1="356.35681"
@@ -115,8 +105,8 @@
      borderopacity="1.0"
      id="base"
      inkscape:current-layer="layer1"
-     inkscape:cx="312.85029"
-     inkscape:cy="316.25043"
+     inkscape:cx="454.08303"
+     inkscape:cy="405.01259"
      inkscape:document-units="mm"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -124,7 +114,7 @@
      inkscape:window-width="1241"
      inkscape:window-x="3"
      inkscape:window-y="0"
-     inkscape:zoom="0.35"
+     inkscape:zoom="0.49497475"
      pagecolor="#ffffff"
      showgrid="false"
      showguides="true"
@@ -149,7 +139,7 @@
        id="guide3011" />
     <sodipodi:guide
        orientation="0,1"
-       position="-111.11678,517.1981"
+       position="1038.4368,515.17779"
        id="guide3042" />
     <sodipodi:guide
        orientation="0,1"
@@ -176,7 +166,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>pause</dc:title>
+        <dc:title>restart green</dc:title>
         <dc:date>Feb 2015</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -195,8 +185,10 @@
         </dc:publisher>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>pause</rdf:li>
+            <rdf:li>restart</rdf:li>
+            <rdf:li>start again</rdf:li>
             <rdf:li>button</rdf:li>
+            <rdf:li>green</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <dc:contributor>
@@ -229,40 +221,40 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <g
-       id="g3824"
-       inkscape:export-filename="/Users/Franzi/github/rrze-icon-set/tango/48x48/actions/pause.png"
-       inkscape:export-xdpi="6.0100002"
-       inkscape:export-ydpi="6.0100002">
+       id="g3022">
       <path
          id="rect2383"
          d="m 8.637085,172.99927 718.725835,0 0,718.72583 -718.725835,0 z"
-         style="fill:none;stroke:none" />
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0" />
       <path
          id="path3163"
          d="m 700.3565,536.01257 c 0,182.42193 -147.8822,330.30414 -330.30415,330.30414 -182.42194,0 -330.304138,-147.88221 -330.304138,-330.30414 0,-182.42194 147.882198,-330.30414 330.304138,-330.30414 182.42195,0 330.30415,147.8822 330.30415,330.30414 z"
-         style="fill:#555753;fill-opacity:1;fill-rule:evenodd;stroke:#2e3436;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         style="fill:#73d216;fill-opacity:1;fill-rule:evenodd;stroke:#4e9a06;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="path3165"
-         d="m 705.08649,515.97119 c 0,176.85171 -143.36664,320.21835 -320.21836,320.21835 -176.85171,0 -320.21835,-143.36664 -320.21835,-320.21835 0,-176.85171 143.36664,-320.21835 320.21835,-320.21835 176.85172,0 320.21836,143.36664 320.21836,320.21835 z"
-         style="opacity:0.5;fill:none;stroke:#ffffff;stroke-width:29.08395386;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-         transform="matrix(0.9442024,0,0,0.9442024,6.658939,48.83133)" />
+         d="m 672.4033,536.01257 c 0,166.9838 -135.36713,302.35093 -302.35095,302.35093 -166.98381,0 -302.350934,-135.36713 -302.350934,-302.35093 0,-166.98381 135.367124,-302.35094 302.350934,-302.35094 166.98382,0 302.35095,135.36713 302.35095,302.35094 z"
+         style="opacity:0.5;fill:none;stroke:#ffffff;stroke-width:27.46113968;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          d="m 685.26046,536.01258 c 0,59.59612 -3.66187,79.64831 -15.46877,80.2538 -22.66413,1.16227 -72.67682,-31.29915 -186.98371,-35.88256 C 338.86905,574.66954 150.37321,726.33077 84.717768,670.31941 70.212653,657.94493 54.844276,567.49708 54.844276,536.01258 c 0,-173.99486 141.213224,-315.20809 315.208084,-315.20809 173.99487,0 315.2081,141.21323 315.2081,315.20809 z"
          id="path3175"
          sodipodi:nodetypes="csssssc"
-         style="opacity:0.34680134;fill:url(#linearGradient3032);fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="opacity:0.34680134;fill:url(#linearGradient3017);fill-opacity:1;fill-rule:evenodd;stroke:none"
          inkscape:connector-curvature="0" />
       <path
+         sodipodi:nodetypes="csssc"
          inkscape:connector-curvature="0"
-         id="rect3037"
-         d="m 208.80848,343.95214 113.72331,0 0,380.40356 -113.72331,0 z"
-         style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         id="path3939"
+         d="m 500.84905,429.49101 c 28.74846,31.40521 46.28926,73.24044 46.28926,119.17256 0,97.50396 -79.04259,176.54656 -176.54657,176.54656 -97.50396,0 -176.54655,-79.0426 -176.54655,-176.54656 0,-41.72836 14.47702,-80.07545 38.68247,-110.29263"
+         style="fill:none;stroke:#ffffff;stroke-width:53.765522;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
       <path
-         style="fill:#eeeeec;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 418.92021,343.95214 113.72331,0 0,380.40356 -113.72331,0 z"
-         id="path3812"
-         inkscape:connector-curvature="0" />
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3918"
+         d="m 153.23254,376.40131 160.33884,-46.16809 15.21905,169.72769 z"
+         style="fill:#eeeeec;stroke:#ffffff;stroke-width:25.54516411;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
   </g>
 </svg>
