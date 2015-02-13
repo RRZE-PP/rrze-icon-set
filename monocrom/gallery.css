@@ -1,0 +1,99 @@
+
+#imageContainer {
+  background-color: #333;
+}
+
+
+div.gallery table.icons {
+	margin: 0;
+	padding: 0;
+	border: 1px solid #D1D1D1;
+	width: 100%;
+	table-layout: fixed;
+}
+
+/* table column widths */
+div.gallery table.icons th.scalable {
+	width: 90px;
+}
+
+div.gallery table.icons th.fixed {
+	width: 95px;
+}
+
+div.gallery table.icons th.preview {
+	width: 70px;
+}
+
+div.gallery table.icons th.title {
+	width: 80px;
+}
+
+div.gallery table.icons th.keywords {
+	width: 95px;
+}
+
+div.gallery table.icons th {
+	font-size: 14px;
+	background: #CCCCCC;
+}
+
+div.gallery table.icons a.nowrap {
+	/* prevent links from being torn apart */
+	white-space: nowrap;
+}
+
+div.gallery table.icons tr {
+	height: 35px;
+}
+
+div.gallery table.icons tr.odd {
+	background: #F0F0F0;
+}
+
+div.gallery table.icons tr.even {
+	background: #E0E0E0;
+}
+
+div.gallery table.icons tr.heading {
+	height: 25px;
+}
+
+div.gallery table.icons td {
+	font-size: 12px;
+}
+
+div.gallery table.icons td.preview img {
+	max-height: 32px;
+	max-width: 32px;
+        background-color: #333;
+        padding: 8px;
+}
+
+div.gallery table.icons td.title {
+	font-weight: bold;
+}
+
+div.gallery table.icons tr.spacer {
+	/* not sure if this works with every browser */
+	display: block;
+	height: 0px;
+	line-height: 0px;
+	padding: 0;
+	margin: 0;
+}
+
+div.gallery a.anchor,div.gallery a.anchor:link {
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none !important;
+	font-weight: bold;
+}
+
+div.gallery hr.anchor {
+	height: 1px;
+	width: 100%;
+	border: 1px solid;
+	margin-top: -15px;
+	margin-bottom: 5px;
+}
