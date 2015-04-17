@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="up.svg"
+   sodipodi:docname="wide-area-network-link.svg"
    inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\bi-con\bi-con\scalable\documents\document.png"
    inkscape:export-xdpi="4"
    inkscape:export-ydpi="4">
@@ -24,15 +24,15 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4250">
+       id="linearGradient4175">
       <stop
-         style="stop-color:#abbe24;stop-opacity:1;"
+         style="stop-color:#5a6578;stop-opacity:1;"
          offset="0"
-         id="stop4252" />
+         id="stop4177" />
       <stop
-         style="stop-color:#c1d53a;stop-opacity:1"
+         style="stop-color:#9397a2;stop-opacity:1"
          offset="1"
-         id="stop4254" />
+         id="stop4179" />
     </linearGradient>
     <linearGradient
        id="linearGradient2224">
@@ -80,14 +80,13 @@
        id="EMFhbasepattern-5" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4250"
-       id="linearGradient4256"
-       x1="360"
-       y1="714.61218"
-       x2="360"
-       y2="372.36221"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0435788,0,0,1.0435788,-6.9621557,-22.648148)" />
+       xlink:href="#linearGradient4175"
+       id="linearGradient4181"
+       x1="300"
+       y1="605.36218"
+       x2="471"
+       y2="438.36221"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -96,13 +95,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="246.76381"
-     inkscape:cy="492.4706"
+     inkscape:zoom="1"
+     inkscape:cx="314.91859"
+     inkscape:cy="458.32939"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
      inkscape:window-height="721"
@@ -110,28 +109,24 @@
      inkscape:window-y="-4"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="315.53572,730.17859"
+       position="560,730.00002"
        orientation="0,1"
        id="guide3338" />
     <sodipodi:guide
-       position="351.25,330.17858"
+       position="560,330.00001"
        orientation="0,1"
        id="guide3340" />
     <sodipodi:guide
-       position="189.10714,408.8393"
+       position="190,475.00001"
        orientation="1,0"
        id="guide3344" />
     <sodipodi:guide
-       position="589.04521,468.07945"
+       position="590,451.00001"
        orientation="1,0"
        id="guide3346" />
     <inkscape:grid
        type="xygrid"
        id="grid3440" />
-    <sodipodi:guide
-       position="589.04521,378.30213"
-       orientation="1,0"
-       id="guide3411" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -141,7 +136,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -150,18 +145,17 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3336"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4160"
        width="400"
        height="400"
-       x="189.14485"
-       y="322.27005"
-       inkscape:export-xdpi="4.9499998"
-       inkscape:export-ydpi="4.9499998" />
+       x="190"
+       y="322.36221" />
     <path
-       style="fill:url(#linearGradient4256);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 391.87156,322.90291 c -3.42859,0 -6.85715,2.28572 -11.42858,6.85715 l -160,187.42856 c -9.14286,9.14286 -4.57143,22.85715 13.71428,22.85715 l 54.85715,0 0,160 c 0,12.66286 10.19432,22.85714 22.85714,22.85714 l 160,0 c 12.66282,0 22.85713,-10.19428 22.85713,-22.85714 l 0,-160 54.85716,0 c 18.2857,0 18.2857,-18.28571 13.71427,-22.85715 L 403.30012,329.76006 c -4.57143,-4.57143 -8,-6.85715 -11.42856,-6.85715 z"
-       id="path4237"
-       inkscape:connector-curvature="0" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4181);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 195.28129,322.51036 c -4.32424,-0.13857 -7.05981,4.59596 -4.7801,8.27308 l 172.00513,276.76289 c 0,0 1.48298,2.84542 5.5718,2.31169 4.08882,-0.53374 4.25724,-3.73852 4.25724,-3.73852 l 20.07937,-73.22141 187.95854,187.95853 c 4.69408,4.68551 12.08226,-1.54518 8.25614,-6.96268 L 371.71509,407.18664 c -2.64368,-3.73564 -8.44111,-2.71578 -9.65121,1.6978 l -19.93966,72.707 -143.00911,-157.31342 c -0.98651,-1.08317 -2.36949,-1.72081 -3.83382,-1.76766 z"
+       id="path4169"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccczccccccccc" />
   </g>
 </svg>
