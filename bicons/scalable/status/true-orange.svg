@@ -15,19 +15,12 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="quote.svg"
+   sodipodi:docname="true-orange.svg"
    inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\bi-con\bi-con\scalable\documents\document.png"
    inkscape:export-xdpi="4"
    inkscape:export-ydpi="4">
   <defs
      id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.1811 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09449 : 526.1811 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.7874 : 1"
-       id="perspective4766" />
     <linearGradient
        id="linearGradient2224">
       <stop
@@ -74,8 +67,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="504.83126"
-     inkscape:cy="540.28673"
+     inkscape:cx="379.81584"
+     inkscape:cy="495.14681"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -98,6 +91,10 @@
        position="189.10714,408.8393"
        orientation="1,0"
        id="guide3344" />
+    <sodipodi:guide
+       position="589.04521,468.07945"
+       orientation="1,0"
+       id="guide3346" />
     <inkscape:grid
        type="xygrid"
        id="grid3440" />
@@ -114,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,37 +119,11 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3336"
-       width="407.77817"
-       height="407.77817"
-       x="181.36667"
-       y="322.27005"
-       inkscape:export-xdpi="4.9499998"
-       inkscape:export-ydpi="4.9499998" />
     <path
-       style="opacity:1;fill:#5a6578;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 388.94329,358.71688 a 199.99991,128.61234 0 0 0 -199.99897,128.61234 199.99991,128.61234 0 0 0 83.877,104.58739 l -23.61856,92.10927 c -0.32784,2.74355 1.5546,3.72662 4.06612,2.21788 l 92.97314,-73.35331 a 199.99991,128.61234 0 0 0 42.70127,3.05111 A 199.99991,128.61234 0 0 0 588.94431,487.32922 199.99991,128.61234 0 0 0 388.94329,358.71688 Z"
-       id="path4737"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4749"
-       width="288.59354"
-       height="17.77569"
-       x="239.51436"
-       y="453.87003"
-       ry="8.887845"
-       rx="8.8724546" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4749-4"
-       width="251.47374"
-       height="18.298504"
-       x="239.82062"
-       y="505.819"
-       ry="8.887845"
-       rx="8.8724546" />
+       style="fill:#f9bb17;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.28025,722.24974 27.72778,-0.11986 c 10.75872,-74.03458 8.98695,-148.1098 166.76349,-395.16999 l -3.97373,-4.71015 C 394.58625,481.57318 348.57517,629.95506 348.57517,629.95506 c 0,0 -35.10407,-46.59025 -105.22045,-63.59897 -3.86951,5.84744 -5.15414,7.93185 -5.15414,7.93185 0,0 76.45404,36.99031 105.07967,147.9618 z"
+       id="path4187"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
   </g>
 </svg>

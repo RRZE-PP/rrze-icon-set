@@ -66,9 +66,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="376.29381"
-     inkscape:cy="496.18478"
+     inkscape:zoom="2"
+     inkscape:cx="728.78332"
+     inkscape:cy="414.25511"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -95,25 +95,9 @@
        type="xygrid"
        id="grid3440" />
     <sodipodi:guide
-       position="325.97622,721.95602"
-       orientation="0,1"
-       id="guide3405" />
-    <sodipodi:guide
-       position="197.63634,703.57124"
-       orientation="1,0"
-       id="guide3407" />
-    <sodipodi:guide
-       position="581.59532,337.75"
-       orientation="0,1"
-       id="guide3409" />
-    <sodipodi:guide
        position="589.04521,378.30213"
        orientation="1,0"
        id="guide3411" />
-    <sodipodi:guide
-       position="580.1811,410.12193"
-       orientation="1,0"
-       id="guide3413" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -131,27 +115,24 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g4169">
-      <rect
-         inkscape:export-ydpi="4.9499998"
-         inkscape:export-xdpi="4.9499998"
-         y="322.27005"
-         x="189.14485"
-         height="400"
-         width="400"
-         id="rect3336"
-         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 579.28253,523.10739 c 0,-105.45693 -85.46333,-190.92 -190.91948,-190.92 -105.45563,0 -190.91999,85.46307 -190.91999,190.92 0,105.45565 85.46436,190.91997 190.91999,190.91997 105.45615,0 190.91948,-85.46432 190.91948,-190.91997 z"
-         id="path3359"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4256"
-         d="m 462.43812,418.40587 c -5.56242,-5.56242 -14.51844,-5.56244 -20.08088,0 l -56.12444,56.12447 -55.86557,-55.8656 c -5.56242,-5.56243 -14.51848,-5.56243 -20.08088,0 l -30.12129,30.1213 c -5.56244,5.56244 -5.56242,14.51843 0,20.08083 l 55.86559,55.86559 -56.3284,56.3284 c -5.56241,5.56242 -5.56241,14.51845 0,20.08087 l 30.12128,30.1213 c 5.56244,5.56243 14.51845,5.56239 20.08087,0 l 56.3284,-56.3284 57.08929,57.08927 c 5.56241,5.56242 14.51839,5.56244 20.08083,0 l 30.12131,-30.12128 c 5.56244,-5.56241 5.56244,-14.51847 0,-20.08087 l -57.08927,-57.08929 56.12445,-56.12444 c 5.56246,-5.56244 5.56246,-14.51842 0,-20.08086 l -30.12129,-30.12129 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336"
+       width="400"
+       height="400"
+       x="189.14485"
+       y="322.27005"
+       inkscape:export-xdpi="4.9499998"
+       inkscape:export-ydpi="4.9499998" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3359"
+       d="m 588.95727,521.80557 c 0,-110.47239 -89.5279,-200.00003 -199.99947,-200.00003 -110.47103,0 -200.00001,89.52764 -200.00001,200.00003 0,110.47104 89.52898,199.99999 200.00001,199.99999 110.47157,0 199.99947,-89.52895 199.99947,-199.99999 z"
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 466.55583,412.12452 c -5.82697,-5.82697 -15.20893,-5.82699 -21.03592,0 l -58.79368,58.79371 -58.52249,-58.52253 c -5.82697,-5.82698 -15.20897,-5.82698 -21.03592,0 l -31.55383,31.55384 c -5.82699,5.82699 -5.82697,15.20892 0,21.03587 l 58.52251,58.52251 -59.00733,59.00734 c -5.82696,5.82697 -5.82696,15.20894 0,21.0359 l 31.55382,31.55385 c 5.82699,5.82698 15.20894,5.82694 21.0359,0 l 59.00734,-59.00734 59.80442,59.8044 c 5.82695,5.82696 15.20887,5.82699 21.03586,0 l 31.55386,-31.55383 c 5.82698,-5.82695 5.82698,-15.20896 0,-21.0359 l -59.8044,-59.80442 58.79369,-58.79368 c 5.82701,-5.82698 5.82701,-15.2089 0,-21.03589 l -31.55383,-31.55383 z"
+       id="rect4256"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

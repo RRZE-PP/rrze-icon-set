@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -15,12 +16,24 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="not-available.svg"
+   sodipodi:docname="expired.svg"
    inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\bi-con\bi-con\scalable\documents\document.png"
    inkscape:export-xdpi="4"
    inkscape:export-ydpi="4">
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4155">
+      <stop
+         style="stop-color:#5a6578;stop-opacity:1;"
+         offset="0"
+         id="stop4157" />
+      <stop
+         style="stop-color:#9397a2;stop-opacity:1"
+         offset="1"
+         id="stop4159" />
+    </linearGradient>
     <linearGradient
        id="linearGradient2224">
       <stop
@@ -65,6 +78,16 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4155"
+       id="linearGradient4161"
+       x1="260"
+       y1="562.36218"
+       x2="570"
+       y2="482.36221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-144.68626,83.685657)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -73,9 +96,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="137.41799"
-     inkscape:cy="534.71292"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="271.91967"
+     inkscape:cy="436.3459"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -129,20 +152,30 @@
        x="190"
        y="322.36221" />
     <g
-       id="g4151">
-      <path
-         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 589.77557,522.02738 c 0,-110.47239 -89.5279,-200.00002 -199.99947,-200.00002 -110.47102,0 -200,89.52763 -200,200.00002 0,110.47104 89.52898,199.99998 200,199.99998 110.47157,0 199.99947,-89.52894 199.99947,-199.99998 z"
-         id="path3359"
-         inkscape:connector-curvature="0" />
+       id="g4163"
+       transform="matrix(0.97312573,0,0,0.97312573,10.614531,29.179279)">
       <rect
-         ry="16.417732"
-         y="485.4295"
-         x="267.04889"
-         height="75.372314"
-         width="242.53467"
-         id="rect4202"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         transform="matrix(0.96588976,-0.2589536,0.2589536,0.96588976,0,0)"
+         ry="19.999992"
+         y="526.04785"
+         x="45.31374"
+         height="130"
+         width="400"
+         id="rect4149"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4161);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:60.95800018;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         transform="matrix(0.96588976,-0.2589536,0.2589536,0.96588976,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4151"
+         y="623.66663"
+         x="47.941441"
+         style="font-style:normal;font-weight:normal;font-size:80.62355804px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff"
+           y="623.66663"
+           x="47.941441"
+           id="tspan4153"
+           sodipodi:role="line">EXPIRED</tspan></text>
     </g>
   </g>
 </svg>
