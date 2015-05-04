@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="database.svg"
+   sodipodi:docname="database-account.svg"
    inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\bi-con\bi-con\scalable\documents\document.png"
    inkscape:export-xdpi="4"
    inkscape:export-ydpi="4">
@@ -94,6 +94,38 @@
        x2="229.1026"
        y2="686.08087"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4153"
+       id="linearGradient4159"
+       x1="235"
+       y1="682.36218"
+       x2="525"
+       y2="368.36221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99970712,0,0,0.99970712,233.53399,168.25836)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4153">
+      <stop
+         style="stop-color:#5a6578;stop-opacity:1;"
+         offset="0"
+         id="stop4155" />
+      <stop
+         style="stop-color:#9397a2;stop-opacity:1"
+         offset="1"
+         id="stop4157" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4153"
+       id="linearGradient4168"
+       x1="235"
+       y1="682.36218"
+       x2="525"
+       y2="368.36221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99970712,0,0,0.99970712,1.4703425,0.27220292)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -102,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="347.23485"
-     inkscape:cy="285.54192"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="318.51149"
+     inkscape:cy="-156.72651"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -143,6 +175,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -173,5 +206,41 @@
          id="path4199"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:231.14727783px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#abbe24;fill-opacity:1;stroke:#abbe24;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="350.87781"
+       y="667.11334"
+       id="text4149"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4151"
+         x="350.87781"
+         y="667.11334"
+         style="fill:#abbe24;fill-opacity:1;stroke:#abbe24;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:231.14727783px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#abbe24;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="350.87781"
+       y="667.11334"
+       id="text4199"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4201"
+         x="350.87781"
+         y="667.11334"
+         style="fill:#abbe24;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round">@</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4195"
+       y="667.11334"
+       x="350.87781"
+       style="font-style:normal;font-weight:normal;font-size:231.14727783px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#abbe24;fill-opacity:1;stroke:#abbe24;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="fill:#abbe24;fill-opacity:1;stroke:#abbe24;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+         y="667.11334"
+         x="350.87781"
+         id="tspan4197"
+         sodipodi:role="line">@</tspan></text>
   </g>
 </svg>
