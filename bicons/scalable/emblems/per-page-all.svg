@@ -96,9 +96,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="484.29933"
-     inkscape:cy="396.10587"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="242.83581"
+     inkscape:cy="575.69396"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -137,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -195,33 +195,29 @@
          inkscape:export-xdpi="4.9499998"
          inkscape:export-ydpi="4.9499998" />
     </g>
-    <g
-       id="g4231"
-       transform="matrix(0.82979385,0,0,0.82979385,-10.019191,111.22909)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:187.12310791px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:22.2176857;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="327.56393"
-         y="701.13971"
-         id="text4217"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4219"
-           x="327.56393"
-           y="701.13971"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#abbe24;stroke:#ffffff;stroke-width:22.2176857;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">ALL</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4213"
-         y="701.13971"
-         x="327.56393"
-         style="font-style:normal;font-weight:normal;font-size:187.12310791px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#abbe24"
-           y="701.13971"
-           x="327.56393"
-           id="tspan4215"
-           sodipodi:role="line">ALL</tspan></text>
-    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4217"
+       y="693.03052"
+       x="261.79135"
+       style="font-style:normal;font-weight:normal;font-size:155.27360535px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#abbe24;stroke:#ffffff;stroke-width:30;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         y="693.03052"
+         x="261.79135"
+         id="tspan4219"
+         sodipodi:role="line">ALL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:155.27360535px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="261.79135"
+       y="693.03052"
+       id="text4213"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4215"
+         x="261.79135"
+         y="693.03052"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#abbe24">ALL</tspan></text>
   </g>
 </svg>
