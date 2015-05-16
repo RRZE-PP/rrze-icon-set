@@ -82,12 +82,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4250"
        id="linearGradient4256"
-       x1="360"
-       y1="714.61218"
-       x2="360"
-       y2="372.36221"
+       x1="463"
+       y1="461.5459"
+       x2="247"
+       y2="633.39911"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1,1.0036896,0,-135.49285,141.27241)" />
+       gradientTransform="matrix(0,0.90977471,0.91313141,0,-88.50711,174.79548)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -97,8 +97,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="303.26688"
-     inkscape:cy="506.72408"
+     inkscape:cx="301.26688"
+     inkscape:cy="486.72408"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -157,7 +157,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,7 +177,7 @@
        transform="scale(1,-1)" />
     <path
        style="fill:url(#linearGradient4256);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 196.85005,523.45125 c 0,-3.28541 2.19835,-6.5708 6.59504,-10.95133 l 180.2644,-153.31857 c 8.7934,-8.76106 21.98347,-4.38053 21.98347,13.14159 l 0,52.56637 153.88426,0 c 12.17884,0 21.98346,9.76862 21.98346,21.90265 l 0,153.31857 c 0,12.13403 -9.80462,21.90264 -21.98346,21.90264 l -153.88426,0 0,52.56638 c 0,17.52211 -17.58677,17.52211 -21.98347,13.14158 L 203.44509,534.40257 c -4.39669,-4.38053 -6.59504,-7.66593 -6.59504,-10.95132 z"
+       d="m 213.85005,522.49212 c 0,-2.98898 2,-5.97794 6,-9.96324 L 383.85004,373.04352 c 8.00001,-7.97059 20.00001,-3.98529 20.00001,11.95589 l 0,47.82355 140,0 c 11.08,0 20,8.88725 20,19.92648 l 0,139.48536 c 0,11.03923 -8.92,19.92646 -20,19.92646 l -140,0 0,47.82357 c 0,15.94117 -16,15.94117 -20.00001,11.95587 L 219.85005,532.45536 c -4,-3.9853 -6,-6.97427 -6,-9.96324 z"
        id="path4237"
        inkscape:connector-curvature="0" />
   </g>
