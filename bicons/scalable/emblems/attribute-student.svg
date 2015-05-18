@@ -23,18 +23,6 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4203">
-      <stop
-         style="stop-color:#5a6578;stop-opacity:1;"
-         offset="0"
-         id="stop4205" />
-      <stop
-         style="stop-color:#9397a2;stop-opacity:1"
-         offset="1"
-         id="stop4207" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient2224">
       <stop
          style="stop-color:#7c7c7c;stop-opacity:1;"
@@ -89,6 +77,13 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-5" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-0" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4203"
@@ -98,13 +93,18 @@
        x2="470"
        y2="452.36221"
        gradientUnits="userSpaceOnUse" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-0" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4203">
+      <stop
+         style="stop-color:#5a6578;stop-opacity:1;"
+         offset="0"
+         id="stop4205" />
+      <stop
+         style="stop-color:#9397a2;stop-opacity:1"
+         offset="1"
+         id="stop4207" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -113,9 +113,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0273632"
-     inkscape:cx="414.77143"
-     inkscape:cy="384.97484"
+     inkscape:zoom="0.72645549"
+     inkscape:cx="485.87299"
+     inkscape:cy="413.56279"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -162,21 +162,9 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3336"
-       width="400"
-       height="400"
-       x="189.14485"
-       y="322.27005"
-       inkscape:export-xdpi="4.9499998"
-       inkscape:export-ydpi="4.9499998" />
     <g
-       id="g4197"
-       transform="matrix(1.0456385,-0.07484384,0.07484384,1.0456385,-72.171446,1.9729856)" />
-    <g
-       id="g4176"
-       transform="matrix(1.0452931,0,0,1.0420571,-16.729209,-22.266952)">
+       id="g4180"
+       transform="matrix(0.91463143,0,0,0.91463143,32.609009,44.342866)">
       <path
          sodipodi:nodetypes="ssccssssccss"
          inkscape:connector-curvature="0"
@@ -190,6 +178,18 @@
          id="path4201"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336"
+       width="400"
+       height="400"
+       x="189.14485"
+       y="322.27005"
+       inkscape:export-xdpi="4.9499998"
+       inkscape:export-ydpi="4.9499998" />
+    <g
+       id="g4197"
+       transform="matrix(1.0456385,-0.07484384,0.07484384,1.0456385,-72.171446,1.9729856)" />
     <g
        id="g4181">
       <g
