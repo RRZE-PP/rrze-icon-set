@@ -29,7 +29,7 @@
          offset="0"
          id="stop4205" />
       <stop
-         style="stop-color:#c1d53a;stop-opacity:1"
+         style="stop-color:#a9bc24;stop-opacity:1"
          offset="1"
          id="stop4207" />
     </linearGradient>
@@ -41,7 +41,7 @@
          offset="0"
          id="stop4197" />
       <stop
-         style="stop-color:#545d6c;stop-opacity:1"
+         style="stop-color:#7a8597;stop-opacity:1"
          offset="1"
          id="stop4199" />
     </linearGradient>
@@ -120,7 +120,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="441.9571"
+     inkscape:cx="201.54079"
      inkscape:cy="416.17151"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -181,6 +181,27 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>document restricted</dc:title>
+        <dc:date>June 2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Johannes Hechler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Johannes Hechler</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RRZE</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Ute Weber, Hendrik Eggers</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
     </rdf:RDF>
   </metadata>
