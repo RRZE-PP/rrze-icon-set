@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -15,12 +16,23 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="3.5991788"
-   inkscape:export-ydpi="3.5991788"
-   sodipodi:docname="RASTER.svg"
-   inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\bi-con-meta\Testversionen\verschiedene document-versionen\ecke_dunkel.png">
+   inkscape:export-xdpi="4"
+   inkscape:export-ydpi="4"
+   sodipodi:docname="sort-down-green.svg">
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4162">
+      <stop
+         style="stop-color:#99b000;stop-opacity:1;"
+         offset="0"
+         id="stop4164" />
+      <stop
+         style="stop-color:#a9bc24;stop-opacity:1"
+         offset="1"
+         id="stop4166" />
+    </linearGradient>
     <linearGradient
        id="linearGradient2224">
       <stop
@@ -58,6 +70,23 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4162"
+       id="linearGradient4168"
+       x1="301.22748"
+       y1="398.99557"
+       x2="470.93314"
+       y2="564.45856"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.963085,0,0,-0.963085,14.327698,962.12962)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -66,9 +95,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="263.01971"
-     inkscape:cy="611.43542"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="37.177264"
+     inkscape:cy="450.55989"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -118,118 +147,6 @@
        position="564.00001,683.37502"
        orientation="1,0"
        id="guide3413" />
-    <sodipodi:guide
-       position="259.25001,705.25003"
-       orientation="0,1"
-       id="guide4193" />
-    <sodipodi:guide
-       position="259.50001,680.25003"
-       orientation="0,1"
-       id="guide4195" />
-    <sodipodi:guide
-       position="239.25001,705.25003"
-       orientation="1,0"
-       id="guide4197" />
-    <sodipodi:guide
-       position="284.96404,654.95768"
-       orientation="0,1"
-       id="guide4199" />
-    <sodipodi:guide
-       position="264.28117,661.85197"
-       orientation="1,0"
-       id="guide4201" />
-    <sodipodi:guide
-       position="291.85833,629.67861"
-       orientation="0,1"
-       id="guide4203" />
-    <sodipodi:guide
-       position="289.38346,633.21415"
-       orientation="1,0"
-       id="guide4205" />
-    <sodipodi:guide
-       position="314.48575,610.23318"
-       orientation="1,0"
-       id="guide4207" />
-    <sodipodi:guide
-       position="309.536,604.57632"
-       orientation="0,1"
-       id="guide4209" />
-    <sodipodi:guide
-       position="344.18423,579.47403"
-       orientation="0,1"
-       id="guide4211" />
-    <sodipodi:guide
-       position="339.41126,579.47403"
-       orientation="1,0"
-       id="guide4213" />
-    <sodipodi:guide
-       position="364.51355,536.51729"
-       orientation="1,0"
-       id="guide4215" />
-    <sodipodi:guide
-       position="368.22587,554.37174"
-       orientation="0,1"
-       id="guide4217" />
-    <sodipodi:guide
-       position="384.37501,529.37502"
-       orientation="0,1"
-       id="guide4219" />
-    <sodipodi:guide
-       position="389.50001,532.62502"
-       orientation="1,0"
-       id="guide4221" />
-    <sodipodi:guide
-       position="410.75001,504.37502"
-       orientation="0,1"
-       id="guide4223" />
-    <sodipodi:guide
-       position="414.50001,508.50002"
-       orientation="1,0"
-       id="guide4225" />
-    <sodipodi:guide
-       position="439.75001,485.50002"
-       orientation="1,0"
-       id="guide4227" />
-    <sodipodi:guide
-       position="450.62501,479.25002"
-       orientation="0,1"
-       id="guide4229" />
-    <sodipodi:guide
-       position="468.50001,454.25002"
-       orientation="0,1"
-       id="guide4233" />
-    <sodipodi:guide
-       position="502.25001,429.25002"
-       orientation="0,1"
-       id="guide4235" />
-    <sodipodi:guide
-       position="489.87501,439.25002"
-       orientation="1,0"
-       id="guide4237" />
-    <sodipodi:guide
-       position="518.12501,404.25002"
-       orientation="0,1"
-       id="guide4239" />
-    <sodipodi:guide
-       position="514.87501,404.25002"
-       orientation="1,0"
-       id="guide4241" />
-    <sodipodi:guide
-       position="539.87501,377.12501"
-       orientation="1,0"
-       id="guide4243" />
-    <sodipodi:guide
-       position="544.37501,379.12501"
-       orientation="0,1"
-       id="guide4245" />
-    <sodipodi:guide
-       position="559.67503,354.26051"
-       orientation="0,1"
-       id="guide4247" />
-    <sodipodi:guide
-       position="465.27627,758.01849"
-       orientation="1,0"
-       id="guide4187" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -239,7 +156,28 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>sort down green</dc:title>
+        <dc:date>June 2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Johannes Hechler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Johannes Hechler</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RRZE</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Ute Weber, Hendrik Eggers</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -254,7 +192,13 @@
        height="400"
        x="189.14485"
        y="322.27005"
-       inkscape:export-xdpi="3.5999999"
-       inkscape:export-ydpi="3.5999999" />
+       inkscape:export-xdpi="4.9499998"
+       inkscape:export-ydpi="4.9499998" />
+    <path
+       style="fill:url(#linearGradient4168);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 387.57376,643.88248 c 3.62484,0 7.41989,-2.09356 12.08273,-7.30217 L 568.81471,436.98784 c 9.66616,-9.73622 4.83308,-24.34055 -14.49928,-24.34055 l -333.48333,0 c -19.33236,0 -19.33236,19.47244 -14.49926,24.34055 l 169.1582,199.59247 c 4.38163,5.16907 8.45791,7.30217 12.08272,7.30217 z"
+       id="path4237"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccccs" />
   </g>
 </svg>
