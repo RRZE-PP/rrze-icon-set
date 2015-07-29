@@ -54,17 +54,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="-438.25985"
-     inkscape:cy="692.94351"
+     inkscape:cx="-18.238421"
+     inkscape:cy="738.19834"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="560,730.00002"
@@ -137,7 +137,7 @@
             <rdf:li>personal data</rdf:li>
             <rdf:li>data</rdf:li>
             <rdf:li>disclosure</rdf:li>
-            <rdf:li></rdf:li>
+            <rdf:li />
           </rdf:Bag>
         </dc:subject>
         <cc:license
@@ -186,17 +186,13 @@
          id="tspan4169"
          x="448.30569"
          y="645.06873" /></text>
-    <text
-       xml:space="preserve"
+    <g
        style="font-style:normal;font-weight:normal;font-size:323.59161377px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#99b000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="456.7196"
-       y="697.99048"
-       id="text4159"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4161"
-         x="456.7196"
-         y="697.99048"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Adobe Hebrew';-inkscape-font-specification:'Adobe Hebrew Semi-Bold';fill:#99b000;fill-opacity:1;stroke:none">i</tspan></text>
+       id="text4159">
+      <path
+         d="m 503.96398,525.19256 c 11.97289,0 21.03345,-9.38416 21.03345,-20.38627 0,-11.6493 -9.06056,-20.70987 -20.70986,-20.70987 -11.00211,0 -20.70986,9.06057 -20.70986,20.70987 0,11.00211 9.70775,20.38627 20.38627,20.38627 z m 42.71409,172.79792 0,-9.70775 c -20.70986,-2.58873 -22.32782,-4.53028 -22.32782,-27.1817 l 0,-111.96269 c -16.82676,5.50105 -36.24226,10.03134 -54.68698,12.29648 l 0,9.06056 c 17.15035,2.58874 19.0919,3.8831 19.0919,24.91656 l 0,65.68909 c 0,23.2986 -2.26514,24.91656 -22.32782,27.1817 l 0,9.70775 80.25072,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Adobe Hebrew';-inkscape-font-specification:'Adobe Hebrew Semi-Bold';fill:#99b000;fill-opacity:1;stroke:none"
+         id="path4154" />
+    </g>
   </g>
 </svg>
