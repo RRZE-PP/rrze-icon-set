@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -73,28 +72,6 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-1" />
-    <linearGradient
-       gradientTransform="translate(-1.7511318,-12.780885)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient4153"
-       id="linearGradient4159"
-       x1="280"
-       y1="712.36218"
-       x2="480"
-       y2="392.36221"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4153">
-      <stop
-         style="stop-color:#4e505d;stop-opacity:1;"
-         offset="0"
-         id="stop4155" />
-      <stop
-         style="stop-color:#7a8597;stop-opacity:1"
-         offset="1"
-         id="stop4157" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -103,9 +80,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="324.82194"
-     inkscape:cy="571.73797"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="312.4341"
+     inkscape:cy="382.61517"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -283,35 +260,5 @@
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#252525;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#252525;solid-opacity:1;fill:url(#linearGradient4159);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 318.24887,333.58044 c -33.23999,0 -60,26.76 -60,60 l 8,236 52,0 140,0 52,0 8,-236 c 0,-33.24 -26.76001,-60 -60,-60 z m -60,314 c -11.08001,0 -20,8.91999 -20,20 l 0,12 c 0,11.08001 8.91999,20 20,20 l 262,0 c 11.08001,0 20,-8.91999 20,-20 l 0,-12 c 0,-11.08001 -8.91999,-20 -20,-20 z"
-       id="rect4149-0"
-       sodipodi:nodetypes="sccccccsssssssssss" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4160"
-       width="400"
-       height="400"
-       x="188.70975"
-       y="321.97324" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:50;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4418"
-       width="200.49155"
-       height="25.27907"
-       x="289.38345"
-       y="397.40454"
-       ry="12.639535" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:50;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4420"
-       width="150.36655"
-       height="25.102289"
-       x="289.38345"
-       y="447.78589"
-       ry="12.551145" />
-  </g>
+     id="layer1" />
 </svg>
