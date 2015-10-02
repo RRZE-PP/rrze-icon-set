@@ -16,8 +16,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="4.961072"
-   inkscape:export-ydpi="4.961072"
+   inkscape:export-xdpi="4.9577446"
+   inkscape:export-ydpi="4.9577446"
    sodipodi:docname="RASTER22.svg"
    inkscape:export-filename="C:\Users\johannes\Desktop\rect4181.png">
   <defs
@@ -115,6 +115,52 @@
        x2="612"
        y2="306"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4761">
+      <stop
+         id="stop4769"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4775"
+         offset="0.50370371"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4771"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.06666667;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4254"
+       id="linearGradient4298"
+       gradientUnits="userSpaceOnUse"
+       x1="358.43118"
+       y1="465.73074"
+       x2="429.96555"
+       y2="644.62878" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4254">
+      <stop
+         style="stop-color:#7a8597;stop-opacity:1"
+         offset="0"
+         id="stop4256" />
+      <stop
+         style="stop-color:#4e505d;stop-opacity:1"
+         offset="1"
+         id="stop4258" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4254"
+       id="linearGradient4300"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.37005758,-0.39466108)"
+       x1="380.01031"
+       y1="330.40619"
+       x2="414.6156"
+       y2="457.18103" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -123,11 +169,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="346.47171"
-     inkscape:cy="648.64853"
+     inkscape:zoom="1"
+     inkscape:cx="344.13701"
+     inkscape:cy="456.02536"
      inkscape:document-units="px"
-     inkscape:current-layer="g4230"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -288,17 +334,13 @@
        orientation="1,0"
        id="guide4245" />
     <sodipodi:guide
-       position="504.50412,420.53519"
+       position="38.183767,420.72854"
        orientation="0,1"
        id="guide4249" />
     <sodipodi:guide
        position="523.56286,402.3051"
        orientation="0,1"
        id="guide4251" />
-    <sodipodi:guide
-       position="516.79562,406.72452"
-       orientation="1,0"
-       id="guide4253" />
     <sodipodi:guide
        position="535.02572,385.59418"
        orientation="1,0"
@@ -331,6 +373,10 @@
        position="498.25424,574.49638"
        orientation="1,0"
        id="guide4198" />
+    <sodipodi:guide
+       position="516.5,602.45499"
+       orientation="1,0"
+       id="guide4830" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -347,9 +393,5 @@
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g4230"
-       transform="translate(345.06811,-287.08535)" />
-  </g>
+     id="layer1" />
 </svg>

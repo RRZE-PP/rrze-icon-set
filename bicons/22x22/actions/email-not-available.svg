@@ -16,24 +16,12 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="4.925518"
-   inkscape:export-ydpi="4.925518"
+   inkscape:export-xdpi="4.9549937"
+   inkscape:export-ydpi="4.9549937"
    sodipodi:docname="email-not-available.svg"
    inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\github3\bicons\22x22\actions\email-not-available.png">
   <defs
      id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4190">
-      <stop
-         style="stop-color:#4e505d;stop-opacity:1;"
-         offset="0"
-         id="stop4192" />
-      <stop
-         style="stop-color:#7a8597;stop-opacity:1"
-         offset="1"
-         id="stop4194" />
-    </linearGradient>
     <linearGradient
        id="linearGradient2224">
       <stop
@@ -72,15 +60,27 @@
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern" />
     <linearGradient
+       gradientTransform="matrix(1.9864516,0,0,1.9864516,-581.90433,-757.43083)"
        inkscape:collect="always"
-       xlink:href="#linearGradient4190"
-       id="linearGradient4196"
-       x1="226.28172"
-       y1="587.27887"
-       x2="580.18109"
-       y2="437.37225"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9172619,0,0,0.9172619,31.348184,41.893459)" />
+       xlink:href="#linearGradient4167"
+       id="linearGradient4225"
+       x1="446.92957"
+       y1="707.06952"
+       x2="552.96887"
+       y2="592.8045"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4167">
+      <stop
+         style="stop-color:#4e505d;stop-opacity:1;"
+         offset="0"
+         id="stop4169" />
+      <stop
+         style="stop-color:#7a8597;stop-opacity:1"
+         offset="1"
+         id="stop4171" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -89,9 +89,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52525252"
-     inkscape:cx="732.00853"
-     inkscape:cy="321.70188"
+     inkscape:zoom="0.74281924"
+     inkscape:cx="216.50916"
+     inkscape:cy="477.71131"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -180,7 +180,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4175">
+       id="g4189">
+      <path
+         sodipodi:nodetypes="scccccsccccccccccccccccc"
+         id="path4169"
+         d="m 389.25694,391.37737 c -61.51172,0 -123.02343,4.55643 -182.25694,13.66927 l 0,45.31543 183.03804,104.92791 181.47583,-104.92791 0,-45.31543 C 512.28037,395.9338 450.76865,391.37737 389.25694,391.37737 Z M 207,469.7006 l 0,159.46197 112.6413,-90.88891 z m 364.51387,0 -111.46761,68.45101 111.46761,91.09436 z m -130.13674,75.24404 -51.33909,35.68389 -51.36758,-35.44589 0,0.10984 -131.54841,105.81118 c 121.93835,9.76688 243.74151,17.09751 364.18841,0.0184 l -129.93333,-105.856 0,-0.32139 z"
+         style="fill:url(#linearGradient4225);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <rect
          inkscape:export-ydpi="4.9499998"
          inkscape:export-xdpi="4.9499998"
@@ -209,14 +215,9 @@
       </g>
       <path
          inkscape:connector-curvature="0"
-         id="path4169"
-         d="m 389.26092,392.59036 c -59.06251,0 -118.125,4.37498 -175,13.125 l 0,43.75 175,96.24998 175,-96.24998 0,-43.75 c -56.875,-8.75002 -115.93751,-13.125 -175,-13.125 z m -175,83.125 0,166.25 c 117.18821,9.38798 234.24668,16.44032 350,0 l 0,-166.25 -175,96.24998 -175,-96.24998 z"
-         style="fill:url(#linearGradient4196);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
          id="path4177"
          d="m 589.40519,624.93667 c 0,-53.7785 -43.58262,-97.36099 -97.36071,-97.36099 -53.77784,0 -97.36098,43.58249 -97.36098,97.36099 0,53.77784 43.58314,97.36097 97.36098,97.36097 53.77809,0 97.36071,-43.58313 97.36071,-97.36097 z"
-         style="fill:#d9463a;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:40;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#d9463a;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          style="fill:#d9463a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 589.40519,624.93667 c 0,-53.7785 -43.58262,-97.36099 -97.36071,-97.36099 -53.77784,0 -97.36098,43.58249 -97.36098,97.36099 0,53.77784 43.58314,97.36097 97.36098,97.36097 53.77809,0 97.36071,-43.58313 97.36071,-97.36097 z"
