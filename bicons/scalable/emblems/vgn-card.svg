@@ -16,12 +16,12 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="4.9499998"
-   inkscape:export-ydpi="4.9499998"
-   sodipodi:docname="not-known.svg"
-   inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\github3\bicons\22x22\status\not-known.png">
+   sodipodi:docname="vgn-card.svg"
+   inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\bi-con\bi-con\scalable\documents\document.png"
+   inkscape:export-xdpi="4"
+   inkscape:export-ydpi="4">
   <title
-     id="title4155">not known</title>
+     id="title4193">vgn-ticket</title>
   <defs
      id="defs4">
     <linearGradient
@@ -69,26 +69,26 @@
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-5" />
     <linearGradient
-       gradientTransform="translate(-1.0912753,-0.2169601)"
        inkscape:collect="always"
-       xlink:href="#linearGradient4225"
-       id="linearGradient4231"
-       x1="295"
-       y1="665.36218"
-       x2="508"
-       y2="390.36221"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient4254"
+       id="linearGradient4206"
+       x1="580"
+       y1="422.36221"
+       x2="230"
+       y2="642.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.91212311,0,0,0.875,34.182661,61.678341)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4225">
+       id="linearGradient4254">
       <stop
-         style="stop-color:#4e505d;stop-opacity:1;"
+         style="stop-color:#7a8597;stop-opacity:1"
          offset="0"
-         id="stop4227" />
+         id="stop4256" />
       <stop
-         style="stop-color:#7a859c;stop-opacity:1"
+         style="stop-color:#4e505d;stop-opacity:1"
          offset="1"
-         id="stop4229" />
+         id="stop4258" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -98,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="327.28012"
-     inkscape:cy="545.38226"
+     inkscape:zoom="0.5"
+     inkscape:cx="-60.389443"
+     inkscape:cy="436.52951"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -139,8 +139,8 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>not known</dc:title>
-        <dc:date>June 2015</dc:date>
+        <dc:title>vgn-ticket</dc:title>
+        <dc:date>Sep 2015</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Johannes Hechler</dc:title>
@@ -156,6 +156,13 @@
             <dc:title>RRZE</dc:title>
           </cc:Agent>
         </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>ticket</rdf:li>
+            <rdf:li>vgn</rdf:li>
+            <rdf:li>semesterticket</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
         <dc:contributor>
           <cc:Agent>
             <dc:title>Ute Weber, Hendrik Eggers</dc:title>
@@ -169,32 +176,42 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       transform="translate(1.09128,0.3301)"
-       id="g4236">
+       id="g4186">
       <rect
-         y="322.0321"
-         x="188.90872"
+         y="322.36221"
+         x="190"
          height="400"
          width="400"
          id="rect4160"
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="181.5"
-         cy="521.6452"
-         cx="388.40872"
-         id="path4215"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4231);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      <g
-         transform="matrix(0.71329343,0,0,0.71329343,191.38717,152.97749)"
-         style="font-style:normal;font-weight:normal;font-size:538.9473877px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text4156">
-        <path
-           d="m 250.85573,672.37802 53.42105,0 0,52.82263 -53.42105,0 z m 51.84211,-51.0959 -50.26316,0 0,-61.76137 c 0,-17.71929 2.45614,-32.2807 7.36842,-43.68421 4.91228,-11.40351 15.26316,-24.64912 31.05263,-39.73684 l 23.68421,-23.42105 c 10,-9.29825 17.19298,-18.07018 21.57895,-26.31579 4.5614,-8.24562 6.8421,-16.66667 6.8421,-25.26316 0,-15.61404 -5.78947,-28.24562 -17.36842,-37.89474 -11.40351,-9.64913 -26.57894,-14.47369 -45.52631,-14.47369 -13.85965,0 -28.68422,3.07018 -44.47369,9.21053 -15.61403,6.14035 -41.92982,19.08772 -58.94737,30.84211 l 0,-49.47369 c 16.49123,-10 43.15789,-21.45614 60,-26.36842 17.01755,-4.91228 34.56141,-7.36842 52.63158,-7.36842 32.28071,0 58.1579,8.50877 77.63158,25.52631 19.64913,17.01755 29.47369,39.47369 29.47369,67.36843 0,13.33333 -3.1579,26.05263 -9.47369,38.15789 -6.31579,11.92983 -17.36842,25.4386 -33.15789,40.52632 l -23.1579,22.63158 c -8.24561,8.24561 -14.12281,14.73684 -17.63158,19.47369 -3.33333,4.5614 -5.70175,9.03508 -7.10526,13.42105 -1.05263,3.68421 -1.84211,8.15789 -2.36842,13.42105 -0.52631,5.26316 -0.78947,12.45614 -0.78947,21.57895 z"
-           style="fill:#ffffff;fill-opacity:1"
-           id="path4660"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccsscccscsccccscscccccssc" />
-      </g>
+      <rect
+         y="323.28128"
+         x="189.77731"
+         height="400"
+         width="400"
+         id="rect4160-9"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="26.249992"
+         y="413.3389"
+         x="207.80853"
+         height="218.75"
+         width="364.84924"
+         id="rect4149"
+         style="color:#252525;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#252525;solid-opacity:1;fill:url(#linearGradient4206);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         transform="scale(0.98835998,1.0117771)"
+         sodipodi:linespacing="125%"
+         id="text4182"
+         y="556.15204"
+         x="385.46048"
+         style="font-style:normal;font-weight:normal;font-size:116.0087738px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Bold Italic';fill:#ffffff;stroke:#ffffff;stroke-width:1.70000005;stroke-miterlimit:4;stroke-dasharray:none"
+           y="556.15204"
+           x="385.46048"
+           id="tspan4184"
+           sodipodi:role="line">VGN</tspan></text>
     </g>
   </g>
 </svg>
