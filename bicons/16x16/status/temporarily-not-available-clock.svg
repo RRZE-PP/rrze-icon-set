@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -16,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="3.5878289"
-   inkscape:export-ydpi="3.5878289"
+   inkscape:export-xdpi="3.5985749"
+   inkscape:export-ydpi="3.5985749"
    sodipodi:docname="temporarily-not-available-clock.svg"
    inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\github3\bicons\16x16\status\temporarily-not-available-clock.png">
   <defs
@@ -73,28 +72,6 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-7" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4197"
-       id="linearGradient4391"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.58935562,0,0,0.58894814,280.30181,316.93368)"
-       x1="197.56491"
-       y1="523.36218"
-       x2="580.435"
-       y2="523.36218" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4197">
-      <stop
-         style="stop-color:#4e505d;stop-opacity:1;"
-         offset="0"
-         id="stop4199" />
-      <stop
-         style="stop-color:#7a8597;stop-opacity:1"
-         offset="1"
-         id="stop4201" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -103,9 +80,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="328.27957"
-     inkscape:cy="509.54995"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-240.48255"
+     inkscape:cy="453.68649"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -174,46 +151,30 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4204"
-       transform="translate(-31.112698,-15.556349)">
+       id="g4182">
       <rect
-         y="337.72058"
-         x="220.94269"
+         y="322.16425"
+         x="189.82999"
          height="400"
          width="400"
          id="rect4160"
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         style="fill:#fbb516;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 496.42278,487.63818 c 0,-69.18492 -56.33641,-125.25288 -125.85184,-125.25288 -69.51509,0 -125.85217,56.06796 -125.85217,125.25288 0,69.18407 56.33708,125.25287 125.85217,125.25287 69.51543,0 125.85184,-56.0688 125.85184,-125.25287 z"
          id="path3359"
-         inkscape:connector-curvature="0" />
-      <rect
-         ry="18.734186"
-         y="462.61661"
-         x="296.45569"
-         height="49.482063"
-         width="150.0639"
+         d="M 339.45898 346.82812 C 269.94389 346.82812 213.60547 402.89711 213.60547 472.08203 C 213.60547 541.2661 269.94389 597.33398 339.45898 597.33398 C 340.03571 597.33398 340.60871 597.32019 341.18359 597.3125 C 347.07031 531.56928 399.64826 478.77972 465.30469 472.5 C 465.30515 472.36033 465.31055 472.22181 465.31055 472.08203 C 465.31055 402.89711 408.97441 346.82813 339.45898 346.82812 z M 453.33789 525.45703 C 424.72482 533.86177 402.36253 556.30498 394.0918 584.94922 C 420.0459 572.4847 441.03625 551.41355 453.33789 525.45703 z "
+         style="fill:#fbb516;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
          id="rect4202"
+         d="M 284.07812 447.06055 C 273.69939 447.06055 265.34375 455.41618 265.34375 465.79492 L 265.34375 477.80859 C 265.34375 488.18733 273.69939 496.54297 284.07812 496.54297 L 365.20312 496.54297 C 379.50295 482.32166 396.40816 470.72307 415.10742 462.53711 C 413.57168 453.72487 405.93685 447.06055 396.67188 447.06055 L 284.07812 447.06055 z "
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         inkscape:export-ydpi="3.5900128"
-         inkscape:export-xdpi="3.5900128"
-         inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
-         ry="112.74529"
-         rx="112.82331"
-         cy="625.16693"
-         cx="509.56113"
-         id="path4188-7"
-         style="opacity:1;fill:url(#linearGradient4391);fill-opacity:1;stroke:#ffffff;stroke-width:50.00000381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          inkscape:export-ydpi="3.5900128"
          inkscape:export-xdpi="3.5900128"
          inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
          ry="16.052956"
          rx="16.05707"
-         cy="625.54156"
-         cx="509.98495"
+         cy="609.98523"
+         cx="478.87225"
          id="path4190-9"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:50.00000381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
@@ -223,8 +184,8 @@
          transform="matrix(-0.93972077,-0.34194279,-0.34209752,0.93966445,0,0)"
          rx="8.7432241"
          ry="9.9015579"
-         y="413.24545"
-         x="-701.83508"
+         y="409.26559"
+         x="-667.27777"
          height="67.714424"
          width="17.486448"
          id="rect4194-8"
@@ -235,8 +196,8 @@
          inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
          ry="112.3707"
          rx="112.3995"
-         cy="624.87622"
-         cx="508.70163"
+         cy="609.31989"
+         cx="477.58893"
          id="path4188"
          style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
@@ -245,8 +206,8 @@
          inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
          ry="23.528934"
          rx="23.534964"
-         cy="625.26959"
-         cx="510.5582"
+         cy="609.71326"
+         cx="479.4455"
          id="path4190"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
@@ -258,8 +219,8 @@
          transform="matrix(-0.99990406,-0.01385166,-0.0139958,0.99990205,0,0)"
          rx="11.626015"
          ry="10.951156"
-         y="618.36639"
-         x="-531.93195"
+         y="603.24249"
+         x="-500.60458"
          height="74.892372"
          width="23.252029"
          id="rect4194"
@@ -272,7 +233,7 @@
          inkscape:transform-center-x="41.027969"
          inkscape:connector-curvature="0"
          id="rect4192-9"
-         d="m 408.61607,619.32106 c -2.29396,1.68226 -3.68572,3.99874 -3.64021,6.55406 0.091,5.11064 5.89809,9.18814 13.02064,9.14317 l 76.80556,-0.48529 c 7.12254,-0.0449 12.78292,-4.19358 12.69184,-9.30428 -0.091,-5.11065 -5.89587,-9.18976 -13.01841,-9.14481 l -76.80967,0.48505 c -3.56128,0.0225 -6.75568,1.06998 -9.0498,2.75205 z"
+         d="m 377.50337,603.76471 c -2.29396,1.68226 -3.68572,3.99874 -3.64021,6.55406 0.091,5.11064 5.89809,9.18814 13.02064,9.14317 l 76.80556,-0.48529 c 7.12254,-0.0449 12.78292,-4.19358 12.69184,-9.30428 -0.091,-5.11065 -5.89587,-9.18976 -13.01841,-9.14481 l -76.80967,0.48505 c -3.56128,0.0225 -6.75568,1.06998 -9.0498,2.75205 z"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
