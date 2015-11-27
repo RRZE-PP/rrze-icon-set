@@ -16,8 +16,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="4.9552112"
-   inkscape:export-ydpi="4.9552112"
+   inkscape:export-xdpi="4.9507661"
+   inkscape:export-ydpi="4.9507661"
    sodipodi:docname="RASTER22.svg"
    inkscape:export-filename="C:\Users\johannes\Desktop\rect4181.png">
   <defs
@@ -175,6 +175,25 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-6" />
+    <linearGradient
+       id="linearGradient8488">
+      <stop
+         id="stop8490"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+      <stop
+         id="stop8492"
+         offset="0.49027923"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop8494"
+         offset="0.9375"
+         style="stop-color:#ffffff;stop-opacity:0.43333334;" />
+      <stop
+         id="stop8496"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -184,8 +203,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="395.29744"
-     inkscape:cy="443.19174"
+     inkscape:cx="518.64604"
+     inkscape:cy="540.3334"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -195,7 +214,11 @@
      inkscape:window-height="721"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true">
     <sodipodi:guide
        position="315.53572,730.17859"
        orientation="0,1"
@@ -401,11 +424,71 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Johannes Hechler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Johannes Hechler</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RRZE</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Ute Weber
+Hendrik Eggers</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <g
+       id="g3"
+       transform="matrix(0.71594513,0,0,0.71594513,207.27539,340.46782)">
+      <g
+         id="g5">
+        <g
+           id="g7">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#090509"
+             d="M 254.26,0 C 113.845,0 0,113.845 0,254.26 0,394.675 113.845,508.52 254.26,508.52 394.675,508.52 508.52,394.675 508.52,254.26 508.52,113.845 394.675,0 254.26,0 Z M 36.327,254.26 c 0,-30.765 6.801,-60.005 18.879,-86.385 l 103.96,277.397 C 86.448,410.884 36.327,338.261 36.327,254.26 Z M 254.26,466.567 c -21.39,0 -42.016,-3.083 -61.563,-8.613 l 65.377,-185.101 66.934,178.745 1.557,2.956 c -22.597,7.722 -46.911,12.013 -72.305,12.013 z m 29.971,-311.818 c 13.094,-0.667 24.949,-2.002 24.949,-2.002 11.728,-1.367 10.361,-18.148 -1.367,-17.512 0,0 -35.31,2.702 -58.13,2.702 -21.39,0 -57.399,-2.702 -57.399,-2.702 -11.759,-0.667 -13.126,16.813 -1.398,17.512 0,0 11.124,1.335 22.852,2.002 l 33.975,90.612 -47.706,139.334 -79.329,-229.914 c 13.158,-0.667 24.949,-2.002 24.949,-2.002 11.728,-1.367 10.361,-18.148 -1.367,-17.512 0,0 -35.31,2.702 -58.067,2.702 l -14.016,-0.254 c 38.934,-57.622 105.931,-95.697 182.05,-95.697 56.732,0 108.378,21.135 147.185,55.715 l -2.829,-0.191 c -21.421,0 -36.582,18.148 -36.582,37.662 0,17.512 10.329,32.291 21.358,49.803 8.391,14.175 17.989,32.323 17.989,58.543 0,18.148 -7.151,39.22 -16.559,68.65 l -21.771,70.716 -78.787,-228.167 z m 79.583,282.928 66.584,-187.421 c 12.459,-30.289 16.559,-54.475 16.559,-76.024 0,-7.818 -0.509,-15.065 -1.43,-21.835 16.972,30.257 26.697,64.963 26.697,101.863 -0.032,78.312 -43.605,146.676 -108.41,183.417 z"
+             id="path9" />
+        </g>
+      </g>
+    </g>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#99b000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4238"
+       cx="389.27734"
+       cy="522.46979"
+       r="182.07045" />
+  </g>
 </svg>

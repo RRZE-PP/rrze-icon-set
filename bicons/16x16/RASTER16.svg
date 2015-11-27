@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="3.38767"
-   inkscape:export-ydpi="3.38767"
+   inkscape:export-xdpi="3.5971742"
+   inkscape:export-ydpi="3.5971742"
    sodipodi:docname="RASTER16.svg"
-   inkscape:export-filename="C:\Users\johannes\Desktop\rect33361a.png">
+   inkscape:export-filename="C:\Users\johannes\Desktop\test.png">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -122,6 +122,25 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-8" />
+    <linearGradient
+       id="linearGradient8488">
+      <stop
+         id="stop8490"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+      <stop
+         id="stop8492"
+         offset="0.49027923"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop8494"
+         offset="0.9375"
+         style="stop-color:#ffffff;stop-opacity:0.43333334;" />
+      <stop
+         id="stop8496"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -130,9 +149,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.51313131"
-     inkscape:cx="249.73065"
-     inkscape:cy="543.54813"
+     inkscape:zoom="0.5131313"
+     inkscape:cx="327.10301"
+     inkscape:cy="677.95615"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -143,7 +162,13 @@
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="false">
     <sodipodi:guide
        position="315.53572,730.17859"
        orientation="0,1"
@@ -216,7 +241,7 @@
        orientation="1,0"
        id="guide4213" />
     <sodipodi:guide
-       position="364.51355,536.51729"
+       position="364.91635,429.71459"
        orientation="1,0"
        id="guide4215" />
     <sodipodi:guide
@@ -301,6 +326,27 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Johannes Hechler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Johannes Hechler</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RRZE</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Ute Weber
+Hendrik Eggers</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
     </rdf:RDF>
   </metadata>
