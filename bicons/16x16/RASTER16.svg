@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -15,8 +16,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="3.5971742"
-   inkscape:export-ydpi="3.5971742"
+   inkscape:export-xdpi="3.5995929"
+   inkscape:export-ydpi="3.5995929"
    sodipodi:docname="RASTER16.svg"
    inkscape:export-filename="C:\Users\johannes\Desktop\test.png">
   <defs
@@ -141,6 +142,38 @@
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4254">
+      <stop
+         style="stop-color:#7a8597;stop-opacity:1"
+         offset="0"
+         id="stop4256" />
+      <stop
+         style="stop-color:#4e505d;stop-opacity:1"
+         offset="1"
+         id="stop4258" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4254"
+       id="linearGradient4260-9"
+       x1="380.01031"
+       y1="330.40619"
+       x2="414.6156"
+       y2="457.18103"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1539288,0,0,1.152224,-251.6585,-380.72572)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4254"
+       id="linearGradient4268-4"
+       x1="358.43118"
+       y1="465.73074"
+       x2="429.96555"
+       y2="644.62878"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1386133,0,0,1.1369311,-245.15497,-375.03749)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -149,9 +182,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5131313"
-     inkscape:cx="327.10301"
-     inkscape:cy="677.95615"
+     inkscape:zoom="1"
+     inkscape:cx="289.91511"
+     inkscape:cy="530.4235"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -168,7 +201,7 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <sodipodi:guide
        position="315.53572,730.17859"
        orientation="0,1"
@@ -189,7 +222,7 @@
        orientation="0,1"
        id="guide3409" />
     <sodipodi:guide
-       position="589.04521,378.30213"
+       position="564.00001,281.11672"
        orientation="1,0"
        id="guide3411" />
     <sodipodi:guide
@@ -244,14 +277,6 @@
        position="364.91635,429.71459"
        orientation="1,0"
        id="guide4215" />
-    <sodipodi:guide
-       position="368.22587,554.37174"
-       orientation="0,1"
-       id="guide4217" />
-    <sodipodi:guide
-       position="384.37501,529.37502"
-       orientation="0,1"
-       id="guide4219" />
     <sodipodi:guide
        position="389.50001,532.62502"
        orientation="1,0"
@@ -316,6 +341,18 @@
        position="499.79174,329.86428"
        orientation="0,1"
        id="guide4252" />
+    <sodipodi:guide
+       position="57.187959,554.3098"
+       orientation="0,1"
+       id="guide4384" />
+    <sodipodi:guide
+       position="645.94833,529.84989"
+       orientation="0,1"
+       id="guide4381" />
+    <sodipodi:guide
+       position="589.01875,329.17527"
+       orientation="1,0"
+       id="guide4330" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
