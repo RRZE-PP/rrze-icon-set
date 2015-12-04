@@ -16,11 +16,22 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="4"
-   inkscape:export-ydpi="4"
-   sodipodi:docname="user-other.svg">
+   inkscape:export-xdpi="162.00002"
+   inkscape:export-ydpi="162.00002"
+   sodipodi:docname="user-other.svg"
+   inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\github3\bicons\720x720\categories\user-other.png">
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4254"
+       id="linearGradient4268"
+       x1="358.43118"
+       y1="465.73074"
+       x2="429.96555"
+       y2="644.62878"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1386133,0,0,1.1386133,58.883919,84.602127)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4254">
@@ -42,16 +53,7 @@
        x2="414.6156"
        y2="457.18103"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.37005758,-0.39466108)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4254"
-       id="linearGradient4268"
-       x1="358.43118"
-       y1="465.73074"
-       x2="429.96555"
-       y2="644.62878"
-       gradientUnits="userSpaceOnUse" />
+       gradientTransform="matrix(1.1011151,0,0,1.1092129,71.565789,93.882517)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -60,19 +62,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-43.839876"
-     inkscape:cy="581.16095"
+     inkscape:zoom="0.5"
+     inkscape:cx="557.62904"
+     inkscape:cy="493.08749"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true">
     <sodipodi:guide
        position="315.53572,730.17859"
        orientation="0,1"
@@ -162,39 +167,40 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4169"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#252525;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion4171"><rect
-           id="rect4173"
-           width="56.433445"
-           height="88.78862"
-           x="89.541069"
-           y="427.07962" /></flowRegion><flowPara
-         id="flowPara4175" /></flowRoot>    <rect
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3336"
-       width="400"
-       height="400"
-       x="189.14485"
-       y="322.27005"
-       inkscape:export-xdpi="4.9499998"
-       inkscape:export-ydpi="4.9499998" />
     <g
-       id="g4289"
-       transform="matrix(1.1386133,0,0,1.1386133,-55.431261,-53.501176)">
+       id="g4237"
+       transform="translate(-114.35288,-138.18969)">
+      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#252525;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4169"
+         xml:space="preserve"
+         transform="translate(114.31518,138.10331)"><flowRegion
+           id="flowRegion4171"><rect
+             y="427.07962"
+             x="89.541069"
+             height="88.78862"
+             width="56.433445"
+             id="rect4173" /></flowRegion><flowPara
+           id="flowPara4175" /></flowRoot>      <rect
+         inkscape:export-ydpi="4.9499998"
+         inkscape:export-xdpi="4.9499998"
+         y="460.37332"
+         x="303.46002"
+         height="400"
+         width="400"
+         id="rect3336"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         sodipodi:nodetypes="cccsccccccscsc"
+         sodipodi:nodetypes="cccsccccccscscc"
          inkscape:connector-curvature="0"
          id="path2176"
-         d="m 354.64258,460.41602 c -0.11745,0.1039 -0.22449,0.21556 -0.3457,0.3164 l -6.54297,3.54492 c -42.67576,25.28071 -72.76172,86.25893 -72.76172,157.46875 0,15.29493 1.39507,30.1142 3.99804,44.21289 3.86098,8.63739 13.56182,14.96807 25.18555,15.79493 l 0,0.0957 172.76172,0 0,-0.008 c 13.04649,-0.18416 24.03463,-7.28341 27.72656,-17.01563 2.4704,-13.75919 3.79102,-28.19351 3.79102,-43.08008 0,-74.54936 -32.9771,-137.88441 -78.85156,-160.78515 -10.95259,6.14942 -23.5778,9.67773 -37.00391,9.67773 -13.81748,10e-6 -26.78697,-3.73654 -37.95703,-10.22265 z"
+         d="m 460.68468,612.83793 c -0.13373,0.11831 -0.25561,0.24544 -0.39362,0.36026 l -7.44991,4.03629 c -48.59119,28.78496 -82.40552,94.12718 -82.40552,175.20763 0,17.41498 1.58844,34.28838 4.55222,50.34138 4.39616,9.8346 15.44167,17.0428 28.6766,17.9843 l 0,0.109 196.70879,0 0,-0.01 c 14.85491,-0.2097 27.36615,-8.293 31.56983,-19.3743 2.81283,-15.6664 4.31651,-32.1015 4.31651,-49.0515 0,-84.88289 -37.99011,-152.90863 -90.22338,-178.98372 -12.47076,7.00181 -26.846,11.01919 -42.13314,11.01919 -15.73277,10e-6 -30.5,-4.25447 -43.21838,-11.63964 z"
          style="fill:url(#linearGradient4268);fill-opacity:1;stroke:none;stroke-width:41.15159225;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <ellipse
-         ry="65.293182"
-         rx="65.647316"
-         cx="392.98022"
-         cy="395.83826"
+         ry="72.424042"
+         rx="72.285255"
+         cx="503.87479"
+         cy="533.38922"
          id="circle2187-6"
          style="fill:url(#linearGradient4260);fill-opacity:1;stroke:none;stroke-width:14;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
