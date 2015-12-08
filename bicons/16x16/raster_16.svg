@@ -17,10 +17,18 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="raster_16.svg"
    inkscape:export-filename="C:\Users\johannes\Desktop\16raster.png"
-   inkscape:export-xdpi="3.5948946"
-   inkscape:export-ydpi="3.5948946">
+   inkscape:export-xdpi="3.5999999"
+   inkscape:export-ydpi="3.5999999">
   <defs
-     id="defs4203" />
+     id="defs4203">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 200 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="400 : 200 : 1"
+       inkscape:persp3d-origin="200 : 133.33334 : 1"
+       id="perspective4284" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="172.84696"
-     inkscape:cy="191.66342"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-440.56475"
+     inkscape:cy="270.54008"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,7 +98,9 @@
     <sodipodi:guide
        position="200,406.58641"
        orientation="1,0"
-       id="guide4811" />
+       id="guide4811"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,171)" />
     <sodipodi:guide
        position="225,405.43736"
        orientation="1,0"
@@ -156,9 +166,11 @@
        orientation="0,1"
        id="guide4843" />
     <sodipodi:guide
-       position="405.43735,199.99998"
+       position="405.43735,200"
        orientation="0,1"
-       id="guide4845" />
+       id="guide4845"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,206)" />
     <sodipodi:guide
        position="404.64185,174.99998"
        orientation="0,1"

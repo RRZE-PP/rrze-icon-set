@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -66,28 +65,6 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-5" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4167"
-       id="linearGradient4203"
-       x1="249.23784"
-       y1="681.41742"
-       x2="511.04788"
-       y2="441.42242"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.95413401,0,0,0.95413401,18.30874,16.537225)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4167">
-      <stop
-         style="stop-color:#4e505d;stop-opacity:1;"
-         offset="0"
-         id="stop4169" />
-      <stop
-         style="stop-color:#7a8597;stop-opacity:1"
-         offset="1"
-         id="stop4171" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -97,8 +74,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="296.37804"
-     inkscape:cy="533.10289"
+     inkscape:cx="263.37804"
+     inkscape:cy="542.10289"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -173,41 +150,5 @@
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g4183">
-      <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#252525;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4169"
-         xml:space="preserve"
-         transform="translate(-0.14485,0.092155)"><flowRegion
-           id="flowRegion4171"><rect
-             y="427.07962"
-             x="89.541069"
-             height="88.78862"
-             width="56.433445"
-             id="rect4173" /></flowRegion><flowPara
-           id="flowPara4175" /></flowRoot>      <rect
-         inkscape:export-ydpi="4.9499998"
-         inkscape:export-xdpi="4.9499998"
-         y="322.36221"
-         x="189"
-         height="400"
-         width="400"
-         id="rect3336"
-         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccsssscc"
-         inkscape:connector-curvature="0"
-         id="rect4182"
-         d="m 221.48558,430.35519 c -8.09218,0 -14.62177,6.77135 -14.62177,14.86757 0,75.99346 0,123.98693 0,199.98039 0,12.14424 9.77199,21.92113 21.91028,21.92113 l 321.35072,0 c 12.13826,0 21.91026,-9.77689 21.91026,-21.92113 l 0,-193.98366 c 0,-12.14432 -9.772,-21.92119 -21.91026,-21.92119 z"
-         style="opacity:1;fill:url(#linearGradient4203);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccsccc"
-         inkscape:connector-curvature="0"
-         id="path4219"
-         d="m 207.57955,412.45241 163.76572,0 c 0,0 -12.07209,-36.81486 -30.07209,-36.81486 l -121.43191,0 -12.26172,12 z"
-         style="fill:#99b000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-  </g>
+     id="layer1" />
 </svg>
