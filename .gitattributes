@@ -16,3 +16,11 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
+# HE add PowerShell files +
+# Declare files that will always have CRLF line endings on checkout.
+#copied from https://gist.github.com/KirkMunro/d873a755b38a7bfa2495#file-powershell-unsigned-gitattributes
+*.ps1    diff=astextplain  eol=crlf
+*.psm1   diff=astextplain  eol=crlf
+*.psd1   diff=astextplain  eol=crlf
+*.psc1   diff=astextplain  eol=crlf
+
