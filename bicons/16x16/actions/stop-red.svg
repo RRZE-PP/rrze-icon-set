@@ -15,10 +15,12 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="_template.svg"
-   inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\bi-con\bi-con\scalable\documents\document.png"
-   inkscape:export-xdpi="4"
-   inkscape:export-ydpi="4">
+   inkscape:export-xdpi="3.5999997"
+   inkscape:export-ydpi="3.5999997"
+   sodipodi:docname="stop-red.svg"
+   inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\github3\bicons\16x16\actions\stop-red.png">
+  <title
+     id="title4157">stop</title>
   <defs
      id="defs4">
     <linearGradient
@@ -58,13 +60,6 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-5" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -74,8 +69,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="45.199358"
-     inkscape:cy="413.0348"
+     inkscape:cx="217.78706"
+     inkscape:cy="446.39345"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -85,34 +80,30 @@
      inkscape:window-height="721"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="false">
     <sodipodi:guide
-       position="560,730.00002"
+       position="452.01801,729.91099"
        orientation="0,1"
        id="guide3338" />
     <sodipodi:guide
-       position="560,330.00001"
+       position="351.25,330.17858"
        orientation="0,1"
        id="guide3340" />
     <sodipodi:guide
-       position="190,475.00001"
+       position="189.10714,408.8393"
        orientation="1,0"
        id="guide3344" />
-    <sodipodi:guide
-       position="590,451.00001"
-       orientation="1,0"
-       id="guide3346" />
     <inkscape:grid
        type="xygrid"
        id="grid3440" />
     <sodipodi:guide
-       position="215,442.00001"
+       position="589.04521,378.30213"
        orientation="1,0"
-       id="guide4155" />
-    <sodipodi:guide
-       position="564.97832,467.39759"
-       orientation="1,0"
-       id="guide4157" />
+       id="guide3411" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -122,6 +113,28 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>stop</dc:title>
+        <dc:date>June 2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Johannes Hechler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Johannes Hechler</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RRZE</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Ute Weber, Hendrik Eggers</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -129,12 +142,33 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4160"
-       width="400"
-       height="400"
-       x="190"
-       y="322.36221" />
+    <g
+       transform="translate(189.04521,-329.91095)"
+       id="g4200">
+      <rect
+         inkscape:export-ydpi="4.9499998"
+         inkscape:export-xdpi="4.9499998"
+         y="652.36218"
+         x="-6.5321733e-006"
+         height="400"
+         width="400"
+         id="rect3336"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <ellipse
+         ry="174.7028"
+         rx="174.55432"
+         style="opacity:1;fill:#d9463a;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4173"
+         cx="199.55431"
+         cy="852.65936" />
+      <rect
+         ry="11.698502"
+         y="777.36218"
+         x="125"
+         height="150.00003"
+         width="150"
+         id="rect4173"
+         style="color:#252525;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#252525;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
