@@ -74,6 +74,69 @@
        x2="612"
        y2="306"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3796">
+      <stop
+         style="stop-color:#3465a4;stop-opacity:1;"
+         offset="0"
+         id="stop3798" />
+      <stop
+         style="stop-color:#252525;stop-opacity:1;"
+         offset="1"
+         id="stop3800" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3812">
+      <stop
+         style="stop-color:#fce94f;stop-opacity:1;"
+         offset="0"
+         id="stop3814" />
+      <stop
+         style="stop-color:#fcaf3e;stop-opacity:1;"
+         offset="1"
+         id="stop3816" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2116">
+      <stop
+         id="stop2118"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop2120"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3875">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3877" />
+      <stop
+         id="stop3885"
+         offset="0.20752585"
+         style="stop-color:#ffffff;stop-opacity:0.50649351;" />
+      <stop
+         id="stop3883"
+         offset="0.9507187"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3879" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3889">
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1;"
+         offset="0"
+         id="stop3891" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3893" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -82,9 +145,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32792077"
-     inkscape:cx="528.55678"
-     inkscape:cy="-499.07734"
+     inkscape:zoom="1"
+     inkscape:cx="267.15305"
+     inkscape:cy="148.75699"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -356,21 +419,5 @@ Hendrik Eggers</dc:title>
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-652.36214)">
-    <g
-       id="g4197-8"
-       transform="matrix(1.0456385,-0.07484384,0.07484384,1.0456385,-261.3163,332.06514)" />
-    <g
-       id="g4197-9"
-       transform="matrix(1.0456385,-0.07484384,0.07484384,1.0456385,-261.3163,332.06514)" />
-    <g
-       id="g4197-3"
-       transform="matrix(1.0456385,-0.07484384,0.07484384,1.0456385,-261.3163,332.06514)" />
-    <g
-       id="g4197-11"
-       transform="matrix(1.0456385,-0.07484384,0.07484384,1.0456385,-261.3163,332.06514)" />
-    <g
-       id="g4197-5"
-       transform="matrix(1.0456385,-0.07484384,0.07484384,1.0456385,-261.3163,332.06514)" />
-  </g>
+     transform="translate(0,-652.36214)" />
 </svg>
