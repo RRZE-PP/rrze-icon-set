@@ -6,10 +6,8 @@ def designDirectory = new File(this.args[0])
 def dimensionsWithOwnScalable = ['16x16', '22x22']
 def dimensionsWithoutScalable = ['32x32', '48x48', '72x72', '150x150', '720x720']
 
+//def pathSeperator =
 
-this.args.each {
-	println it
-}
 
 scalablePath = new File(designDirectory.getPath()+"/scalable")
 
@@ -62,57 +60,41 @@ scalablePath.eachDir () { categoryDirectory ->
 
 println "============ generate missing png =============="
 
-//def pathSeperator = 
 
-def generatePng = { srcFile, dimension, categoryDirectory ->
-	def dimArr = dimension.split('x')
-	
-	def names = (srcFile.name.split("\\."))
-	def name = names.size() > 1 ? (names - names[-1]).join('.') : names[0]
-					
-	scaledPNG = new File(designDirectory.getPath()+"/"+ dimension +"/"+ categoryDirectory.getName() +"/"+ name +".png")
-	if (!scaledPNG.exists()) {
-//		println scaledPNG.getPath() +" is missing!!!"
-		println "inkscape ${files.path} --export-png=${scaledPNG.path} -w${dimArr[0]} -h${dimArr[1]}"//.execute().text
-	}
-
-}
 
 //create pathes for generated png from scalable
 scalablePath.eachDir () { categoryDirectory ->
     categoryDirectory.eachFile { files ->
-         
+		def names = (files.name.split("\\."))
+		def name = names.size() > 1 ? (names - names[-1]).join('.') : names[0]
         //loop for all elements of dimensionsWithoutScalable
                 for ( dimension in dimensionsWithoutScalable) {
                 
 					def dimArr = dimension.split('x')
 					
-                    def names = (files.name.split("\\."))
-                    def name = names.size() > 1 ? (names - names[-1]).join('.') : names[0]
                                     
                     scaledPNG = new File(designDirectory.getPath()+"/"+ dimension +"/"+ categoryDirectory.getName() +"/"+ name +".png")
                     if (!scaledPNG.exists()) {
-//						println scaledPNG.getPath() +" is missing!!!"
 						println "inkscape ${files.path} --export-png=${scaledPNG.path} -w${dimArr[0]} -h${dimArr[1]}".execute().text
                     }
                 }
+				for ( dimension in dimensionsWithOwnScalable) {
+					def dimArr = dimension.split('x')
+					scaledSVG = new File(designDirectory.getPath()+"/"+ dimension +"/"+ categoryDirectory.getName() +"/"+ files.getName())
+					if (scaledSVG.exists()) {
+						scaledPNG = new File(designDirectory.getPath()+"/"+ dimension +"/"+ categoryDirectory.getName() +"/"+ name +".png")
+						if (scaledPNG.exists()) {
+							println "inkscape ${scaledSVG.path} --export-png=${scaledPNG.path} -w${dimArr[0]} -h${dimArr[1]}".execute().text
+						}
+					}
+				}
             }
         }
 
 
 
-//scalablePath.eachDir () { categoryDirectory ->
-//	categoryDirectory.eachFile { files ->
-//		 
-//		//loop for all elements of dimensionsWithOwnScalable
-//				for ( dimension in dimensionsWithOwnScalable) {
-//					scaledSVG = new File(designDirectory.getPath()+"/"+ dimension +"/"+ categoryDirectory.getName() +"/"+ files.getName())
-//					if (scaledSVG.exists()) {
-//						println "-> "+ scaledSVG.getPath() +" -> needs to be generated manually!"
-//						scaledPNG = new File(designDirectory.getPath()+"/"+ dimension +"/"+ categoryDirectory.getName() +"/"+ name +".png")
-//						if (scaledPNG.exists()) {
-//							println "inkscape ${files.path} --export-png=${scaledPNG.path} -w${dimArr[0]} -h${dimArr[1]}"//.execute().text
-//						}
-//				}
-//			}
-//		}
+
+
+
+
+
