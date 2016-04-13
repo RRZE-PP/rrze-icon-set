@@ -1,6 +1,4 @@
 
-//how to use it if not argument args[0] to the script
-//final workingDirFS = FS.default.getPath('/Users/unrz198/git/rrze-icon-set/monocrom')
 def designDirectory = new File(this.args[0])
 
 def dimensionsWithOwnScalable = ['16x16', '22x22']
@@ -8,6 +6,18 @@ def dimensionsWithoutScalable = ['32x32', '48x48', '72x72', '150x150', '720x720'
 
 def force = this.args?.size() >1?this.args[1] =='-f' || this.args[1] =='--force':false
 
+def os = System.getProperty("os.name")
+def inkscape = ''  
+switch (os) {  
+            case 'Linux' :  
+                inkscape = '/usr/bin/inkscape'  
+                break  
+            case 'Mac OS X' :  
+                inkscape = '/Applications/Inkscape.app/Contents/Resources/bin/inkscape'  
+                break  
+            default:  
+                inkscape = 'C:/Program Files/inkscape/inkscape.exe'
+        }  
 println System.getProperty("os.name")
 
 scalablePath = new File(designDirectory.getPath()+ File.separator + "scalable")
@@ -163,9 +173,9 @@ scalablePath.eachDir () { categoryDirectory ->
         }
 
 def generatePNGCmd = { src, dest ,dimArr ->
-	if (!dest.exists() || force) {
-		println "inkscape ${src.path} --export-png=${dest.path} -w${dimArr[0]} -h${dimArr[1]}".execute().text
-	}
+    if (!dest.exists() || force) {
+        println "${inkscape} ${src.path} --export-png=${dest.path} -w${dimArr[0]} -h${dimArr[1]}".execute().text
+    }
 }
 
 
