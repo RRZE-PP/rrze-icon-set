@@ -15,11 +15,57 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="4"
-   inkscape:export-ydpi="4"
-   sodipodi:docname="right-red.svg">
+   inkscape:export-xdpi="4.9438939"
+   inkscape:export-ydpi="4.9438939"
+   sodipodi:docname="right-red.svg"
+   inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\github3\bicons\22x22\actions\right-red.png">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient2224">
+      <stop
+         id="stop2226"
+         offset="0"
+         style="stop-color:#7c7c7c;stop-opacity:1;" />
+      <stop
+         id="stop2228"
+         offset="1"
+         style="stop-color:#b8b8b8;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient15218">
+      <stop
+         id="stop15220"
+         offset="0"
+         style="stop-color:#eeeeef;stop-opacity:1;" />
+      <stop
+         id="stop2736"
+         offset="0.59928656"
+         style="stop-color:#d3d7cf;stop-opacity:1;" />
+      <stop
+         id="stop2738"
+         offset="0.82758623"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop15222"
+         offset="1"
+         style="stop-color:#d3d7cf;stop-opacity:1;" />
+    </linearGradient>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-5" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,18 +73,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="-61.735"
-     inkscape:cy="493.42918"
+     inkscape:zoom="1"
+     inkscape:cx="134.65559"
+     inkscape:cy="535.46935"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="315.53572,730.17859"
@@ -91,32 +137,10 @@
         </dc:publisher>
         <dc:contributor>
           <cc:Agent>
-            <dc:title>Ute Weber, Hendrik Eggers, Joanna Barbach</dc:title>
+            <dc:title>Ute Weber, Hendrik Eggers</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <dc:subject>
-          <rdf:Bag>
-            <rdf:li>right</rdf:li>
-          </rdf:Bag>
-        </dc:subject>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -125,18 +149,19 @@
      id="layer1">
     <rect
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3336"
+       id="rect3336-0"
        width="400"
        height="400"
-       x="189.14485"
-       y="-722.27002"
+       x="-722.36218"
+       y="-588.83282"
        inkscape:export-xdpi="4.9499998"
        inkscape:export-ydpi="4.9499998"
-       transform="scale(1,-1)" />
+       transform="matrix(0,-1,-1,0,0,0)" />
     <path
        style="fill:#d9463a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 564.85005,526.72086 c 0,2.98898 -2,5.97794 -6,9.96324 l -164,139.48536 c -8.00001,7.97058 -19.99999,3.98529 -19.99999,-11.95589 l 0,-47.82355 -140.00001,0 c -11.08001,0 -20,-8.88725 -20,-19.92648 l 0,-139.48536 c 0,-11.03923 8.91999,-19.92647 20,-19.92647 l 140.00001,0 0,-47.82356 c 0,-15.94118 15.99999,-15.94118 19.99999,-11.95588 l 164,139.48535 c 4,3.9853 6,6.97427 6,9.96324 z"
-       id="path4237"
-       inkscape:connector-curvature="0" />
+       d="m 588.33881,522.50661 c 0,3.42859 -2.28572,6.85715 -6.85715,11.42858 L 410.73045,699.58921 c -9.14285,9.14286 -22.7307,4.571 -22.85715,-13.71428 l -0.37588,-54.35715 -177.06036,-0.17677 c -12.66285,-0.0126 -21.96407,-10.3711 -21.97326,-23.03392 l -0.125,-172.26256 c -0.009,-12.66282 9.31043,-22.70561 21.97326,-22.68035 l 177.06036,0.17677 0,-57.8446 c 0,-18.2857 15.47896,-18.60004 24.21069,-9.02861 l 169.89855,164.41031 c 4.57143,4.57143 6.85715,8 6.85715,11.42856 z"
+       id="path4237-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccscsssscsccs" />
   </g>
 </svg>
