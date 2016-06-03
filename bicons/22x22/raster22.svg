@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -297,6 +298,31 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-2" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="XMLID_2_-4"
+       x1="216.1084"
+       x2="216.1084"
+       y1="348.98831"
+       y2="7.2768998">
+      <stop
+         id="stop12094-0"
+         offset="0"
+         style="stop-color:#cc0000;stop-opacity:1;" />
+      <stop
+         id="stop12096-9"
+         offset="1"
+         style="stop-color:#edd400;stop-opacity:1;" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#F40A0B" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#F40A0B" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#F5E710" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -306,8 +332,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="167.72023"
-     inkscape:cy="220.58574"
+     inkscape:cx="71.187012"
+     inkscape:cy="203.14898"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"

@@ -16,8 +16,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="3.5840662"
-   inkscape:export-ydpi="3.5840662"
+   inkscape:export-xdpi="3.5945532"
+   inkscape:export-ydpi="3.5945532"
    sodipodi:docname="flag-green-clock.svg"
    inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\github3\bicons\16x16\status\flag-green-clock.png">
   <defs
@@ -67,7 +67,7 @@
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-5" />
     <linearGradient
-       gradientTransform="matrix(1.0056769,0,0,1.0267843,-144.23414,-163.73115)"
+       gradientTransform="matrix(1.0085628,0,0,1.0267843,5.9014557,-12.36788)"
        inkscape:collect="always"
        xlink:href="#linearGradient4166"
        id="linearGradient4184"
@@ -88,28 +88,6 @@
          offset="1"
          id="stop4170" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4197"
-       id="linearGradient4391"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.58714174,0,0,0.59166753,249.29344,300.22529)"
-       x1="197.56491"
-       y1="523.36218"
-       x2="580.435"
-       y2="523.36218" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4197">
-      <stop
-         style="stop-color:#4e505d;stop-opacity:1;"
-         offset="0"
-         id="stop4199" />
-      <stop
-         style="stop-color:#7a8597;stop-opacity:1"
-         offset="1"
-         id="stop4201" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -119,7 +97,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="480.52375"
+     inkscape:cx="64.52375"
      inkscape:cy="408.95281"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -209,28 +187,19 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4359">
-      <g
-         inkscape:export-ydpi="3.5900128"
-         inkscape:export-xdpi="3.5900128"
-         inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
-         transform="matrix(1.0028696,0,0,1,150.54949,151.36327)"
-         id="g4199">
-        <rect
-           style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4161"
-           width="25.121624"
-           height="400"
-           x="63.348392"
-           y="170.8372"
-           ry="11.810812" />
-        <path
-           style="opacity:1;fill:url(#linearGradient4184);fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 122.73107,192.90729 c 5.17965,-1.35285 75.8304,-49.54101 143.20599,0 67.37559,49.54101 136.25376,0 136.25376,0 5.25347,-1.30446 9.63654,4.3881 9.63654,9.83879 l 0,157.42078 c 0,5.45069 -4.17744,7.99403 -9.63654,9.8388 0,0 -82.70332,39.23246 -136.83891,0 -54.13559,-39.23247 -92.23246,-22.88656 -142.62084,0 -4.87774,2.21548 -9.63654,-4.38811 -9.63654,-9.8388 l 0,-157.42078 c 0,-5.45069 4.46445,-8.48792 9.63654,-9.83879 z"
-           id="rect4163"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="szsssszssss" />
-      </g>
+       id="g4206">
+      <rect
+         ry="11.810812"
+         y="322.20047"
+         x="214.07967"
+         height="400"
+         width="25.193712"
+         id="rect4161"
+         style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="rect4163"
+         d="M 349.20508 321.95312 C 308.7273 322.32421 277.04171 343.38368 273.63281 344.27148 C 268.44588 345.62235 263.96875 348.65868 263.96875 354.10938 L 263.96875 511.5293 C 263.96875 516.97999 268.74107 523.58462 273.63281 521.36914 C 315.08125 502.597 348.23889 488.23353 388.7793 505.32227 C 412.8656 484.37667 444.204 471.6582 478.39844 471.6582 C 510.52022 471.6582 540.12095 482.88221 563.55859 501.60547 L 563.55859 354.10938 C 563.55859 348.65868 559.16307 342.96702 553.89453 344.27148 C 553.89453 344.27148 484.81893 393.81249 417.25 344.27148 C 394.02318 327.24176 370.40772 321.75875 349.20508 321.95312 z M 478.39844 521.6582 C 463.32613 521.6582 449.17685 525.44393 436.83203 532.13672 C 465.44513 542.9116 497.63191 538.74496 521.00977 532.7168 C 508.42056 525.6651 493.89838 521.6582 478.39844 521.6582 z "
+         style="opacity:1;fill:url(#linearGradient4184);fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          inkscape:export-ydpi="3.5900128"
          inkscape:export-xdpi="3.5900128"
@@ -255,88 +224,74 @@
          width="400"
          id="rect3336"
          style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <g
-         transform="translate(0.70720611,0.04242327)"
-         id="g4561">
-        <ellipse
-           style="opacity:1;fill:url(#linearGradient4391);fill-opacity:1;stroke:#ffffff;stroke-width:50.00000381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path4188-7"
-           cx="477.69156"
-           cy="609.88171"
-           rx="112.3995"
-           ry="113.26588"
-           inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
-           inkscape:export-xdpi="3.5900128"
-           inkscape:export-ydpi="3.5900128" />
-        <ellipse
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:50.00000381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path4190-9"
-           cx="477.69156"
-           cy="609.88171"
-           rx="16.05707"
-           ry="16.18084"
-           inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
-           inkscape:export-xdpi="3.5900128"
-           inkscape:export-ydpi="3.5900128" />
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:50.00030518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4194-8"
-           width="17.502794"
-           height="68.190948"
-           x="-665.10516"
-           y="407.89291"
-           ry="9.9712381"
-           rx="8.7513971"
-           transform="matrix(-0.9388432,-0.34434495,-0.3397069,0.94053135,0,0)"
-           inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
-           inkscape:export-xdpi="3.5900128"
-           inkscape:export-ydpi="3.5900128" />
-        <ellipse
-           style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path4188"
-           cx="476.40823"
-           cy="609.21112"
-           rx="112.3995"
-           ry="113.26589"
-           inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
-           inkscape:export-xdpi="3.5900128"
-           inkscape:export-ydpi="3.5900128" />
-        <ellipse
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path4190"
-           cx="478.2648"
-           cy="609.6076"
-           rx="23.534964"
-           ry="23.716373"
-           inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
-           inkscape:export-xdpi="3.5900128"
-           inkscape:export-ydpi="3.5900128" />
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4194"
-           width="23.252066"
-           height="75.488876"
-           x="-499.3558"
-           y="603.10132"
-           ry="11.03838"
-           rx="11.626033"
-           transform="matrix(-0.99990253,-0.01396199,-0.01388521,0.9999036,0,0)"
-           inkscape:transform-center-x="1.4596236"
-           inkscape:transform-center-y="29.847469"
-           inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
-           inkscape:export-xdpi="3.5900128"
-           inkscape:export-ydpi="3.5900128" />
-        <path
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 376.32268,603.61172 c -2.29396,1.69566 -3.68572,4.03059 -3.64021,6.60627 0.091,5.15135 5.89809,9.26133 13.02064,9.21601 l 76.80556,-0.48916 c 7.12254,-0.0453 12.78292,-4.22699 12.69184,-9.3784 -0.091,-5.15136 -5.89587,-9.26297 -13.01841,-9.21766 l -76.80967,0.48891 c -3.56128,0.0227 -6.75568,1.07851 -9.0498,2.77398 z"
-           id="rect4192-9"
-           inkscape:connector-curvature="0"
-           inkscape:transform-center-x="41.027969"
-           inkscape:transform-center-y="-0.69882138"
-           inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
-           inkscape:export-xdpi="3.5900128"
-           inkscape:export-ydpi="3.5900128" />
-      </g>
+      <ellipse
+         inkscape:export-ydpi="3.5900128"
+         inkscape:export-xdpi="3.5900128"
+         inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
+         ry="16.18084"
+         rx="16.05707"
+         cy="609.92413"
+         cx="478.39877"
+         id="path4190-9"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:50.00000381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="3.5900128"
+         inkscape:export-xdpi="3.5900128"
+         inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
+         transform="matrix(-0.9388432,-0.34434495,-0.3397069,0.94053135,0,0)"
+         rx="8.7513971"
+         ry="9.9712381"
+         y="407.68921"
+         x="-665.78473"
+         height="68.190948"
+         width="17.502794"
+         id="rect4194-8"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:50.00030518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         inkscape:export-ydpi="3.5900128"
+         inkscape:export-xdpi="3.5900128"
+         inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
+         ry="113.26589"
+         rx="112.3995"
+         cy="609.25354"
+         cx="477.11545"
+         id="path4188"
+         style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         inkscape:export-ydpi="3.5900128"
+         inkscape:export-xdpi="3.5900128"
+         inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
+         ry="23.716373"
+         rx="23.534964"
+         cy="609.65002"
+         cx="478.97202"
+         id="path4190"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="3.5900128"
+         inkscape:export-xdpi="3.5900128"
+         inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
+         inkscape:transform-center-y="29.847469"
+         inkscape:transform-center-x="1.4596236"
+         transform="matrix(-0.99990253,-0.01396199,-0.01388521,0.9999036,0,0)"
+         rx="11.626033"
+         ry="11.03838"
+         y="603.13385"
+         x="-500.06354"
+         height="75.488876"
+         width="23.252066"
+         id="rect4194"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="3.5900128"
+         inkscape:export-xdpi="3.5900128"
+         inkscape:export-filename="C:\Users\johannes\Desktop\g4199.png"
+         inkscape:transform-center-y="-0.69882138"
+         inkscape:transform-center-x="41.027969"
+         inkscape:connector-curvature="0"
+         id="rect4192-9"
+         d="m 377.02989,603.65414 c -2.29396,1.69566 -3.68572,4.03059 -3.64021,6.60627 0.091,5.15135 5.89809,9.26133 13.02064,9.21601 l 76.80556,-0.48916 c 7.12254,-0.0453 12.78292,-4.22699 12.69184,-9.3784 -0.091,-5.15136 -5.89587,-9.26297 -13.01841,-9.21766 l -76.80967,0.48891 c -3.56128,0.0227 -6.75568,1.07851 -9.0498,2.77398 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
