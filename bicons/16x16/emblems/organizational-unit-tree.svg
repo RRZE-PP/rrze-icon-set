@@ -76,7 +76,8 @@
        y1="375.00003"
        x2="350"
        y2="75.000015"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(189.17748,322.36218)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4213">
@@ -98,15 +99,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="324.7561"
-     inkscape:cy="499.25012"
+     inkscape:cx="290.7561"
+     inkscape:cy="491.25012"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -171,19 +172,18 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       transform="translate(189.17748,-329.99998)"
-       id="g4221">
+       id="g4245">
       <rect
-         y="652.36218"
-         x="0.8225137"
+         y="322.36221"
+         x="190"
          height="400"
          width="399.17749"
          id="rect4168"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9729996;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:0.33699634;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20, 20;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
       <rect
          ry="16.273794"
-         y="927.36218"
-         x="325"
+         y="597.36218"
+         x="514.17749"
          height="75.64695"
          width="75"
          id="rect4273"
@@ -191,8 +191,7 @@
       <path
          inkscape:connector-curvature="0"
          id="rect4188"
-         transform="translate(0,652.36216)"
-         d="m 175,25 c -13.85,0 -25,11.150002 -25,25 l 0,75 c 0,13.85 11.15,25 25,25 l 25,0 0,50 -137.5,0 C 55.575,200 50,205.575 50,212.5 l 0,62.5 -6.25,0 C 33.3625,275 25,283.3625 25,293.75 l 0,37.5 C 25,341.6375 33.3625,350 43.75,350 l 37.5,0 C 91.6375,350 100,341.6375 100,331.25 l 0,-37.5 C 100,283.3625 91.6375,275 81.25,275 l -6.25,0 0,-50 125,0 0,50 -6.25,0 C 183.3625,275 175,283.3625 175,293.75 l 0,37.5 c 0,10.3875 8.3625,18.75 18.75,18.75 l 37.5,0 c 10.3875,0 18.75,-8.3625 18.75,-18.75 l 0,-37.5 C 250,283.3625 241.6375,275 231.25,275 l -6.25,0 0,-50 125,0 0,12.5 c 0,6.925 5.575,12.5 12.5,12.5 6.925,0 12.5,-5.575 12.5,-12.5 l 0,-25 c 0,-6.925 -5.575,-12.5 -12.5,-12.5 l -137.5,0 0,-50 25,0 c 13.85,0 25,-11.15 25,-25 l 0,-75 C 275,36.150002 263.85,25 250,25 l -75,0 z"
+         d="m 364.17748,347.36218 c -13.85,0 -25,11.15 -25,25 l 0,75 c 0,13.85 11.15,25 25,25 l 25,0 0,50 -137.5,0 c -6.925,0 -12.5,5.575 -12.5,12.5 l 0,62.5 -6.25,0 c -10.3875,0 -18.75,8.3625 -18.75,18.75 l 0,37.5 c 0,10.3875 8.3625,18.75 18.75,18.75 l 37.5,0 c 10.3875,0 18.75,-8.3625 18.75,-18.75 l 0,-37.5 c 0,-10.3875 -8.3625,-18.75 -18.75,-18.75 l -6.25,0 0,-50 125,0 0,50 -6.25,0 c -10.3875,0 -18.75,8.3625 -18.75,18.75 l 0,37.5 c 0,10.3875 8.3625,18.75 18.75,18.75 l 37.5,0 c 10.3875,0 18.75,-8.3625 18.75,-18.75 l 0,-37.5 c 0,-10.3875 -8.3625,-18.75 -18.75,-18.75 l -6.25,0 0,-50 125,0 0,12.5 c 0,6.925 5.575,12.5 12.5,12.5 6.925,0 12.5,-5.575 12.5,-12.5 l 0,-25 c 0,-6.925 -5.575,-12.5 -12.5,-12.5 l -137.5,0 0,-50 25,0 c 13.85,0 25,-11.15 25,-25 l 0,-75 c 0,-13.85 -11.15,-25 -25,-25 l -75,0 z"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4219);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:36;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
   </g>
