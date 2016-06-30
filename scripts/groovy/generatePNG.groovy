@@ -16,7 +16,7 @@ switch (os) {
                 inkscape = '/Applications/Inkscape.app/Contents/Resources/bin/inkscape'
                 break
             default:
-                inkscape = 'C:/Program Files/inkscape/inkscape.exe'
+                inkscape = 'D:/Program Files/Inkscape/inkscape.exe'
         }
 println System.getProperty("os.name")
 
