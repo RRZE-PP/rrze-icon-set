@@ -1,7 +1,8 @@
 PowerShell ausführen
+https://github.com/flofreud/posh-gvm gvm installieren erneut??
 cd D:\Dokumente\Arbeit\RRZE\github\scripts\groovy
 groovy .\generatePNG.groovy D:\Dokumente\Arbeit\RRZE\github\bicons
 
 -f um alles komplett überschreiben
 ohne -f werden nur nicht vorhandene pngs generiert
-16x16 / 22x22 per Hand generieren (werden nicht angefasst)
+16x16 / 22x22 per Hand generieren (werden nicht angefasst)groovy
