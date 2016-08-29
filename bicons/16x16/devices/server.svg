@@ -99,8 +99,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="277.7954"
-     inkscape:cy="538.29481"
+     inkscape:cx="278.7954"
+     inkscape:cy="558.29481"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -187,43 +187,46 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:url(#linearGradient4364);fill-opacity:1;stroke:none"
-       d="m 240,347.3622 c -13.85,0 -25,11.15 -25,25 l 0,50 c 0,13.85 11.15,25 25,25 l 0,25 c -13.85,0 -25,11.15 -25,25 l 0,50 c 0,13.85 11.15,25 25,25 l 0,25 c -13.85,0 -25,11.15 -25,25 l 0,50.00002 c 0,13.85 11.15,25 25,25 l 300,0 c 13.85,0 25,-11.15 25,-25 l 0,-50.00004 c 0,-13.85 -11.15,-25 -25,-25 l 0,-25 c 13.85,0 25,-11.15 25,-25 l 0,-50 c 0,-13.85 -11.15,-25 -25,-25 l 0,-25 c 13.85,0 25,-11.15 25,-25 l 0,-50 c 0,-13.85 -11.15,-25 -25,-25 l -12.5,0 -275,2e-5 z m 25,100 250,-2e-5 0,25 -250,2e-5 z m 0,125 250,-2e-5 0,25 -250,2e-5 z"
-       id="rect3505"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssccssccssssssccssccsssccscccccccccc" />
-    <rect
-       style="fill:none;stroke:none"
-       id="rect4366"
-       width="400"
-       height="400.00003"
-       x="190"
-       y="322.36221"
-       ry="25" />
-    <rect
-       style="fill:#ffffff;stroke:none"
-       id="rect4368"
-       width="50"
-       height="25.00001"
-       x="265"
-       y="397.36221"
-       ry="12.500005" />
-    <rect
-       ry="12.500005"
-       y="522.36218"
-       x="265"
-       height="25.00001"
-       width="50"
-       id="rect4370"
-       style="fill:#ffffff;stroke:none" />
-    <rect
-       style="fill:#ffffff;stroke:none"
-       id="rect4372"
-       width="50"
-       height="25.00001"
-       x="265"
-       y="647.36218"
-       ry="12.500005" />
+    <g
+       id="g4179">
+      <path
+         sodipodi:nodetypes="sssccssccssssssccssccsssccscccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3505"
+         d="m 240,347.3622 c -13.85,0 -25,11.15 -25,25 l 0,50 c 0,13.85 11.15,25 25,25 l 0,25 c -13.85,0 -25,11.15 -25,25 l 0,50 c 0,13.85 11.15,25 25,25 l 0,25 c -13.85,0 -25,11.15 -25,25 l 0,50.00002 c 0,13.85 11.15,25 25,25 l 300,0 c 13.85,0 25,-11.15 25,-25 l 0,-50.00004 c 0,-13.85 -11.15,-25 -25,-25 l 0,-25 c 13.85,0 25,-11.15 25,-25 l 0,-50 c 0,-13.85 -11.15,-25 -25,-25 l 0,-25 c 13.85,0 25,-11.15 25,-25 l 0,-50 c 0,-13.85 -11.15,-25 -25,-25 l -12.5,0 -275,2e-5 z m 25,100 250,-2e-5 0,25 -250,2e-5 z m 0,125 250,-2e-5 0,25 -250,2e-5 z"
+         style="fill:url(#linearGradient4364);fill-opacity:1;stroke:none" />
+      <rect
+         ry="25"
+         y="322.36221"
+         x="190"
+         height="400.00003"
+         width="400"
+         id="rect4366"
+         style="fill:none;stroke:none" />
+      <rect
+         ry="12.500005"
+         y="397.36221"
+         x="265"
+         height="25.00001"
+         width="50"
+         id="rect4368"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         style="fill:#ffffff;stroke:none"
+         id="rect4370"
+         width="50"
+         height="25.00001"
+         x="265"
+         y="522.36218"
+         ry="12.500005" />
+      <rect
+         ry="12.500005"
+         y="647.36218"
+         x="265"
+         height="25.00001"
+         width="50"
+         id="rect4372"
+         style="fill:#ffffff;stroke:none" />
+    </g>
   </g>
 </svg>

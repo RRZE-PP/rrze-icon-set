@@ -25,18 +25,6 @@
   <defs
      id="defs4219">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4221">
-      <stop
-         style="stop-color:#4e505d;stop-opacity:1;"
-         offset="0"
-         id="stop4223" />
-      <stop
-         style="stop-color:#7a859c;stop-opacity:1"
-         offset="1"
-         id="stop4225" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient4321"
        inkscape:collect="always">
       <stop
@@ -149,15 +137,6 @@
          offset="1"
          id="stop3893" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4221"
-       id="linearGradient4227"
-       x1="145.44"
-       y1="932.74103"
-       x2="254.52"
-       y2="788.47192"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -167,8 +146,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="166.78201"
-     inkscape:cy="216.01111"
+     inkscape:cx="162.85789"
+     inkscape:cy="176.84573"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -178,7 +157,7 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1600"
      inkscape:window-height="837"
@@ -191,8 +170,8 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="false"
      inkscape:showpageshadow="false"
-     inkscape:snap-global="true"
-     inkscape:snap-nodes="true">
+     inkscape:snap-global="false"
+     inkscape:snap-nodes="false">
     <sodipodi:guide
        position="0,411.37501"
        orientation="1,0"
@@ -244,7 +223,7 @@
        orientation="1,0"
        id="guide4789"
        inkscape:label=""
-       inkscape:color="rgb(0,255,54)" />
+       inkscape:color="rgb(255,2,0)" />
     <sodipodi:guide
        position="218.16,410.73144"
        orientation="1,0"
@@ -330,7 +309,7 @@
        orientation="0,1"
        id="guide4835"
        inkscape:label=""
-       inkscape:color="rgb(0,255,92)" />
+       inkscape:color="rgb(255,11,0)" />
     <sodipodi:guide
        position="409.04996,181.8401"
        orientation="0,1"
@@ -383,6 +362,10 @@
        position="419.4288,90.943193"
        orientation="0,1"
        id="guide4339" />
+    <sodipodi:guide
+       position="236.34,36.400158"
+       orientation="0,1"
+       id="guide4654" />
   </sodipodi:namedview>
   <metadata
      id="metadata4222">
@@ -440,43 +423,5 @@ Hendrik Eggers</dc:title>
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-652.36214)">
-    <g
-       id="g4231">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4204"
-         d="m 22.036278,772.44222 c -7.399224,0 -13.35659,5.00506 -13.35659,11.22148 l 0,137.85758 c 0,6.21643 5.957366,11.21977 13.35659,11.21977 l 354.888482,0 c 7.39922,0 13.35454,-5.00334 13.35454,-11.21977 l 0,-137.85758 c 0,-6.21642 -5.95532,-11.22148 -13.35454,-11.22148 l -354.888482,0 z m 19.079674,16.02971 316.727078,0 c 7.39923,0 13.3566,5.00506 13.3566,11.22148 l 0,105.79816 c 0,6.21643 -5.95737,11.21977 -13.3566,11.21977 l -316.727078,0 c -7.399225,0 -13.356592,-5.00334 -13.356592,-11.21977 l 0,-105.79816 c 0,-6.21642 5.957367,-11.22148 13.356592,-11.22148 z"
-         style="opacity:1;fill:url(#linearGradient4227);fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="32.117348"
-         rx="32.117355"
-         cy="852.69562"
-         cx="82.657364"
-         id="path4215"
-         style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="32.294125"
-         rx="32.29414"
-         cy="852.16522"
-         cx="200.15677"
-         id="path4217"
-         style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="32.117348"
-         rx="32.117359"
-         cy="852.34204"
-         cx="317.30261"
-         id="path4219"
-         style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         ry="12.726"
-         y="652.36212"
-         x="0"
-         height="400"
-         width="400.00146"
-         id="rect4229"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-  </g>
+     transform="translate(0,-652.36214)" />
 </svg>
