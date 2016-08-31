@@ -8,6 +8,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="400"
@@ -281,6 +282,28 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-1" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4167">
+      <stop
+         style="stop-color:#4e505d;stop-opacity:1;"
+         offset="0"
+         id="stop4169" />
+      <stop
+         style="stop-color:#7a8597;stop-opacity:1"
+         offset="1"
+         id="stop4171" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4167"
+       id="linearGradient4182"
+       x1="367"
+       y1="585.36218"
+       x2="426"
+       y2="450.36221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.875,0,0,0.875,47.75,66.295273)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -290,8 +313,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="216.20168"
-     inkscape:cy="166.92446"
+     inkscape:cx="60.000001"
+     inkscape:cy="235.88261"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -308,7 +331,7 @@
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:showpageshadow="false"
      inkscape:snap-others="false"
      inkscape:object-paths="true"
@@ -347,7 +370,7 @@
        inkscape:label=""
        inkscape:color="rgb(255,0,171)" />
     <sodipodi:guide
-       position="225,405.43736"
+       position="225,140.5"
        orientation="1,0"
        id="guide4813" />
     <sodipodi:guide

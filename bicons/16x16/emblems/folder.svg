@@ -97,15 +97,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="255.71161"
-     inkscape:cy="510.10289"
+     inkscape:cx="281.71161"
+     inkscape:cy="595.10289"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1">
@@ -175,40 +175,43 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4227">
-      <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#252525;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4169"
-         xml:space="preserve"
-         transform="translate(-0.14485,0.09216)"><flowRegion
-           id="flowRegion4171"><rect
-             y="427.07962"
-             x="89.541069"
-             height="88.78862"
-             width="56.433445"
-             id="rect4173" /></flowRegion><flowPara
-           id="flowPara4175" /></flowRoot>      <rect
-         inkscape:export-ydpi="4.9499998"
-         inkscape:export-xdpi="4.9499998"
-         y="322.36221"
-         x="189"
-         height="400"
-         width="400"
-         id="rect3336"
-         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="g4184">
       <g
-         id="g4208">
-        <path
-           style="opacity:1;fill:url(#linearGradient4203);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 227.8781,448.3552 c -7.75599,0 -14.0143,6.49003 -14.0143,14.24989 l 0,36.41813 0,-32.19511 0,162.28575 c 0,11.63978 9.36601,21.01046 21,21.01046 l 308.00001,0 c 11.63397,0 20.99999,-9.37068 20.99999,-21.01046 l 0,-160.09064 c 0,-11.63978 -9.36602,-21.01046 -20.99999,-21.01046 z"
-           id="rect4182"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="csccssssscc" />
-        <path
-           style="fill:#99b000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 214.21627,423.0137 175.13729,0 -29.23326,-50.57142 -116.64432,0 z"
-           id="path4215"
-           inkscape:connector-curvature="0" />
+         id="g4227">
+        <flowRoot
+           transform="translate(-0.14485,0.09216)"
+           xml:space="preserve"
+           id="flowRoot4169"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#252525;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+             id="flowRegion4171"><rect
+               id="rect4173"
+               width="56.433445"
+               height="88.78862"
+               x="89.541069"
+               y="427.07962" /></flowRegion><flowPara
+             id="flowPara4175" /></flowRoot>        <rect
+           style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect3336"
+           width="400"
+           height="400"
+           x="189"
+           y="322.36221"
+           inkscape:export-xdpi="4.9499998"
+           inkscape:export-ydpi="4.9499998" />
+        <g
+           id="g4208">
+          <path
+             sodipodi:nodetypes="csccssssscc"
+             inkscape:connector-curvature="0"
+             id="rect4182"
+             d="m 227.8781,448.3552 c -7.75599,0 -14.0143,6.49003 -14.0143,14.24989 l 0,36.41813 0,-32.19511 0,162.28575 c 0,11.63978 9.36601,21.01046 21,21.01046 l 308.00001,0 c 11.63397,0 20.99999,-9.37068 20.99999,-21.01046 l 0,-160.09064 c 0,-11.63978 -9.36602,-21.01046 -20.99999,-21.01046 z"
+             style="opacity:1;fill:url(#linearGradient4203);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4215"
+             d="m 214.21627,423.0137 175.13729,0 -29.23326,-50.57142 -116.64432,0 z"
+             style="fill:#99b000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
       </g>
     </g>
   </g>
