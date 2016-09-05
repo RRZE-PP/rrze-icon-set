@@ -68,16 +68,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="298.53739"
-     inkscape:cy="375.85584"
+     inkscape:zoom="1"
+     inkscape:cx="430.13586"
+     inkscape:cy="428.07343"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -102,6 +102,14 @@
        position="589.04521,378.30213"
        orientation="1,0"
        id="guide3411" />
+    <sodipodi:guide
+       position="389,824.00002"
+       orientation="1,0"
+       id="guide4159" />
+    <sodipodi:guide
+       position="99.000001,530.00001"
+       orientation="0,1"
+       id="guide4161" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -141,31 +149,27 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       transform="translate(189.04374,-329.91089)"
-       id="g4239">
-      <g
-         id="g4216">
-        <rect
-           style="color:#252525;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#252525;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-           id="rect4162"
-           width="399.93808"
-           height="400"
-           x="0.063395001"
-           y="652.36212" />
-        <ellipse
-           style="opacity:1;fill:#d9463a;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path4173"
-           cx="199.98"
-           cy="852.34204"
-           rx="181.79999"
-           ry="181.79993" />
-      </g>
+       id="g4163">
       <rect
-         ry="18.179996"
-         y="779.62207"
-         x="127.26"
-         height="145.43994"
-         width="145.44"
+         y="322.45123"
+         x="189.10713"
+         height="400"
+         width="399.93808"
+         id="rect4162"
+         style="color:#252525;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#252525;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <ellipse
+         ry="186.8"
+         rx="186.80006"
+         cy="523.43109"
+         cx="388.0238"
+         id="path4173"
+         style="opacity:1;fill:#d9463a;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="21.679996"
+         y="435.71118"
+         x="302.30374"
+         height="173.43994"
+         width="173.44"
          id="rect4237"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:36;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>

@@ -323,6 +323,23 @@
          offset="1"
          style="stop-color:#F5E710" />
     </linearGradient>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-4" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4321"
+       id="linearGradient4180"
+       x1="367"
+       y1="585.36218"
+       x2="426"
+       y2="450.36221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.875,0,0,0.875,47.749993,66.295265)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -331,9 +348,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1525841"
-     inkscape:cx="234.76647"
-     inkscape:cy="177.68512"
+     inkscape:zoom="1"
+     inkscape:cx="16.81526"
+     inkscape:cy="199.6605"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -350,13 +367,13 @@
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:object-paths="true"
+     inkscape:object-paths="false"
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="false"
      inkscape:showpageshadow="false"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-nodes="false">
     <sodipodi:guide
        position="0,411.37501"
@@ -545,9 +562,11 @@
        orientation="0,1"
        id="guide4339" />
     <sodipodi:guide
-       position="463.15494,0"
+       position="409,0"
        orientation="0,1"
-       id="guide6128" />
+       id="guide6128"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
     <inkscape:grid
        type="xygrid"
        id="grid4298" />
