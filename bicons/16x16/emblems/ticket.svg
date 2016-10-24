@@ -70,24 +70,24 @@
        id="EMFhbasepattern-5" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4246"
-       id="linearGradient4252"
-       x1="134.75826"
-       y1="960.65167"
-       x2="366.84192"
-       y2="739.79791"
+       xlink:href="#linearGradient4167"
+       id="linearGradient4304"
+       x1="150"
+       y1="250"
+       x2="250"
+       y2="100.00003"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4246">
+       id="linearGradient4167">
       <stop
          style="stop-color:#4e505d;stop-opacity:1;"
          offset="0"
-         id="stop4248" />
+         id="stop4169" />
       <stop
-         style="stop-color:#7a859c;stop-opacity:1"
+         style="stop-color:#7a8597;stop-opacity:1"
          offset="1"
-         id="stop4250" />
+         id="stop4171" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -98,8 +98,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="116.85786"
-     inkscape:cy="340.55653"
+     inkscape:cx="50.85786"
+     inkscape:cy="458.55653"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -172,19 +172,20 @@
      id="layer1">
     <g
        transform="translate(190,-329.99998)"
-       id="g4254">
+       id="g4306">
       <rect
          y="652.36218"
-         x="-1.3311767e-009"
+         x="0"
          height="400"
          width="400"
          id="rect4160"
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
-         id="rect4149"
-         d="m 346.99031,727.87698 c -88.09997,21.31206 -144.11738,34.26465 -199.44146,47.00482 l 1.82143,9.07391 -6.65474,1.49709 -1.81421,-9.03938 c -31.30038,7.20614 -62.782134,14.4514 -100.035309,23.17853 -10.94145,2.5636 -17.801015,13.95475 -15.380196,25.54004 l 5.794479,27.73005 c 19.834093,-1.25136 37.589367,12.93378 41.897924,33.47147 l -33.273493,7.80536 8.05e-4,0.003 33.275484,-7.79577 c 4.2672,20.54088 -6.180782,41.32331 -24.656668,49.04572 l 5.364483,25.66744 c 2.42115,11.58521 13.177521,18.8488 24.119035,16.28555 39.543586,-9.31478 69.487466,-16.33823 98.581216,-23.15256 l -2.74964,-13.69027 6.65655,-1.49751 2.73542,13.63121 c 52.25861,-12.2356 103.17314,-24.11138 200.90257,-47.00629 10.94144,-2.56357 17.80101,-13.95473 15.38018,-25.54001 l -5.57488,-26.67671 c -19.52238,0.77496 -36.77881,-13.33152 -41.01039,-33.52598 -4.20819,-20.19907 5.8166,-40.69729 23.82493,-48.71447 l -5.64267,-27.01096 c -2.42113,-11.58517 -13.17936,-18.84834 -24.12085,-16.2851 z m -201.44616,71.6722 6.65613,-1.49943 2.83043,14.09596 -6.65655,1.49752 -2.83001,-14.09405 z m 5.65861,28.19043 6.65654,-1.49752 2.83004,14.09405 -6.65655,1.4975 -2.83003,-14.09403 z m 5.65863,28.19042 6.65653,-1.49752 2.83043,14.09596 -6.65655,1.49752 -2.83041,-14.09596 z m 5.66043,28.19 6.65471,-1.49708 2.83045,14.09596 -6.65654,1.49751 -2.82862,-14.09639 z m 5.65902,28.19235 6.65653,-1.49751 2.82822,14.09446 -6.65655,1.49753 -2.8282,-14.09448 z"
-         style="color:#252525;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#252525;solid-opacity:1;fill:url(#linearGradient4252);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         id="rect4265"
+         transform="translate(0,652.36216)"
+         d="m 25,100 0,25.14648 A 47.753048,62.5 0 0 1 27.246094,125 47.753048,62.5 0 0 1 75,187.5 47.753048,62.5 0 0 1 27.246094,250 47.753048,62.5 0 0 1 25,249.89648 L 25,275 l 100,0 0,-25 25,0 0,25 250,0 0,-24.39258 a 47.753048,62.5 0 0 1 -1.52148,0.0996 47.753048,62.5 0 0 1 -47.75391,-62.5 47.753048,62.5 0 0 1 47.75391,-62.5 47.753048,62.5 0 0 1 1.52148,0.0703 L 400,100 l -250,0 0,25 -25,0 0,-25 -100,0 z m 100,50 25,0 0,25 -25,0 0,-25 z m 0,50 25,0 0,25 -25,0 0,-25 z"
+         style="opacity:1;fill:url(#linearGradient4304);fill-opacity:1;stroke:none;stroke-width:36;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.80000019;stroke-opacity:1" />
     </g>
   </g>
 </svg>

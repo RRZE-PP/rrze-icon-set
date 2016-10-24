@@ -77,7 +77,7 @@
        x2="250"
        y2="50.000019"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(190,322.89367)" />
+       gradientTransform="translate(0,-3e-5)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4439">
@@ -99,8 +99,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7071068"
-     inkscape:cx="452.69328"
-     inkscape:cy="520.07791"
+     inkscape:cx="326.82828"
+     inkscape:cy="562.50432"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -171,20 +171,27 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4176">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4413"
-         d="m 340,322.89367 c -41.55,0 -75,33.45 -75,75 l 0,50 c 0,22.30185 9.64628,42.25996 25,55.97461 l 0,-30.97461 c 0,-27.58276 15.05584,-52.05057 37.51758,-64.99414 A 25.0025,25.0025 0 0 1 340,404.58703 l 0,-6.69336 c 0,-27.26757 22.73243,-50 50,-50 27.26757,0 50,22.73243 50,50 l 0,6.68945 a 25.0025,25.0025 0 0 1 12.48242,3.31641 C 474.94416,420.8431 490,445.31091 490,472.89367 l 0,30.97461 c 15.35372,-13.71465 25,-33.67276 25,-55.97461 l 0,-50 c 0,-41.55 -33.45,-75 -75,-75 l -100,0 z m 50,50 c -13.85,0 -25,11.15 -25,25 l 0,75 c 0,13.85 11.15,25 25,25 13.85,0 25,-11.15 25,-25 l 0,-75 c 0,-13.85 -11.15,-25 -25,-25 z m -50,56.66602 c -14.96193,8.62181 -25,24.75711 -25,43.33398 l 0,200 c 0,27.69999 22.30001,50 50,50 l 50,0 c 27.69999,0 50,-22.30001 50,-50 l 0,-200 c 0,-18.57687 -10.03807,-34.71217 -25,-43.33398 l 0,43.33398 c 0,27.26757 -22.73243,50 -50,50 -27.26757,0 -50,-22.73243 -50,-50 l 0,-43.33398 z m 50,168.33398 c 27.7,0 50,22.3 50,50 0,27.7 -22.3,50 -50,50 -27.7,0 -50,-22.3 -50,-50 0,-27.7 22.3,-50 50,-50 z"
-         style="opacity:1;fill:url(#linearGradient4445);fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         ry="50"
-         y="322.36221"
-         x="190"
-         height="400.53149"
-         width="400"
-         id="rect4447"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="g4190"
+       transform="translate(-1.7371546,-7.8894684)">
+      <g
+         id="g4268"
+         transform="translate(191.73715,-321.57902)">
+        <path
+           style="opacity:1;fill:url(#linearGradient4445);fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 150,0 C 108.45,0 75,33.45 75,75 l 0,50 c 0,22.30185 9.64628,42.25996 25,55.97461 l 0,-55.97458 c 0,-27.582764 15.05584,-52.050575 37.51758,-64.994145 3.79892,-2.17824 8.10332,-3.32051 12.48242,-3.3125 l 0,-6.693359 C 150,25.000019 183.33903,25.001107 200,25 c 10.77918,-7.16e-4 50,1.9e-5 50,25.000026 l 0,6.689453 c 4.37945,-0.007 8.68387,1.136796 12.48242,3.316406 C 284.94416,72.949455 300,97.417266 300,125.00003 l 0,55.97458 C 315.35372,167.25996 325,147.30185 325,125 l 0,-50 C 325,33.45 291.55,0 250,0 Z m 50,50 c -13.85,0 -25,11.15 -25,25 l 0,50.00003 c 0,13.85 11.15,25 25,25 13.85,0 25,-11.15 25,-25 L 225,75 C 225,61.15 213.85,50 200,50 Z m -50,31.666046 c -14.96193,8.62181 -25,24.757114 -25,43.333984 L 125,350 c 0,27.7 22.30001,50 50,50 l 50,0 c 27.69999,0 50,-22.3 50,-50 l 0,-224.99997 c 0,-18.57687 -10.03807,-34.712174 -25,-43.333984 l 0,43.333984 c 0,27.26757 -22.73243,50 -50,50 -27.26757,0 -50,-22.73243 -50,-50 z M 200,325 c 13.80712,0 25,11.19288 25,25 0,13.80712 -11.19288,25 -25,25 -13.80712,0 -25,-11.19288 -25,-25 0,-13.80712 11.19288,-25 25,-25 z"
+           transform="translate(0,652.36216)"
+           id="rect4413"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssscsccsssccscssssssssssscsssssscssscsssss" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4447"
+           width="400"
+           height="400.53149"
+           x="0"
+           y="651.83069"
+           ry="50" />
+      </g>
     </g>
   </g>
 </svg>
