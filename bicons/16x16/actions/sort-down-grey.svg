@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -22,18 +21,6 @@
    inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\github3\bicons\16x16\actions\sort-down-grey.png">
   <defs
      id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4171">
-      <stop
-         style="stop-color:#4e505d;stop-opacity:1;"
-         offset="0"
-         id="stop4173" />
-      <stop
-         style="stop-color:#7a859c;stop-opacity:1"
-         offset="1"
-         id="stop4175" />
-    </linearGradient>
     <linearGradient
        id="linearGradient2224">
       <stop
@@ -78,15 +65,6 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-5" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4171"
-       id="linearGradient4177"
-       x1="-200"
-       y1="722.18365"
-       x2="-46"
-       y2="580.36218"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -95,16 +73,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="268.30487"
-     inkscape:cy="453.89685"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-181.76004"
+     inkscape:cy="424.05195"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1">
@@ -202,7 +180,7 @@
          inkscape:connector-curvature="0"
          id="path4237-8"
          d="m -117.34203,756.13138 c 3.42512,0 7.27617,-1.85188 11.41639,-6.33829 L 54.03369,576.56105 c 4.56682,-4.22519 4.56796,-21.12533 -13.69931,-21.12533 l -315.11134,0 c -18.26727,0 -22.83291,12.67495 -13.6993,21.12533 l 159.71785,173.23204 c 4.40594,4.52073 7.99125,6.33829 11.41638,6.33829 z"
-         style="fill:url(#linearGradient4177);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#7a859c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

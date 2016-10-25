@@ -16,10 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="3.6005573"
-   inkscape:export-ydpi="3.6005573"
+   inkscape:export-xdpi="3.6005571"
+   inkscape:export-ydpi="3.6005571"
    sodipodi:docname="filter.svg"
-   inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\github3\bicons\16x16\actions\filter.png">
+   inkscape:export-filename="D:\Dokumente\Arbeit\RRZE\github\bicons\16x16\actions\filter.png">
   <defs
      id="defs4">
     <linearGradient
@@ -166,18 +166,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="608.98442"
-     inkscape:cy="453.14562"
+     inkscape:cx="494.43312"
+     inkscape:cy="484.25832"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
     <sodipodi:guide
        position="315.53572,730.17859"
        orientation="0,1"
@@ -260,6 +262,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
+       transform="translate(-1.2467715,-1.2627)"
        id="g4274">
       <path
          inkscape:connector-curvature="0"
@@ -278,16 +281,16 @@
              width="56.433445"
              id="rect4173" /></flowRegion><flowPara
            id="flowPara4175" /></flowRoot>      <path
-         sodipodi:nodetypes="scccccsccccccs"
+         sodipodi:nodetypes="scccccscccccs"
          inkscape:connector-curvature="0"
          id="path4221"
-         d="m 390.64483,324.76384 c -96.648,-1.3e-4 -175.35026,34.84917 -175.34964,68.24301 l 1.5,15.47461 141.15234,127.87891 c 7.26458,7.56033 7.82326,9.33565 7.46289,18.27148 l 0.5,166.51651 c 0.0776,2.49776 2.42607,2.61114 3.51367,1.74219 l 40.96875,-32.73242 c 3.88473,-2.93705 6.64456,-5.6235 6.7793,-14.68555 l -0.51367,-119.55362 c -0.31468,-7.38831 0.71964,-10.18483 7.97851,-17.24219 l 140.6504,-130.19531 0,-15.47461 c 6.2e-4,-33.39384 -77.99454,-68.24314 -174.64255,-68.24301 z"
-         style="fill:url(#linearGradient4272);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+         d="m 390.64483,324.76384 c -96.648,-1.3e-4 -175.35026,34.84917 -175.34964,68.24301 l 1.5,15.47461 141.15234,127.87891 c 7.26458,7.56033 7.82326,9.33565 7.46289,18.27148 l 0.5,166.51651 c 0.0776,2.49776 2.56691,2.76277 3.51367,1.74219 l 45.8679,-49.4442 0,-120.89457 c -0.31468,-7.38831 2.08612,-6.81765 9.34499,-13.87501 l 140.6504,-130.19531 0,-15.47461 c 6.2e-4,-33.39384 -77.99454,-68.24314 -174.64255,-68.24301 z"
+         style="fill:url(#linearGradient4272);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="sssss"
          inkscape:connector-curvature="0"
          id="path4174"
-         d="m 542.0622,396.67849 c 0,23.16638 -67.52916,41.94643 -150.83058,41.94643 -83.30142,0 -150.83059,-18.78005 -150.83059,-41.94643 0,-23.16637 68.95176,-51.05357 152.25319,-51.05357 83.30142,0 149.40798,27.8872 149.40798,51.05357 z"
+         d="m 540.29199,398.44635 c 0,23.16638 -64.33635,50.00001 -147.63777,50.00001 -83.30142,0 -152.25319,-28.60149 -152.25319,-51.76787 0,-23.16637 68.95176,-48.23214 152.25319,-48.23214 83.30142,0 147.63777,26.83363 147.63777,50 z"
          style="color:#252525;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#252525;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
   </g>

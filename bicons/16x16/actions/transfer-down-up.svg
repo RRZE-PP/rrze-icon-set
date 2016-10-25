@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -61,50 +60,6 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4250"
-       id="linearGradient4471"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.66934731,0,0,-0.65550084,156.34925,980.94894)"
-       x1="325.69077"
-       y1="367.0564"
-       x2="475.43719"
-       y2="672.3363" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4250">
-      <stop
-         style="stop-color:#99b000;stop-opacity:1;"
-         offset="0"
-         id="stop4252" />
-      <stop
-         style="stop-color:#a9bc24;stop-opacity:1"
-         offset="1"
-         id="stop4254" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4530"
-       id="linearGradient4536"
-       x1="439.75"
-       y1="471.84393"
-       x2="514.875"
-       y2="672.32202"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,-1,110.06831,1086.6757)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4530">
-      <stop
-         style="stop-color:#4e505d;stop-opacity:1;"
-         offset="0"
-         id="stop4532" />
-      <stop
-         style="stop-color:#7a859c;stop-opacity:1"
-         offset="1"
-         id="stop4534" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -114,15 +69,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="318.4964"
+     inkscape:cx="-97.5036"
      inkscape:cy="481.83289"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1">
@@ -247,9 +202,9 @@
          inkscape:connector-curvature="0"
          id="path4237"
          d="m 586.95702,364.57708 c -2.19908,0 -4.39815,1.4236 -7.33025,4.27079 L 477.59298,474.54483 c -5.8642,5.69438 -2.93208,14.25838 8.79628,14.23595 l 38.26237,-0.0732 0.22676,111.24003 c 0.0161,7.8867 6.652,13.6941 14.77387,13.68545 l 97.17781,-0.10356 c 8.12186,-0.009 14.56334,-5.79869 14.54708,-13.68545 l -0.22677,-111.24003 37.55352,0.17678 c 11.72825,0.0552 11.72838,-11.38876 8.79628,-14.23595 L 594.28725,368.84787 c -2.9321,-2.84719 -5.13117,-4.27079 -7.33023,-4.27079 z"
-         style="fill:url(#linearGradient4536);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#99b000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         style="fill:url(#linearGradient4471);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#4e505d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 411.34328,764.45392 c -2.19908,0 -4.39815,-1.43573 -7.33025,-4.30717 L 302.22924,652.29954 c -5.8642,-5.74289 -2.93208,-14.37983 8.79628,-14.35721 l 38.26237,0.0738 -0.1482,-110.18752 c -0.0107,-7.95388 6.652,-13.81084 14.77387,-13.80201 l 96.11715,0.10444 c 8.12186,0.009 14.53647,5.84807 14.54708,13.80202 l 0.1482,111.06251 39.36418,-0.17829 c 11.72826,-0.0531 11.72838,11.48576 8.79628,14.35721 L 418.67351,760.14675 c -2.9321,2.87144 -5.13117,4.30717 -7.33023,4.30717 z"
          id="path4469"
          inkscape:connector-curvature="0"
