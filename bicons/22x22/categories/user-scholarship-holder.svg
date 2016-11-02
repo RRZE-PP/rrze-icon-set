@@ -75,7 +75,7 @@
        x2="375.74777"
        y2="664.98523"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1386133,0,0,1.1359509,-90.692207,-0.58099528)" />
+       gradientTransform="matrix(1.1386133,0,0,1.1359509,-58.692014,-52.362085)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4254">
@@ -106,23 +106,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="92.06178"
-     inkscape:cy="460.6767"
+     inkscape:zoom="1"
+     inkscape:cx="294.07584"
+     inkscape:cy="395.53849"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
     <sodipodi:guide
        position="315.53572,730.17859"
        orientation="0,1"
@@ -217,10 +221,10 @@
          id="rect3336"
          style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         inkscape:connector-curvature="0"
-         id="path2176"
-         d="m 301.26358,536.79089 c -48.59117,28.71764 -78.84764,88.00953 -78.84764,168.90039 0,17.3744 1.58895,34.2091 4.55273,50.2246 4.39616,9.8116 15.4428,17.0021 28.67773,17.9414 l 0,0.1094 55.29492,0 c -0.25426,0.2905 -0.50799,0.5592 -0.76172,0.793 l 143.29492,0 0,-0.1094 c 5.32343,-0.3778 10.28048,-1.781 14.60547,-3.9453 l -0.0605,-18.4746 c -4.16593,-0.543 -8.32845,-1.1505 -12.47656,-2.0196 a 18.0018,18.0018 0 0 1 -0.16016,-0.031 c -10.07053,-2.206 -20.09327,-5.4468 -30.04101,-9.6699 a 18.0018,18.0018 0 0 1 -10.9668,-16.5703 l 0,-22.91211 a 18.0018,18.0018 0 0 1 27.56641,-15.24609 c 7.46658,4.68492 14.78287,8.09778 21.99414,10.39648 1.3699,0.41573 2.77554,0.60817 4.15625,0.94727 l 0,-22.92774 c -13.74987,-3.47217 -25.33529,-8.55553 -34.65625,-16.49219 a 18.0018,18.0018 0 0 1 -0.0684,-0.0566 c -12.40864,-10.67143 -18.99219,-26.95836 -18.99219,-43.6875 0,-17.8446 6.97256,-35.00828 20.11914,-46.3457 1.84449,-1.59065 3.77835,-3.05908 5.78906,-4.41797 -9.35742,-10.3992 -19.82579,-19.16166 -31.18164,-26.10742 l -54.27539,-0.0566 -53.5625,-0.24219 z"
-         style="fill:url(#linearGradient4268);fill-opacity:1;stroke:none;stroke-width:41.15159225;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:url(#linearGradient4268);fill-opacity:1;stroke:none;stroke-width:41.15159225;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 333.26367 485.00977 C 284.6725 513.72741 254.41602 573.0193 254.41602 653.91016 C 254.41602 671.28456 256.00497 688.11927 258.96875 704.13477 C 263.36491 713.94637 274.41155 721.13687 287.64648 722.07617 L 287.64648 722.18555 L 342.94141 722.18555 C 342.68715 722.47605 342.43342 722.74472 342.17969 722.97852 L 485.47461 722.97852 L 485.47461 722.86914 C 488.09365 722.68327 490.62316 722.24649 493.0332 721.5957 L 446.375 721.5957 L 446.375 672.1582 L 446.375 649.24609 L 446.375 562.17969 C 446.375 544.33509 453.34756 527.1714 466.49414 515.83398 C 468.33863 514.24333 470.27249 512.77491 472.2832 511.41602 C 462.92578 501.01682 452.45741 492.25435 441.10156 485.30859 L 386.82617 485.25195 L 333.26367 485.00977 z "
+         transform="translate(-32.000193,51.78109)"
+         id="path2176" />
       <path
          id="circle2187-6"
          d="m 324.70591,391.96481 a 18.0018,18.0018 0 0 1 -6.11914,13.72461 c -1.70558,1.4927 -3.24208,3.13888 -4.73634,4.81445 l 82.22853,0 c -1.49458,-1.68073 -3.03141,-3.33066 -4.7383,-4.82812 a 18.0018,18.0018 0 0 1 -6.1035,-13.71094 l -60.53125,0 z m 103.26367,54.36133 a 18.0018,18.0018 0 0 1 -2.38086,0.17773 l -141.28515,0 a 18.0018,18.0018 0 0 1 -2.28907,-0.15039 72.979141,72.415733 0 0 0 -0.002,0.0273 72.979141,72.415733 0 0 0 72.98047,72.41602 72.979141,72.415733 0 0 0 72.97851,-72.41602 72.979141,72.415733 0 0 0 -0.002,-0.0547 z"
