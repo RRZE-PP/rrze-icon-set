@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -16,25 +15,16 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-xdpi="4.9499998"
-   inkscape:export-ydpi="4.9499998"
-   sodipodi:docname="attribute-employee.svg"
-   inkscape:export-filename="D:\Dokumente\Arbeit\RRZE\github\bicons\22x22\emblems\attribute-employee.png">
+   sodipodi:docname="undo.svg"
+   inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\bi-con\bi-con\scalable\documents\document.png"
+   inkscape:export-xdpi="4"
+   inkscape:export-ydpi="4">
+  <title
+     id="title4172">undo</title>
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient2224">
-      <stop
-         style="stop-color:#7c7c7c;stop-opacity:1;"
-         offset="0"
-         id="stop4233" />
-      <stop
-         style="stop-color:#b8b8b8;stop-opacity:1;"
-         offset="1"
-         id="stop4235" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4237">
       <stop
          id="stop2226"
          offset="0"
@@ -77,28 +67,6 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-5" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4321"
-       id="linearGradient4209"
-       x1="300"
-       y1="632.36218"
-       x2="470"
-       y2="452.36221"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.95421775,0,0,0.94768467,17.507562,26.751539)" />
-    <linearGradient
-       id="linearGradient4321"
-       inkscape:collect="always">
-      <stop
-         id="stop4323"
-         offset="0"
-         style="stop-color:#4e505d;stop-opacity:1;" />
-      <stop
-         id="stop4325"
-         offset="1"
-         style="stop-color:#7a8597;stop-opacity:1" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -107,9 +75,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.452911"
-     inkscape:cx="230.82973"
-     inkscape:cy="608.61532"
+     inkscape:zoom="1"
+     inkscape:cx="139.35139"
+     inkscape:cy="633.69153"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -120,37 +88,36 @@
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
+     inkscape:snap-global="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-nodes="false">
+     inkscape:bbox-nodes="true">
     <sodipodi:guide
-       position="315.53572,730.17859"
+       position="560,730.00002"
        orientation="0,1"
        id="guide3338" />
     <sodipodi:guide
-       position="351.25,330.17858"
+       position="560,330.00001"
        orientation="0,1"
        id="guide3340" />
     <sodipodi:guide
-       position="189.10714,408.8393"
+       position="190,475.00001"
        orientation="1,0"
        id="guide3344" />
+    <sodipodi:guide
+       position="590,451.00001"
+       orientation="1,0"
+       id="guide3346" />
     <inkscape:grid
        type="xygrid"
        id="grid3440" />
     <sodipodi:guide
-       position="0,0"
-       orientation="0,1"
-       id="guide3405" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,1"
-       id="guide3409" />
-    <sodipodi:guide
-       position="589.04521,378.30213"
+       position="215,442.00001"
        orientation="1,0"
-       id="guide3411" />
+       id="guide4155" />
+    <sodipodi:guide
+       position="564.97832,467.39759"
+       orientation="1,0"
+       id="guide4157" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -160,8 +127,8 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>attribute employee</dc:title>
-        <dc:date>June 2015</dc:date>
+        <dc:title>undo</dc:title>
+        <dc:date>Sep 2015</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Johannes Hechler</dc:title>
@@ -182,6 +149,13 @@
             <dc:title>Ute Weber, Hendrik Eggers</dc:title>
           </cc:Agent>
         </dc:contributor>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>undo</rdf:li>
+            <rdf:li>back</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -189,24 +163,20 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="opacity:1;fill:url(#linearGradient4209);fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 223.16992 340.19336 C 218.73466 340.09606 214.83914 341.78468 211.875 344.47656 C 208.06395 347.93754 205.79626 353.1536 205.9043 358.83203 L 208.56445 498.61719 C 208.63665 503.18035 214.73075 509.20409 219 513.47266 L 316.50391 610.30859 L 316.50391 576.88281 L 389.22461 576.88281 L 389.22461 558.52344 L 389.22461 540.34375 L 389.22461 522.34375 L 534.30469 522.34375 L 534.30469 558.52344 L 534.30469 576.88281 L 557.40039 576.88281 L 564.43945 569.89258 C 573.27377 561.11877 573.22838 547.03746 564.43945 538.21875 L 379.26172 352.41406 C 375.2758 348.45543 369.96105 343.51115 364.77344 343.29688 L 223.16992 340.19336 z M 252.67578 358.54297 A 27.269978 27.269978 0 0 1 279.94531 385.81445 A 27.269978 27.269978 0 0 1 252.67578 413.08398 A 27.269978 27.269978 0 0 1 225.4043 385.81445 A 27.269978 27.269978 0 0 1 252.67578 358.54297 z M 443.4043 576.52344 L 443.4043 576.88281 L 480.125 576.88281 L 480.125 576.52344 L 443.4043 576.52344 z M 352.50391 612.88281 L 352.50391 646.0625 L 404.17773 697.38281 C 407.87306 701.05287 412.51224 703.18152 417.30469 703.78125 L 422.83594 703.79492 C 427.6665 703.21382 432.34736 701.08027 436.07031 697.38281 L 521.15234 612.88281 L 516.125 612.88281 L 498.30469 612.88281 L 425.22461 612.88281 L 407.4043 612.88281 L 352.50391 612.88281 z "
-       id="rect4173" />
     <rect
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3336"
        width="400"
        height="400"
-       x="189.04521"
-       y="322.18362"
+       x="190"
+       y="322.36221"
        inkscape:export-xdpi="4.9499998"
        inkscape:export-ydpi="4.9499998" />
     <path
-       id="path4310"
-       d="m 407.22547,540.34383 0,18.17968 0,36.35938 -72.7207,0 0,126.70504 254.54044,0.5957 -0.0217,-127.3007 -72.71793,-4e-5 0,-36.35938 0,-18.17968 z m 18.17969,18.17968 72.7207,0 0,36.35938 -72.7207,0 z"
-       style="opacity:1;fill:#99b000;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#d9463a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235.24325,482.18092 c -5.35199,-5.41568 -5.35199,-7.91881 -0.16002,-13.17269 L 375.50869,325.1614 c 2.3282,-2.669 8.89975,-4.81583 8.89518,0.35763 l -0.0468,68.67738 c 0.12675,2.03567 0.9414,2.58346 2.39801,2.5718 15.62219,-0.12499 153.59045,8.83528 153.59045,157.51896 0,168.05016 -150.54062,167.98861 -150.54062,167.98861 -4.19397,-1.17061 -3.55562,-6.333 0,-7.04496 0,0 72.62755,-19.79901 72.62755,-82.17013 0,-78.77352 -74.52716,-78.54144 -74.52716,-78.54144 -2.38981,-0.16963 -3.34493,1.28532 -3.3818,3.32052 l 0.0769,66.93331 c -0.0769,3.03604 -3.85054,3.93868 -7.76564,-0.10344 z"
+       id="path4160"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccc" />
+       sodipodi:nodetypes="cccccssccsccccc" />
   </g>
 </svg>

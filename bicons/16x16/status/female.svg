@@ -19,23 +19,11 @@
    inkscape:export-xdpi="3.5999999"
    inkscape:export-ydpi="3.5999999"
    sodipodi:docname="female.svg"
-   inkscape:export-filename="C:\Users\johannes\Documents\Arbeit\RRZE\github3\bicons\16x16\status\female.png">
+   inkscape:export-filename="D:\Dokumente\Arbeit\RRZE\github\bicons\16x16\status\female.png">
   <title
      id="title4150">female</title>
   <defs
      id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4249">
-      <stop
-         style="stop-color:#4e505d;stop-opacity:1;"
-         offset="0"
-         id="stop4251" />
-      <stop
-         style="stop-color:#7a859c;stop-opacity:1"
-         offset="1"
-         id="stop4253" />
-    </linearGradient>
     <linearGradient
        id="linearGradient2224">
       <stop
@@ -95,7 +83,20 @@
        y1="722.36218"
        x2="496"
        y2="374.36221"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.04752,-1.1622578)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4249">
+      <stop
+         style="stop-color:#4e505d;stop-opacity:1;"
+         offset="0"
+         id="stop4251" />
+      <stop
+         style="stop-color:#7a859c;stop-opacity:1"
+         offset="1"
+         id="stop4253" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -105,18 +106,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-97.87847"
-     inkscape:cy="546.61508"
+     inkscape:cx="192.12153"
+     inkscape:cy="544.61508"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
     <sodipodi:guide
        position="560,730.00002"
        orientation="0,1"
@@ -175,6 +178,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
+       transform="translate(-4.5736043e-6,-9.9572396e-6)"
        id="g4261">
       <rect
          y="322.36221"
@@ -185,9 +189,11 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:23;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          style="fill:url(#linearGradient4255);fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="M 376.4626,323.95997 C 300.55146,323.95997 239,385.43667 239,461.273 c 0.0749,70.97448 54.29695,130.20798 125.04749,136.63993 l 0,50.55786 -24.53106,0 c -6.95513,0 -12.48956,5.53446 -12.48956,12.48889 l 0,0.0749 c 0,6.95544 5.53443,12.48991 12.48956,12.48991 l 24.53106,0 0,36.34779 c 0,6.88069 5.53443,12.48992 12.41511,12.48992 6.95545,0 12.48988,-5.60923 12.48988,-12.48992 l 0,-36.34779 24.45625,0 c 6.88065,0 12.41512,-5.53447 12.41512,-12.48991 l 0,-0.0749 c 0,-6.95443 -5.53447,-12.48889 -12.41512,-12.48889 l -24.45625,0 0,-50.4831 C 459.70263,591.55578 513.9252,532.24748 514,461.273 514,385.43667 452.44801,323.95997 376.4626,323.95997 Z m 0.0749,24.38128 c 62.1503,0 112.4828,50.4079 112.4828,112.63258 0,62.2251 -50.3325,112.70721 -112.4828,112.70721 -62.07511,0 -112.48302,-50.48211 -112.48302,-112.70721 0,-62.22468 50.40791,-112.63258 112.48302,-112.63258 z"
+         d="m 377.51012,322.79771 c -75.91114,0 -137.4626,61.4767 -137.4626,137.31303 0.0749,70.97448 54.29695,130.20798 125.04749,136.63993 l 0,50.55786 -37.60545,0 c -6.95513,0 -12.48956,5.53446 -12.48956,12.48889 l 0,0.0749 c 0,6.95544 5.53443,12.48991 12.48956,12.48991 l 37.60545,0 0,37.51014 c 0,6.88069 5.53443,12.48992 12.41511,12.48992 6.95545,0 12.48988,-5.60923 12.48988,-12.48992 l 0,-37.51014 37.58488,-0.2907 C 434.46532,672.01832 440,666.53706 440,659.58162 l 0,-0.0749 c 0,-6.95443 -5.53468,-12.5421 -12.41512,-12.48889 L 390,647.30853 l 0,-50.4831 c 70.75015,-6.43191 124.97272,-65.74021 125.04752,-136.71469 0,-75.83633 -61.55199,-137.31303 -137.5374,-137.31303 z m 0.0749,28.38128 c 62.1503,0 108.4828,46.4079 108.4828,108.63258 0,62.2251 -46.3325,108.70721 -108.4828,108.70721 -62.07511,0 -108.48302,-46.48211 -108.48302,-108.70721 0,-62.22468 46.40791,-108.63258 108.48302,-108.63258 z"
          id="path4230"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         transform="translate(0,2.2499996e-6)"
+         sodipodi:nodetypes="scccsssscssscsssscccssssss" />
       <path
          id="rect4238"
          d="m 190,322.36221 400,0 0,400 -400,0 z"

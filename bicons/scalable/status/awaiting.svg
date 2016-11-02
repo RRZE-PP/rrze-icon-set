@@ -118,9 +118,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="317.04272"
-     inkscape:cy="520.89282"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="419.06232"
+     inkscape:cy="557.4966"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -134,7 +134,11 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
     <sodipodi:guide
        position="315.53572,730.17859"
        orientation="0,1"
@@ -197,7 +201,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4185">
+       id="g4204">
       <flowRoot
          transform="translate(-0.05661457,3.6632938e-5)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#252525;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -215,9 +219,10 @@
          style="opacity:1;fill:url(#linearGradient4262);fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path4207"
-         d="m 386.24095,334.19535 c -53.43157,0.59533 -104.36001,24.29046 -139.63312,64.86241 l 142.9886,124.36 1.82362,-189.20822 c -1.72836,-0.0291 -3.45551,-0.0335 -5.1791,-0.0142 z"
+         d="m 386.24095,334.19535 c -80.93157,0.0953 -186.41845,58.91382 -185.19156,188.98577 l 188.54704,0.23664 1.82362,-189.20822 c -1.72836,-0.0291 -3.45551,-0.0335 -5.1791,-0.0142 z"
          style="opacity:1;fill:url(#linearGradient4239);fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          ry="26.713335"
@@ -227,29 +232,29 @@
          id="path4190"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
-         inkscape:transform-center-y="36.360959"
-         inkscape:transform-center-x="33.107852"
-         transform="matrix(-0.72731275,-0.68630617,-0.6861242,0.72748442,0,0)"
+         inkscape:transform-center-y="-49.169329"
+         inkscape:transform-center-x="0.79254686"
+         transform="matrix(0.99999859,0.00167685,0.00142669,-0.99999898,0,0)"
          rx="12.331441"
          ry="14.067162"
-         y="112.58968"
-         x="-653.08411"
+         y="-517.09833"
+         x="377.0134"
          height="94.497246"
          width="24.662882"
          id="rect4194"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
-         rx="12.202465"
-         transform="matrix(0.73554067,0.67748057,-0.67729686,0.73570984,0,0)"
+         rx="10.611468"
+         transform="matrix(0.99999996,-2.8922716e-4,5.3896791e-4,0.99999985,0,0)"
          ry="10.019711"
-         y="112.8152"
-         x="489.49005"
+         y="515.37177"
+         x="236.71773"
          height="20.039421"
          width="153.85107"
          id="rect4192"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:transform-center-x="63.927589"
-         inkscape:transform-center-y="-56.219916" />
+         inkscape:transform-center-x="75.295441"
+         inkscape:transform-center-y="0.63121218" />
       <path
          id="rect4209"
          d="m 205.35973,322.18362 367.43288,0 c 9.00394,0 16.2526,7.24866 16.2526,16.2526 l 0,367.4948 c 0,9.00394 -7.24866,16.2526 -16.2526,16.2526 l -367.43288,0 c -9.00394,0 -16.2526,-7.24866 -16.2526,-16.2526 l 0,-367.4948 c 0,-9.00394 7.24866,-16.2526 16.2526,-16.2526 z"
