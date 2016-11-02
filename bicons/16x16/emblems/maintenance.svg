@@ -17,12 +17,12 @@
    id="svg4201"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="raster_16.svg"
+   sodipodi:docname="maintenance.svg"
    inkscape:export-filename="C:\Users\T420\Desktop\notepad2.png"
    inkscape:export-xdpi="3.5999999"
    inkscape:export-ydpi="3.5999999">
   <title
-     id="title4292">photo camera</title>
+     id="title4263">maintenance</title>
   <defs
      id="defs4203">
     <inkscape:perspective
@@ -320,6 +320,16 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-51" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4167"
+       id="linearGradient4245"
+       x1="255"
+       y1="667.36218"
+       x2="513"
+       y2="415.36221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.93481988,0,0,0.93481988,-159.58431,365.38611)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -329,8 +339,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="251.81422"
-     inkscape:cy="230.31111"
+     inkscape:cx="132.38059"
+     inkscape:cy="222.59401"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -347,7 +357,7 @@
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:showpageshadow="false"
      inkscape:snap-others="false"
      inkscape:object-paths="true"
@@ -509,7 +519,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>photo camera</dc:title>
+        <dc:title>maintenance</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
         <dc:creator>
@@ -533,13 +543,9 @@
 Hendrik Eggers</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <dc:date>Sep 2016</dc:date>
+        <dc:date>Nov 2016</dc:date>
         <dc:subject>
-          <rdf:Bag>
-            <rdf:li>camera</rdf:li>
-            <rdf:li>photo</rdf:li>
-            <rdf:li>picture</rdf:li>
-          </rdf:Bag>
+          <rdf:Bag />
         </dc:subject>
       </cc:Work>
       <cc:License
@@ -564,43 +570,21 @@ Hendrik Eggers</dc:title>
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-652.36216)">
-    <g
-       id="g4264">
-      <rect
-         y="677.36218"
-         x="25"
-         height="174.99997"
-         width="174.99998"
-         id="rect4254"
-         style="opacity:1;fill:#99b000;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="877.36218"
-         x="75.000046"
-         height="125"
-         width="124.99995"
-         id="rect4256"
-         style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="877.36218"
-         x="225"
-         height="75"
-         width="74.999947"
-         id="rect4258"
-         style="opacity:1;fill:#99b000;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="677.36218"
-         x="225"
-         height="175"
-         width="175.00002"
-         id="rect4260"
-         style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="652.36218"
-         x="0"
-         height="400.00009"
-         width="400"
-         id="rect4262"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:35;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 0.06192,652.36216 399.93808,0 0,400.00004 -399.93808,0 z"
+       id="rect4208"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:url(#linearGradient4245);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 306.51146,677.15314 c -22.02064,-0.29175 -47.96476,3.32612 -60.43945,15.92383 -20.94203,21.24079 -23.38417,53.37877 -19.8379,84.21875 l -18.04296,18.11523 2.72656,2.50781 c 20.37514,-2.32669 40.57567,6.6129 54.26953,20.34375 l 11.03711,11.06641 1.89648,-1.87305 c 29.36001,2.49726 65.06414,3.73367 86.62696,-17.87695 16.05164,-15.1397 11.45391,-48.68427 11.45117,-81.03125 l -0.34375,0 -49.33399,49.78516 -50.12304,-0.55664 0.29297,-50.21289 49.89062,-49.00391 c -5.82411,-0.77867 -12.7301,-1.309 -20.07031,-1.40625 z M 217.6638,847.23712 c -1.05292,0.0703 -2.01018,0.34104 -2.87109,0.75586 a 25.0025,25.0025 0 0 1 -19,1.09766 25.0025,25.0025 0 0 1 -1.44531,17.63086 c -1.24669,2.61607 -0.10752,10.52065 5.95312,16.59765 l 10.5625,10.58985 29.79297,-29.4375 -10.87109,-10.90039 c -4.93393,-4.94726 -8.96232,-6.54475 -12.1211,-6.33399 z M 142.60716,861.2547 33.49974,970.79767 c -11.95192,11.99959 -8.69753,34.68943 3.10937,46.63673 11.80668,11.9471 34.02065,15.0304 46.06836,3.1269 l 92.61719,-91.50972 -10.39648,-10.42383 C 150.71054,904.40177 141.55076,883.91269 144.1638,862.93634 l -1.55664,-1.68164 z"
+       id="rect4183"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#99b000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.14618,701.46495 28.09639,80.96728 35.42931,-15.16117 82.1079,88.69406 c -6.97543,14.63742 -1.30514,32.85131 10.81901,45.00822 l 116.2964,116.61066 c 15.39269,15.4343 40.1781,15.4335 55.57149,0 l 9.31621,-9.3406 c 15.39352,-15.43368 15.3927,-40.28236 10e-6,-55.71665 L 247.48651,835.91611 C 235.34032,823.7371 218.55458,818.43034 203.94112,825.47165 L 114.0731,742.80609 135.17956,707.03108 48.43191,678.60661 Z"
+       id="rect4172"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccssssssccccc" />
   </g>
 </svg>

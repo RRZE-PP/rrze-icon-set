@@ -166,9 +166,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="282.53703"
-     inkscape:cy="83.754062"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="124.91171"
+     inkscape:cy="85.723259"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -178,7 +178,7 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1600"
      inkscape:window-height="837"
@@ -191,7 +191,7 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="false"
      inkscape:showpageshadow="false"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-nodes="true"
      inkscape:snap-others="false">
     <sodipodi:guide
@@ -429,7 +429,7 @@ Hendrik Eggers</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
         <dc:date>Oct 2016</dc:date>
-        <dc:source></dc:source>
+        <dc:source />
         <dc:subject>
           <rdf:Bag>
             <rdf:li>gnc</rdf:li>
@@ -487,12 +487,6 @@ Hendrik Eggers</dc:title>
        cy="953.69214"
        rx="98.670738"
        ry="98.669983" />
-    <path
-       sodipodi:nodetypes="ccccccccccssccccccccccssccccccsscccccscc"
-       inkscape:connector-curvature="0"
-       id="path4321"
-       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 306.93223,1032.6161 -12.71133,0 -0.0871,-26.2211 c -6.09793,-0.1161 -10.19587,-0.813 -16.2938,-2.0907 -6.09794,-1.3357 -12.22492,-3.3103 -18.38093,-5.92371 l 0,-15.68041 c 5.92371,3.71684 11.9055,6.53351 17.94536,8.45 6.09793,1.85842 10.3701,2.81667 16.81649,2.87474 l 0,-39.7237 c -12.83471,-2.09072 -20.18488,-5.63333 -26.05051,-10.62783 -5.80756,-4.9945 -8.71134,-11.84742 -8.71134,-20.55876 0,-9.46631 3.16512,-16.92902 9.49536,-22.38813 6.33024,-5.45911 13.41907,-8.59519 25.26649,-9.40825 l 0,-20.47164 12.71133,0 0,20.2103 c 5.40103,0.23231 8.62784,0.81306 13.68041,1.74227 5.05257,0.87113 9.989,2.09072 14.80927,3.65876 l 0,15.24484 c -4.82027,-2.43917 -9.78573,-4.32663 -14.89638,-5.66237 -5.05258,-1.33573 -8.25035,-2.11975 -13.5933,-2.35206 l 0,37.19741 c 13.18316,2.03265 20.88178,5.66237 27.09587,10.88917 6.21409,5.22681 9.32113,12.3701 9.32113,21.42989 0,9.81477 -3.31031,17.56787 -9.93092,23.25928 -6.56254,5.6333 -14.0579,8.8856 -26.48608,9.7567 l 0,26.3953 z m -12.71133,-93.29838 0,-35.71648 c -6.73677,0.75498 -9.87646,2.67147 -13.41907,5.74948 -3.54261,3.07801 -5.31392,7.17234 -5.31392,12.28299 0,4.9945 1.62612,8.88556 4.87835,11.67319 3.31031,2.78763 6.59519,4.79123 13.85464,6.01082 z m 12.71133,16.72577 0,37.72009 c 7.3756,-0.98729 10.92182,-3.07801 14.63866,-6.27216 3.77491,-3.19416 5.66237,-7.40464 5.66237,-12.63144 0,-5.11065 -1.80034,-9.17594 -5.40103,-12.19587 -3.54261,-3.01993 -7.17595,-5.22681 -14.9,-6.62062 z" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:35;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4308"
@@ -501,5 +495,17 @@ Hendrik Eggers</dc:title>
        x="0"
        y="652.36212"
        ry="13.793" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:212.02095032px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="225.70175"
+       y="1031.1079"
+       id="text4217"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4219"
+         x="225.70175"
+         y="1031.1079"
+         style="fill:#ffffff">€</tspan></text>
   </g>
 </svg>
