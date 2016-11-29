@@ -11,24 +11,22 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400"
-   height="400"
-   viewBox="0 0 400 400.00001"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg4201"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="raster_16.svg"
    inkscape:export-filename="C:\Users\T420\Desktop\notepad2.png"
-   inkscape:export-xdpi="3.5999999"
-   inkscape:export-ydpi="3.5999999">
-  <title
-     id="title4292">photo camera</title>
+   inkscape:export-xdpi="89.999992"
+   inkscape:export-ydpi="89.999992">
   <defs
      id="defs4203">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 200 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_y="0 : 999.99998 : 0"
        inkscape:vp_z="400 : 200 : 1"
        inkscape:persp3d-origin="200 : 133.33334 : 1"
        id="perspective4284" />
@@ -328,19 +326,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="251.81422"
-     inkscape:cy="230.31111"
+     inkscape:zoom="45.254834"
+     inkscape:cx="0.29522395"
+     inkscape:cy="7.4107778"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1600"
      inkscape:window-height="837"
@@ -354,7 +352,7 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="false">
     <sodipodi:guide
        position="25,292.74221"
        orientation="1,0"
@@ -495,7 +493,12 @@
        id="guide5050" />
     <inkscape:grid
        type="xygrid"
-       id="grid3517" />
+       id="grid3517"
+       empspacing="8"
+       color="#3f3fff"
+       opacity="0.27843137"
+       empcolor="#3f3fff"
+       empopacity="0.56078431" />
     <sodipodi:guide
        position="400,-7.8000002e-005"
        orientation="0,1"
@@ -509,7 +512,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>photo camera</dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
         <dc:creator>
@@ -533,13 +536,9 @@
 Hendrik Eggers</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <dc:date>Sep 2016</dc:date>
+        <dc:date />
         <dc:subject>
-          <rdf:Bag>
-            <rdf:li>camera</rdf:li>
-            <rdf:li>photo</rdf:li>
-            <rdf:li>picture</rdf:li>
-          </rdf:Bag>
+          <rdf:Bag />
         </dc:subject>
       </cc:Work>
       <cc:License
@@ -563,44 +562,5 @@ Hendrik Eggers</dc:title>
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-652.36216)">
-    <g
-       id="g4264">
-      <rect
-         y="677.36218"
-         x="25"
-         height="174.99997"
-         width="174.99998"
-         id="rect4254"
-         style="opacity:1;fill:#99b000;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="877.36218"
-         x="75.000046"
-         height="125"
-         width="124.99995"
-         id="rect4256"
-         style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="877.36218"
-         x="225"
-         height="75"
-         width="74.999947"
-         id="rect4258"
-         style="opacity:1;fill:#99b000;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="677.36218"
-         x="225"
-         height="175"
-         width="175.00002"
-         id="rect4260"
-         style="opacity:1;fill:#4e505d;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="652.36218"
-         x="0"
-         height="400.00009"
-         width="400"
-         id="rect4262"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-  </g>
+     transform="translate(0,-1036.3622)" />
 </svg>

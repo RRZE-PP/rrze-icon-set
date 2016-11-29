@@ -10,18 +10,18 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400"
-   height="400"
-   viewBox="0 0 400 400.00001"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000001"
    id="svg4217"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="22raster#.svg"
+   sodipodi:docname="rrze-directory.svg"
    inkscape:export-filename="C:\Users\johannes\Desktop\22raster#1.png"
    inkscape:export-xdpi="4.9499817"
    inkscape:export-ydpi="4.9499817">
   <title
-     id="title4264">raspberry pi logo</title>
+     id="title4414">rrze directory</title>
   <defs
      id="defs4219">
     <linearGradient
@@ -145,19 +145,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="186.22101"
-     inkscape:cy="52.885461"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="-6.9311614"
+     inkscape:cy="24.000957"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
+     inkscape:bbox-paths="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1600"
      inkscape:window-height="837"
@@ -170,8 +170,9 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="false"
      inkscape:showpageshadow="false"
-     inkscape:snap-global="false"
-     inkscape:snap-nodes="false">
+     inkscape:snap-global="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true">
     <sodipodi:guide
        position="0,411.37501"
        orientation="1,0"
@@ -366,6 +367,14 @@
        position="236.34,36.400158"
        orientation="0,1"
        id="guide4654" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4205"
+       empspacing="16"
+       color="#0000e4"
+       opacity="0.3372549"
+       empcolor="#e40099"
+       empopacity="0.50980392" />
   </sodipodi:namedview>
   <metadata
      id="metadata4222">
@@ -375,7 +384,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>raspberry pi logo</dc:title>
+        <dc:title>rrze directory</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Johannes Hechler</dc:title>
@@ -399,8 +408,8 @@ Hendrik Eggers</dc:title>
         </dc:contributor>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
-        <dc:date>Jan 2016</dc:date>
-        <dc:source>https://www.raspberrypi.org</dc:source>
+        <dc:date>Nov 2016</dc:date>
+        <dc:source />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc/3.0/">
@@ -423,5 +432,32 @@ Hendrik Eggers</dc:title>
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-652.36214)" />
+     transform="translate(0,-1020.3621)">
+    <path
+       style="opacity:1;fill:#7a859c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 12.5 5 C 12.223 5 12 5.223 12 5.5 L 12 13 L 21 13 L 21 5.5 C 21 5.223 20.777 5 20.5 5 L 12.5 5 z M 16 15 L 16 18 L 4.5 18 C 4.223 18 4 18.223 4 18.5 L 4 23 L 2 23 C 1.4459781 23 1 23.446 1 24 L 1 29 C 1 29.554 1.4459781 30 2 30 L 7 30 C 7.5540219 30 8 29.554 8 29 L 8 24 C 8 23.446 7.5540219 23 7 23 L 5 23 L 5 19 L 16 19 L 16 23 L 14 23 C 13.445978 23 13 23.446 13 24 L 13 29 C 13 29.554 13.445978 30 14 30 L 19 30 C 19.554022 30 20 29.554 20 29 L 20 24 C 20 23.446 19.554022 23 19 23 L 17 23 L 17 19 L 28 19 L 28 23 L 26 23 C 25.445978 23 25 23.446 25 24 L 25 29 C 25 29.554 25.445978 30 26 30 L 31 30 C 31.554022 30 32 29.554 32 29 L 32 24 C 32 23.446 31.554022 23 31 23 L 29 23 L 29 18.5 C 29 18.223 28.777 18 28.5 18 L 17 18 L 17 15 L 16 15 z "
+       transform="translate(0,1020.3621)"
+       id="rect4240" />
+    <rect
+       style="opacity:1;fill:#99b000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4395"
+       width="31"
+       height="11.000083"
+       x="1"
+       y="1023.3621"
+       ry="0.45833677" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4309"
+       width="32"
+       height="32"
+       x="0"
+       y="1020.3621"
+       ry="0.5" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 3.5,1024.3621 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,8 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-7.5 3.5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -4,0 z m 6,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,8 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-7.5 3.5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -4,0 z m 6,0 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 5.5,0 0,2.5 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-3 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 9,0 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -5,0 z m -7,3 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,2 c 0,0.277 0.223,0.5 0.5,0.5 l 2,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-2 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m 7,1 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -5,0 z m -9,1 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,3 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -5.5,0 0,-2.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 9,3 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -5,0 z"
+       id="rect4364"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

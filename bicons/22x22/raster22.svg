@@ -11,16 +11,18 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400"
-   height="400"
-   viewBox="0 0 400 400.00001"
+   width="22"
+   height="22"
+   viewBox="0 0 0 400.00001"
    id="svg4217"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="raster22.svg"
    inkscape:export-filename="C:\Users\T420\Desktop\22raster2.png"
-   inkscape:export-xdpi="4.949964"
-   inkscape:export-ydpi="4.949964">
+   inkscape:export-xdpi="90.000496"
+   inkscape:export-ydpi="90.000496">
+  <title
+     id="title4403">rrze directory</title>
   <defs
      id="defs4219">
     <linearGradient
@@ -369,19 +371,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="85.766282"
-     inkscape:cy="180.70553"
+     inkscape:zoom="22.627418"
+     inkscape:cx="19.725527"
+     inkscape:cy="4.6626808"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1600"
      inkscape:window-height="837"
@@ -394,8 +396,8 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="false"
      inkscape:showpageshadow="false"
-     inkscape:snap-global="true"
-     inkscape:snap-nodes="true">
+     inkscape:snap-global="false"
+     inkscape:snap-nodes="false">
     <sodipodi:guide
        position="0,411.37501"
        orientation="1,0"
@@ -590,7 +592,18 @@
        inkscape:color="rgb(0,0,255)" />
     <inkscape:grid
        type="xygrid"
-       id="grid4298" />
+       id="grid4298"
+       spacingx="1"
+       spacingy="1"
+       empspacing="11"
+       color="#3f3fff"
+       opacity="0.35294118"
+       empcolor="#003de1"
+       empopacity="0.57254902" />
+    <sodipodi:guide
+       position="18.18,410.73144"
+       orientation="1,0"
+       id="guide4247" />
   </sodipodi:namedview>
   <metadata
      id="metadata4222">
@@ -600,7 +613,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>rrze directory</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Johannes Hechler</dc:title>
@@ -624,6 +637,7 @@ Hendrik Eggers</dc:title>
         </dc:contributor>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
+        <dc:date>Nov 2016</dc:date>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc/3.0/">
@@ -646,5 +660,5 @@ Hendrik Eggers</dc:title>
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-652.36214)" />
+     transform="translate(0,-1030.3621)" />
 </svg>
