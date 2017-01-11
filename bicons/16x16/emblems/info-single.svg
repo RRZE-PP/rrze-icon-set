@@ -75,7 +75,7 @@
        x2="250"
        y2="50.000019"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(270,329.36218)" />
+       gradientTransform="matrix(0.04,0,0,0.04,-4744,1136)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4167">
@@ -97,8 +97,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="285.65603"
-     inkscape:cy="546.73816"
+     inkscape:cx="367.15603"
+     inkscape:cy="486.73816"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -170,13 +170,13 @@
      id="layer1">
     <g
        id="g4211"
-       transform="translate(-80.000001,-6.99998)">
+       transform="translate(-80.000005,-7.0007984)">
       <path
-         sodipodi:nodetypes="ssssssssssssssssss"
          inkscape:connector-curvature="0"
-         id="rect4303"
-         d="m 428.82326,329.36218 c -4.79025,0 -8.63624,3.85624 -8.64648,8.64648 L 420,420.71569 c -0.0102,4.79025 3.85623,8.64649 8.64648,8.64649 l 82.70704,0 c 4.79025,0 8.63624,-3.85624 8.64648,-8.64649 l 0.17678,-82.70703 c 0.0102,-4.79024 -3.85623,-8.64648 -8.64648,-8.64648 z m -0.17678,150 c -4.79025,0 -8.64905,3.85623 -8.64648,8.64648 l 0.125,232.70706 c 0.003,4.79025 3.85623,8.64648 8.64648,8.64648 l 82.70704,0 c 4.79025,0 8.64905,-3.85623 8.64648,-8.64648 L 520,488.00866 c -0.003,-4.79025 -3.85623,-8.64648 -8.64648,-8.64648 z"
-         style="opacity:1;fill:url(#linearGradient4314);fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.80000019;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient4314);fill-opacity:1;stroke:none;stroke-width:50;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.80000019;stroke-opacity:1"
+         d="m -4737.6465,1136 c -0.1916,0 -0.3453,0.1541 -0.3457,0.3457 l -0.01,3.3086 c -4e-4,0.1916 0.1541,0.3457 0.3457,0.3457 l 3.3086,0 c 0.1916,0 0.3453,-0.1541 0.3457,-0.3457 l 0.01,-3.3086 c 4e-4,-0.1916 -0.1541,-0.3457 -0.3457,-0.3457 l -3.3086,0 z m -2.3535,6 0,2 2.002,0 0,6 -2.0039,0 0,2 2.3516,0 3.3066,0 2.3418,0 0,-2 -1.9961,0 0,-7.6543 c -1e-4,-0.1916 -0.1541,-0.3457 -0.3457,-0.3457 l -1.6543,0 -1.6543,0 -2.3457,0 z"
+         transform="matrix(25,0,0,25,118870,-28070.637)"
+         id="rect4303" />
       <rect
          ry="8.6466703"
          y="329.36221"

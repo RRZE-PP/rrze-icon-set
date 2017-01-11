@@ -22,26 +22,26 @@
   <defs
      id="defs4">
     <linearGradient
-       gradientTransform="matrix(0.91963189,-0.15109497,0.15109497,0.91963189,-42.187005,96.040751)"
        inkscape:collect="always"
-       xlink:href="#linearGradient4158"
-       id="linearGradient4164"
-       x1="258.80109"
-       y1="664.86768"
-       x2="485.07526"
-       y2="410.30923"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient4214"
+       id="linearGradient4220"
+       x1="2"
+       y1="31"
+       x2="27"
+       y2="4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(12.5,0,0,12.5,189.10714,322.18363)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4158">
+       id="linearGradient4214">
       <stop
          style="stop-color:#4e505d;stop-opacity:1;"
          offset="0"
-         id="stop4160" />
+         id="stop4216" />
       <stop
-         style="stop-color:#7a8597;stop-opacity:1"
+         style="stop-color:#7a859c;stop-opacity:1"
          offset="1"
-         id="stop4162" />
+         id="stop4218" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -52,18 +52,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="507.56406"
-     inkscape:cy="476.26902"
+     inkscape:cx="303.06406"
+     inkscape:cy="485.26902"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
     <sodipodi:guide
        position="315.53572,730.17859"
        orientation="0,1"
@@ -162,19 +164,10 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3336"
-       width="400"
-       height="400"
-       x="189.14485"
-       y="322.27005"
-       inkscape:export-xdpi="4.9499998"
-       inkscape:export-ydpi="4.9499998" />
     <path
-       style="fill:url(#linearGradient4164);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 470.84279,329.7861 c -16.60606,-7.65033 -39.26273,-9.68856 -46.69962,-5.29707 -7.4369,4.39152 -22.84315,39.41284 -22.84315,39.41284 37.95264,0.49618 60.21233,10.93291 86.85022,38.62497 5.69177,-17.42406 13.59699,-36.43042 12.51613,-44.07682 -1.08088,-7.64641 -13.21751,-21.01356 -29.82358,-28.66392 z m -31.46725,59.3789 c -15.8147,-7.15563 -37.45242,-9.27035 -45.38855,-9.80471 -34.67515,80.03469 -70.70921,160.77077 -106.15226,240.91661 27.55677,23.65773 55.39784,35.92645 87.44366,38.65087 L 481.36073,418.19928 C 465.25136,404.22297 455.19024,396.32063 439.37554,389.165 Z M 281.82083,633.89036 c 4.67331,29.31447 8.34221,58.40678 15.70205,88.31546 25.47846,-14.93324 48.74413,-32.23148 71.79716,-49.757 -34.5837,1.02484 -62.8187,-14.24293 -87.49921,-38.55846 z"
-       id="path4234-6-1-3"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4220);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 501.60714,322.18363 -37.71975,37.45125 c 46.788,10.97625 72.94462,43.25125 87.5,87.5 l 37.71975,-37.45125 c -11.45975,-39.88375 -36.54575,-71.52 -87.5,-87.5 z m -62.57325,62.378 -224.92675,225.122 c 60.408,11.59375 76.30938,48.22125 87.5,87.5 l 224.92675,-225.122 c -10.01888,-44.6425 -39.46063,-73.58625 -87.5,-87.5 z m -249.92675,250.122 0,87.5 87.5,0 c -14.11375,-42.31375 -32.82875,-80.61 -87.5,-87.5 z"
+       id="path4205" />
   </g>
 </svg>
