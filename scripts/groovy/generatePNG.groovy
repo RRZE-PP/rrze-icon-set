@@ -105,3 +105,20 @@ scalablePath.eachDir () { categoryDirectory ->
 				}
 			}
 		}
+designDirectory.eachDir () { dimensionDirectory ->
+	def directoryName = dimensionDirectory.name
+	if (dimensionsWithOwnScalable.contains(directoryName)){
+		def dimArr = directoryName.split('x')
+		dimensionDirectory.eachFile { files ->
+			def names = (files.name.split("\\."))
+			def name = names.size() > 1 ? (names - names[-1]).join('.') : names[0]
+			def extension = names.size() > 1 ? names[-1] : names[0]
+			if (extension =="svg"){
+				scaledSVG = new File(designDirectory.getPath()+ File.separator + dimensionDirectory.getName() + File.separator + files.getName())
+				scaledPNG = new File(designDirectory.getPath()+ File.separator + dimensionDirectory.getName() + File.separator + name +".png")
+				generatePNGCmd(scaledSVG, scaledPNG, dimArr)
+			}
+		}
+		
+	}
+}
